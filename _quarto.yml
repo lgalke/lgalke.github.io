@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Lukas Galke"
+  twitter-card:
+    creator: "@LukasGalke"
+  open-graph: true
+  navbar:
+    logo: /images/2022-05-Lukas-Galke.jpg
+#    left:
+#      - href: index.qmd
+#        text: Home
+    right:
+      - icon: "twitter"
+        href: https://twitter.com/LukasGalke
+#      - icon: "github"
+#        href: https://github.com/lgalke
+#      - icon: "journals"
+#        href: https://scholar.google.de/citations?user=AHGGdYQAAAAJ&hl=en
+        
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
