@@ -1,2 +1,3 @@
 publish:
-	git commit -am "Update" && git push
+	git commit -am "Update"
+	git push
