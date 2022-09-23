@@ -5,7 +5,7 @@ title: "Hi there!"
 I'm a postdoc in the LEADS group led by [Limor
 Raviv](https://www.limorravivevolang.com) at the [Max Planck Institute for
 Psycholinguistics](https://mpi.nl).  I'm most passionate about natural language
-processing and continual learning methods. Right now, I'm focusing on how deep
+processing and continual learning. Right now, I'm focusing on how deep
 nets learn to communicate and how that relates to human language learning.
 
 I did my PhD on text and graph representation learning with [Ansgar
