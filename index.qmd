@@ -5,7 +5,7 @@ title: "Hi there!"
 <img width="256" height="256" resize=true src="images/2022-05-Lukas-Galke.jpg"></img>
 
 
-I'm a postdoc in the LEADS group led by [Limor
+I'm Lukas, a postdoc in the LEADS group led by [Limor
 Raviv](https://www.limorravivevolang.com) at the [Max Planck Institute for
 Psycholinguistics](https://mpi.nl).  I'm most passionate about natural language
 processing and continual learning. Right now, I'm focusing on how deep
