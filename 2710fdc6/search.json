@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there!",
+    "section": "",
+    "text": "I’m a postdoc in the LEADS group led by Limor Raviv at the Max Planck Institute for Psycholinguistics. I’m most passionate about natural language processing and continual learning methods. Right now, I’m focusing on how deep nets learn to communicate and how that relates to human language learning.\nI did my PhD on text and graph representation learning with Ansgar Scherp at Kiel University, where I also obtained my Master’s degree in Computer Science. I’ve worked on text classification, information retrieval, self-supervised text representation learning, multimodal autoencoders, and lifelong graph learning.\nBesides research, I enjoy surfing, vanlife, and other sorts of outdoor adventures. I also like playing chess, doing yoga, and making music. I choose vim over emacs and actively prevent myself from spending more time with vimscript than the result would save me."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Hi there!",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nGalke & Scherp: Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP, ACL 2022.\nVagliano, Galke, & Scherp: Recommendations for item set completion: on the semantics of item co-occurrence with data sparsity, input size, and input modalities, Information Retrieval 2022.\nGalke, Franke, Zielke, & Scherp: Lifelong learning of graph neural networks for open-world node classification, IJCNN 2021.\n\nTo see more of my publications, visit my Google Scholar profile or my DBLP profile."
+  },
+  {
+    "objectID": "index.html#current-project",
+    "href": "index.html#current-project",
+    "title": "Hi there!",
+    "section": "Current project",
+    "text": "Current project\nNeural networks are still far behind human capabilities in generalizing from few examples and continual learning. I want to fix that.\nMy current research investigates how neural network agents learn to communicate. Imagine you put some (artificial, of course) neural network agents into a game that can only be solved with communication. How do communication protocols emerge? How similar are those to emergent languages of humans in the same setting? What can we learn from humans to improve our models?\nThis relates very well to the field of emergent communication. My first baby-step into the field is a workshop paper that summarizes recent progress of the emergent communication field and contrasts it with linguistic phenomena in humans. Very recently, I co-organized a workshop on machine learning for language evolution research at the Joint Conference for Language Evolution."
+  },
+  {
+    "objectID": "index.html#past-projects",
+    "href": "index.html#past-projects",
+    "title": "Hi there!",
+    "section": "Past projects",
+    "text": "Past projects\n\nQ-AKTIV - Quantitative Analysis of the Dynamics of the Scientific, Economic, and Social Impact of Research Activities and Networks\nLinked Open Citation Database"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Hi there!",
+    "section": "Contact",
+    "text": "Contact\nI’m usually open to collaborate as long as it’s mildly related to what I’m doing. To get in touch, just drop me an e-mail via lukas.galke@mpi.nl. Other than that, feel free to follow and/or contact me on Twitter."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
