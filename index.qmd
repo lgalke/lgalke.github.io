@@ -2,7 +2,7 @@
 title: "Hi there!"
 ---
 
-<img class="img-fluid float-end" style="border-radius: 50%"  alt="A picture of myself" width="256" height="256" resize=true src="images/2022-05-Lukas-Galke.jpg"></img>
+<img class="img-fluid float-end" style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="images/2022-05-Lukas-Galke.jpg"></img>
 
 
 I'm Lukas, a postdoc in the LEADS group led by [Limor
