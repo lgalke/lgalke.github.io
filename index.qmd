@@ -25,9 +25,9 @@ vimscript than the result would save me.
 
 ## Selected publications
 
-- Galke & Scherp: [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://aclanthology.org/2022.acl-long.279/), ACL 2022.
-- Vagliano, Galke, & Scherp: [Recommendations for item set completion: on the semantics of item co-occurrence with data sparsity, input size, and input modalities](https://link.springer.com/article/10.1007/s10791-022-09408-9), *Information Retrieval* 2022.
-- Galke, Franke, Zielke, & Scherp: [Lifelong learning of graph neural networks for open-world node classification](https://ieeexplore.ieee.org/abstract/document/9533412), IJCNN 2021.
+- Galke & Scherp: **Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP**, in: 60th Meeting of the Association for Computational Linguistics, ACL, 2022. [[paper]](https://aclanthology.org/2022.acl-long.279/) [[code]](https://github.com/lgalke/text-clf-baselines)
+- Vagliano, Galke, & Scherp: **Recommendations for Item Set Completion: On the Semantics of Item Co-occurrence with Data Sparsity, Input Size, and Input Modalities**, *Information Retrieval*, Springer, 2022. [[paper]](https://link.springer.com/article/10.1007/s10791-022-09408-9) [[code]](https://github.com/lgalke/aae-recomennder)
+- Galke, Franke, Zielke, & Scherp: **Lifelong Learning of Graph Neural Networks for Open-World Node Classification**, in: International Joint Conference on Neural Networks, IEEE, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9533412) [[code]](https://github.com/lgalke/lifelong-learning)
 
 To see more of my publications, visit my [Google Scholar profile](https://scholar.google.de/citations?user=AHGGdYQAAAAJ&hl=en) or my [DBLP profile](https://dblp.org/pid/200/7830.html).
 
