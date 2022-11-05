@@ -8,7 +8,7 @@ website:
     creator: "@LukasGalke"
   open-graph: true
   navbar:
-    logo: /images/2678287104_unstable_alchemy__digital_art__logo.png
+    logo: images/logo.jpg
 #    left:
 #      - href: index.qmd
 #        text: Home
