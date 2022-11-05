@@ -8,17 +8,20 @@ website:
     creator: "@LukasGalke"
   open-graph: true
   navbar:
-    logo: /images/2022-05-Lukas-Galke.jpg
+    logo: /images/2678287104_unstable_alchemy__digital_art__logo.png
 #    left:
 #      - href: index.qmd
 #        text: Home
     right:
       - icon: "twitter"
         href: https://twitter.com/LukasGalke
-#      - icon: "github"
-#        href: https://github.com/lgalke
-#      - icon: "journals"
-#        href: https://scholar.google.de/citations?user=AHGGdYQAAAAJ&hl=en
+      - icon: "mastodon" 
+        href: https://sigmoid.social/@lpag
+      - icon: "github"
+        href: https://github.com/lgalke
+      - icon: "journals"
+        href: https://scholar.google.de/citations?user=AHGGdYQAAAAJ&hl=en
+      
         
 
 format:
