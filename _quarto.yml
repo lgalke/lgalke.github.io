@@ -9,9 +9,11 @@ website:
   open-graph: true
   navbar:
     logo: images/logo.jpg
-#    left:
-#      - href: index.qmd
-#        text: Home
+    left:
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
     right:
       - icon: "twitter"
         href: https://twitter.com/LukasGalke
