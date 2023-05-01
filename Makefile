@@ -4,6 +4,6 @@ preview:
 
 public:
 	quarto render
-	git commit -am "Update"
 	git add docs
+	git commit -am "Update"
 	git push
