@@ -2,6 +2,8 @@
 
 ## journal articles
 
+- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
+
 - [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). What makes a language easy to deep-learn?
 
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (in press). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002083). *Neural Networks*. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
