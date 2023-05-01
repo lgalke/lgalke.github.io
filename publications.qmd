@@ -4,7 +4,7 @@
 
 - [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). What makes a language easy to deep-learn?
 
-- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (in press). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. *Neural Networks*. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
+- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (in press). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002083). *Neural Networks*. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 
 - [j2] Iacopo Vagliano, Lukas Galke, Ansgar Scherp (2022). Recommendations for item set completion: on the semantics of item co-occurrence with data sparsity, input size, and input modalities. *Inf Retrieval J* 25, 269–305. [https://doi.org/10.1007/s10791-022-09408-9](https://doi.org/10.1007/s10791-022-09408-9)
 
@@ -12,17 +12,17 @@
 
 ## conference papers
 
-- [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. To appear in: *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+- [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. To appear in *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 - [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
-- [c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
+- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
 
 - [c8] Lukas Galke, Benedikt Franke, Tobias Zielke, Ansgar Scherp (2021). Lifelong Learning of Graph Neural Networks for Open-World Node Classication. In *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 - [c7] Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora. In: *INFORMATIK 2019*. GI.
 
-- [c6] Florian Mai, Lukas Galke, Ansgar Scherp (2019). CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model. In *International Conference on Learning Representations (ICLR)*. OpenReview.net.
+- [c6] Florian Mai, Lukas Galke, Ansgar Scherp (2019). [CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model](https://openreview.net/pdf?id=H1MgjoR9tQ). In *International Conference on Learning Representations (ICLR)*. OpenReview.net.
 
 - [c5] Ahmed Saleh, Tilman Beck, Lukas Galke, Ansgar Scherp (2018). Performance of Ad-Hoc Retrieval Models over Full-Text vs. Titles of Documents. In *International Conference on Asian Digital Libraries (ICADL)*.
 
