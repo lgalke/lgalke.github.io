@@ -56,7 +56,7 @@
 
 ## extended abstracts
 
-- [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [PhD thesis abstract].
+- [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [selected PhD thesis abstract]. *IEEE Intelligent Informatics Bulletin*, [22(1)](https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf), page 52.
 
 - [a1] Lukas Galke, Florian Mai, Ansgar Scherp (2019): What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function. INFORMATIK 2019. GI.
 
