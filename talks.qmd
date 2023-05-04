@@ -1,6 +1,6 @@
 # talks
 
-- [t21] Lukas Galke (2023, May 17). t.b.a. [upcoming talk]. KIK AI Coffee & Learning meeting, Amsterdam, The Netherlands.
+- [t21] Lukas Galke (2023, May 17). *t.b.a.* [upcoming talk]. KIK AI Coffee & Learning meeting, Amsterdam, The Netherlands.
 
 - [t20] Lukas Galke (2023, May 16). *What makes a language easy to deep learn* [upcoming talk]. Computational Linguistics Seminar, University of Amsterdam, The Netherlands.
 
