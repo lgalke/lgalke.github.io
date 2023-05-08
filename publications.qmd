@@ -14,7 +14,7 @@
 
 ## conference papers
 
-- [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. To appear in *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+- [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. In *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 - [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://10.1109/IJCNN55064.2022.9892144](https://10.1109/IJCNN55064.2022.9892144)
 
