@@ -2,9 +2,9 @@
 
 ## journal articles
 
-- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
+- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (submitted). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
 
-- [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). What makes a language easy to deep-learn?
+- [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
 
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (in press). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002083). *Neural Networks*. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 
@@ -16,9 +16,9 @@
 
 - [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. To appear in *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
-- [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+- [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://10.1109/IJCNN55064.2022.9892144](https://10.1109/IJCNN55064.2022.9892144)
 
-- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
+- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics. [https://10.18653/v1/2022.acl-long.279](https://10.18653/v1/2022.acl-long.279)
 
 - [c8] Lukas Galke, Benedikt Franke, Tobias Zielke, Ansgar Scherp (2021). Lifelong Learning of Graph Neural Networks for Open-World Node Classication. In *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
@@ -38,7 +38,8 @@
 
 ## workshop papers
 
-- [w8] Lukas Galke, Yoav Ram, Limor Raviv (2022). Emergent communication for understanding human language evolution: What's missing?. Emergent Communication workshop at *ICLR 2022*.
+- [w8] Lukas Galke, Yoav Ram, Limor Raviv (2022). Emergent communication for understanding human language evolution: What's missing?. Emergent Communication workshop at *The Tenth International Conference on Learning Representations (ICLR 2022)*.OpenReview.net. [https://openreview.net/forum?id=rqUGZQ-0XZ5](https://openreview.net/forum?id=rqUGZQ-0XZ5)
+
 
 - [w7] Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U Förstner, Klaus Tochtermann, Carsten Schultz (2021). COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics. In *2021 IEEE International Conference on Big Data (Big Data)*. IEEE.
 
@@ -54,7 +55,7 @@
 
 - [w1] Lukas Galke, Ahmed Saleh, Ansgar Scherp (2017). Word Embeddings for Practical Information Retrieval. In *INFORMATIK 2017*. Gesellschaft für Informatik, Bonn. (S. 2155-2167). [https://doi.org/10.18420/in2017_215](https://doi.org/10.18420/in2017_215)
 
-## extended abstracts
+## (extended) abstracts
 
 - [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [selected PhD thesis abstract]. *IEEE Intelligent Informatics Bulletin*, 22(1), 52. [https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf](https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf)
 
