@@ -22,7 +22,7 @@
 
 - [c8] Lukas Galke, Benedikt Franke, Tobias Zielke, Ansgar Scherp (2021). Lifelong Learning of Graph Neural Networks for Open-World Node Classication. In *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://doi.org/10.1109/IJCNN52387.2021.9533412](https://doi.org/10.1109/IJCNN52387.2021.9533412)
 
-- [c7] Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora. In: *INFORMATIK 2019*. GI. [https://doi.org/10.18420/inf2019_26](https://doi.org/10.18420/inf2019_26)
+- [c7] Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). [Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora](https://dl.gi.de/handle/20.500.12116/24973). In: *INFORMATIK 2019*. GI. [https://doi.org/10.18420/inf2019_26](https://doi.org/10.18420/inf2019_26)
 
 - [c6] Florian Mai, Lukas Galke, Ansgar Scherp (2019). [CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model](https://openreview.net/pdf?id=H1MgjoR9tQ). In *International Conference on Learning Representations (ICLR)*. OpenReview.net.
 
