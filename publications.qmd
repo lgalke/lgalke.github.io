@@ -6,23 +6,23 @@
 
 - [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
 
-- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (in press). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002083). *Neural Networks* 164, 156-176. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
+- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://authors.elsevier.com/a/1h1SX3BBjKnulZ). *Neural Networks* 164, 156-176. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 
 - [j2] Iacopo Vagliano, Lukas Galke, Ansgar Scherp (2022). Recommendations for item set completion: on the semantics of item co-occurrence with data sparsity, input size, and input modalities. *Inf Retrieval J* 25, 269–305. [https://doi.org/10.1007/s10791-022-09408-9](https://doi.org/10.1007/s10791-022-09408-9)
 
-- [j1] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement [translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16(1).
+- [j1] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement [translated: Early-detection of scientic convergence in university management]. [*Hochschulmanagement* 16(1)](https://www.universitaetsverlagwebler.de/_files/ugd/7bac3c_24fe9adc2e3740178ad5ba98f66d1931.pdf).
 
 ## conference papers
 
 - [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (in press). Open-World Lifelong Graph Learning. In *International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
-- [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://10.1109/IJCNN55064.2022.9892144](https://10.1109/IJCNN55064.2022.9892144)
+- [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://doi.org/10.1109/IJCNN55064.2022.9892144](https://10.1109/IJCNN55064.2022.9892144)
 
-- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics. [https://10.18653/v1/2022.acl-long.279](https://10.18653/v1/2022.acl-long.279)
+- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics. [https://doi.org/10.18653/v1/2022.acl-long.279](https://doi.org/10.18653/v1/2022.acl-long.279)
 
-- [c8] Lukas Galke, Benedikt Franke, Tobias Zielke, Ansgar Scherp (2021). Lifelong Learning of Graph Neural Networks for Open-World Node Classication. In *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+- [c8] Lukas Galke, Benedikt Franke, Tobias Zielke, Ansgar Scherp (2021). Lifelong Learning of Graph Neural Networks for Open-World Node Classication. In *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [https://doi.org/10.1109/IJCNN52387.2021.9533412](https://doi.org/10.1109/IJCNN52387.2021.9533412)
 
-- [c7] Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora. In: *INFORMATIK 2019*. GI.
+- [c7] Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora. In: *INFORMATIK 2019*. GI. [https://doi.org/10.18420/inf2019_26](https://doi.org/10.18420/inf2019_26)
 
 - [c6] Florian Mai, Lukas Galke, Ansgar Scherp (2019). [CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model](https://openreview.net/pdf?id=H1MgjoR9tQ). In *International Conference on Learning Representations (ICLR)*. OpenReview.net.
 
