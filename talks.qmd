@@ -26,7 +26,7 @@
 
 - [t9] Lukas Galke (2020, June 23). *Scaling Up Graph Neural Networks* [oral presentation], Graph Neural Network Reading Group, online.
 
-- [t8] Lukas Galke (2019, September 25). *Inductive Learning of Concept Representations from Library-Scale Corpora with Graph Convolution* [oral presentation], INFORMATIK 2019, Kassel, Germany.
+- [t8] Lukas Galke (2019, September 26). *Inductive Learning of Concept Representations from Library-Scale Corpora with Graph Convolution* [oral presentation], INFORMATIK 2019, Kassel, Germany.
 
 - [t7] Lukas Galke (2019, September 26). *What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function* [oral presentation]. INFORMATIK 2019, Kassel, Germany
 
