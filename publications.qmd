@@ -2,9 +2,11 @@
 
 ## journal articles
 
-- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (submitted). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
+- [j6] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (submitted). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
 
-- [j4] Lukas Galke, Yoav Ram, Limor Raviv (under review). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
+- [j5] Lukas Galke, Yoav Ram, Limor Raviv (under review). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
+
+- [j4] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad Förstner, Klaus Tochtermann, Carsten Schultz (in revision). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence.
 
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://authors.elsevier.com/a/1h1SX3BBjKnulZ). *Neural Networks* 164, 156-176. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 
