@@ -1,22 +1,24 @@
 # talks
 
-- [t21] Lukas Galke (2023, May 17). *Uncovering Patterns in Medical Literature through Lifelong Automated Categorization and Research Dynamics Analysis with Machine Learning* [upcoming talk]. KIK AI Coffee & Learning meeting, Amsterdam, The Netherlands.
+- [t22] Lukas Galke (2023, May 17). *Uncovering Patterns in Medical Literature through Lifelong Automated Categorization and Research Dynamics Analysis with Machine Learning* [invited talk]. KIK AI Coffee & Learning meeting, Amsterdam, The Netherlands.
 
-- [t20] Lukas Galke (2023, May 16). *What makes a language easy to deep learn?* [upcoming talk]. Computational Linguistics Seminar, University of Amsterdam, The Netherlands.
+- [t21] Lukas Galke (2023, May 16). *What makes a language easy to deep learn?* [invited talk]. Computational Linguistics Seminar, University of Amsterdam, The Netherlands.
 
-- [t19] Lukas Galke (2023, February 27). *What makes a language easy to deep learn?* [paper presentation]. Language Evolution and Emergence meeting, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
+- [t20] Lukas Galke (2023, February 27). *What makes a language easy to deep learn?* [paper presentation]. Language Evolution and Emergence meeting, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
 
-- [t18] Lukas Galke (2022, October 20). *Structure in Language Learning Systems* [informal talk]. TALEP Marseille, online.
+- [t19] Lukas Galke (2022, October 20). *Structure in Language Learning Systems* [informal talk]. TALEP Marseille, online.
 
-- [t17] Lukas Galke (2022, September 5). *Machine Learning for Language Evolution -- What's missing?* [workshop presentation]. Machine Learning and the Evolution of Language (ml4evolang) workshop at JCOLE'22, Japan/online.
+- [t18] Lukas Galke (2022, September 5). *Machine Learning for Language Evolution -- What's missing?* [oral presentation]. Machine Learning and the Evolution of Language (ml4evolang) workshop at JCOLE'22, Japan/online.
 
-- [t16] Lukas Galke (2022, August 28). *Representation Learning for Texts and Graphs* [viva]. Department of Computer Science, Kiel University, Germany.
+- [t17] Lukas Galke (2022, August 28). *Representation Learning for Texts and Graphs* [viva]. Department of Computer Science, Kiel University, Germany.
 
-- [t15] Lukas Galke (2022, August 18). *Language Technology* [workshop]. Regiodag 2022 Probusclubs Nijmegen e.o., Nijmegen, The Netherlands.
+- [t16] Lukas Galke (2022, August 18). *Language Technology* [workshop]. Regiodag 2022 Probusclubs Nijmegen e.o., Nijmegen, The Netherlands.
 
-- [t14] Lukas Galke (2022, July 19). *General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings* [oral presentation]. World Congress on Computational Intelligence, Padua, Italy.
+- [t15] Lukas Galke (2022, July 19). *General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings* [oral presentation]. World Congress on Computational Intelligence, Padua, Italy.
 
-- [t13] Lukas Galke (2022, June 1). *Emergent Communication for Understanding Human Language Evolution: What’s missing?* [poster presentation]. IMPRS conference, Nijmegen, The Netherlands.
+- [t14] Lukas Galke (2022, June 1). *Emergent Communication for Understanding Human Language Evolution: What’s missing?* [poster presentation]. IMPRS conference, Nijmegen, The Netherlands.
+
+- [t13] Lukas Galke (2022, May 24). *Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP* [oral presentation]. ACL 2022. [https://doi.org/10.48448/09t2-ck98](https://doi.org/10.48448/09t2-ck98)
 
 - [t12] Lukas Galke (2022, April 29). *Emergent Communication for Understanding Human Language Evolution* [discussion session]. EmeCom workshop at ICLR'22, online.
 
