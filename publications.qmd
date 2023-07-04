@@ -32,7 +32,7 @@
 
 - [c5] Ahmed Saleh, Tilman Beck, Lukas Galke, Ansgar Scherp (2018). Performance of Ad-Hoc Retrieval Models over Full-Text vs. Titles of Documents. In *International Conference on Asian Digital Libraries (ICADL)*.
 
-- [c4] Lukas Galke, Florian Mai, Iacopo Vagliano (2018). Multi-Modal Adversarial Autoencoders for Recommendation of Citations and Subject Labels. In *Conference on User Modeling, Adaptation and Personalization (UMAP)*. ACM. [https://doi.org/10.1145/3209219.3209236](https://doi.org/10.1145/3209219.3209236)
+- [c4] Lukas Galke, Florian Mai, Iacopo Vagliano, Ansgar Scherp (2018). Multi-Modal Adversarial Autoencoders for Recommendation of Citations and Subject Labels. In *Conference on User Modeling, Adaptation and Personalization (UMAP)*. ACM. [https://doi.org/10.1145/3209219.3209236](https://doi.org/10.1145/3209219.3209236)
 
 - [c3] Anne Lauscher, Kai Eckert, Lukas Galke, Ansgar Scherp, Syed Tassen Raza Rizvi, Sheraz Ahmed, Andreas Dengel, Philipp Zumstein, Annette Klein (2018). Linked Open Citation Database: Enabling Libraries to Contribute to an Open and Interconnected Citation Graph. In *Joint Conference on Digital Libraries (JCDL)*. ACM.
 
@@ -43,7 +43,6 @@
 ## workshop papers
 
 - [w8] Lukas Galke, Yoav Ram, Limor Raviv (2022). Emergent communication for understanding human language evolution: What's missing?. Emergent Communication workshop at *The Tenth International Conference on Learning Representations (ICLR 2022)*.OpenReview.net. [https://openreview.net/forum?id=rqUGZQ-0XZ5](https://openreview.net/forum?id=rqUGZQ-0XZ5)
-
 
 - [w7] Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U Förstner, Klaus Tochtermann, Carsten Schultz (2021). COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics. In *2021 IEEE International Conference on Big Data (Big Data)*. IEEE.
 
