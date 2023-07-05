@@ -23,7 +23,7 @@ adventures. I like playing chess, doing yoga, and automatizing stuff (of course!
 
 ## Selected publications
 
-- [j5] Lukas Galke, Yoav Ram, Limor Raviv (under review). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in prep). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://authors.elsevier.com/a/1h1SX3BBjKnulZ). *Neural Networks* 164, 156-176. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 - [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
 
@@ -31,24 +31,11 @@ adventures. I like playing chess, doing yoga, and automatizing stuff (of course!
 
 ## Current project 
 
-Neural networks are still far behind human capabilities in generalizing from
-few examples and continual learning. I want to fix that.
-
 My current research investigates how neural network agents learn to
 communicate. Imagine you put some (artificial, of course) neural network agents
 into a game that can only be solved with communication. How do communication
-protocols emerge?  How similar are those to emergent languages of humans in the
+protocols emerge? How similar are those to emergent languages of humans in the
 same setting? What can we learn from humans to improve our models?
-
-This relates to the field of emergent communication. My first
-baby-step into the field is a [workshop
-paper](https://arxiv.org/abs/2204.10590) that summarizes recent progress of the
-emergent communication field and contrasts it with linguistic phenomena in
-humans. I co-organized a [workshop on machine learning for language
-evolution research](https://ml4evolang.github.io/) at the [Joint Conference for
-Language
-Evolution](https://sites.google.com/view/joint-conf-language-evolution/home).
-
 
 ## Past projects
 
