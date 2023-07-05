@@ -18,14 +18,14 @@
     "href": "index.html#selected-publications",
     "title": "Hi there!",
     "section": "Selected publications",
-    "text": "Selected publications\n\n[j5] Lukas Galke, Yoav Ram, Limor Raviv (under review). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176. https://doi.org/10.1016/j.neunet.2023.04.022\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nmore publications"
+    "text": "Selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in prep). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176. https://doi.org/10.1016/j.neunet.2023.04.022\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nmore publications"
   },
   {
     "objectID": "index.html#current-project",
     "href": "index.html#current-project",
     "title": "Hi there!",
     "section": "Current project",
-    "text": "Current project\nNeural networks are still far behind human capabilities in generalizing from few examples and continual learning. I want to fix that.\nMy current research investigates how neural network agents learn to communicate. Imagine you put some (artificial, of course) neural network agents into a game that can only be solved with communication. How do communication protocols emerge? How similar are those to emergent languages of humans in the same setting? What can we learn from humans to improve our models?\nThis relates to the field of emergent communication. My first baby-step into the field is a workshop paper that summarizes recent progress of the emergent communication field and contrasts it with linguistic phenomena in humans. I co-organized a workshop on machine learning for language evolution research at the Joint Conference for Language Evolution."
+    "text": "Current project\nMy current research investigates how neural network agents learn to communicate. Imagine you put some (artificial, of course) neural network agents into a game that can only be solved with communication. How do communication protocols emerge? How similar are those to emergent languages of humans in the same setting? What can we learn from humans to improve our models?"
   },
   {
     "objectID": "index.html#past-projects",
@@ -60,6 +60,6 @@
     "href": "bio.html",
     "title": "Lukas Galke",
     "section": "",
-    "text": "Lukas did his PhD on Representation Learning on Texts and Graphs at Kiel University (Germany) where he had also obtained his Master’s degree in Computer Science."
+    "text": "Lukas completed his PhD on Representation Learning for Texts and Graphs at Kiel University in 2023, after having finished his MSc in Computer Science at the same place in 2017. The general theme of his research is Lifelong Neural Communication, exploring the intersection of lifelong machine learning and continuous or discrete communication in artificial neural networks, while touching text classification, out-of-distribution detection and generalization, information retrieval, recommender systems, science dynamics, and language evolution. Since 2022, Lukas is doing a Postdoc at the Max Planck Institute for Psycholinguistics, where he investigates the emergence of discrete communication protocols between neural network agents."
   }
 ]
