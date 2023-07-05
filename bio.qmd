@@ -1,0 +1,7 @@
+# Bio 
+
+
+## 100 words
+
+Lukas completed his PhD on Representation Learning for Texts and Graphs at Kiel University in 2023, after having finished his MSc in Computer Science at the same place in 2017. The general theme of his research is Lifelong Neural Communication, exploring the intersection of lifelong machine learning and continuous or discrete communication in artificial neural networks, while touching text classification, out-of-distribution detection and generalization, information retrieval, recommender systems, science dynamics, and language evolution. Since 2022, Lukas is doing a Postdoc at the Max Planck Institute for Psycholinguistics, where he investigates the emergence of discrete communication protocols between neural network agents.
+
