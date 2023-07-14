@@ -4,7 +4,7 @@
 
 - [j7] Lukas Galke, Yoav Ram, Limor Raviv (in prep). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
 
-- [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (in prep). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19.
+- [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (submitted). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19.
 
 - [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). [Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification](https://arxiv.org/abs/2204.03954).
 
