@@ -8,7 +8,7 @@ website:
     creator: "@LukasGalke"
   open-graph: true
   navbar:
-    logo: images/logo.jpg
+    logo: images/2022-05-Lukas-Galke.jpg
     left:
       - href: publications.qmd
         text: Publications
@@ -31,8 +31,12 @@ website:
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light:
+        - flatly
+        - custom.scss
+      dark:
+        - darkly
+        - custom.scss
     css: styles.css
     toc: true
 
