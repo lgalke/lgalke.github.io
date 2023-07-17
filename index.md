@@ -1,8 +1,8 @@
 ---
-title: "Hi there!"
+title: "Lukas Paul Achatius Galke"
 ---
 
-<img class="img-fluid float-end" style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="images/2022-05-Lukas-Galke.jpg"></img>
+<img class="img-fluid float-end" style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="assets/images/2022-05-Lukas-Galke.jpg">
 
 
 I'm Lukas, a postdoc in the LEADS group led by [Limor
@@ -27,7 +27,7 @@ adventures. I like playing chess, doing yoga, and automatizing stuff (of course!
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://authors.elsevier.com/a/1h1SX3BBjKnulZ). *Neural Networks* 164, 156-176. [https://doi.org/10.1016/j.neunet.2023.04.022](https://doi.org/10.1016/j.neunet.2023.04.022)
 - [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
 
-[more publications](./publications)
+[more publications](./publications.html)
 
 ## Current project 
 

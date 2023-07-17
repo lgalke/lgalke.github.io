@@ -1,3 +1,7 @@
+---
+title: "List of Publications"
+---
+
 # publications 
 
 ## journal articles
