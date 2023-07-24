@@ -11,28 +11,21 @@
     "href": "index.html",
     "title": "Lukas Galke",
     "section": "",
-    "text": "I’m Lukas, a postdoc in the LEADS group led by Limor Raviv at the Max Planck Institute for Psycholinguistics. I’m most passionate about natural language processing and continual learning. Currently, I’m focusing on how deep nets learn to communicate and how that relates to human language learning.\nI did my PhD on text and graph representation learning with Ansgar Scherp at Kiel University, where I also obtained my Master’s degree in Computer Science. I’ve worked on text classification, information retrieval, text representation learning, graph representation learning, and lifelong (or continual) learning.\nBesides research, I enjoy surfing, vanlife, and other sorts of outdoor adventures. I like playing chess, doing yoga, and automatizing stuff (of course!)."
+    "text": "I’m Lukas, a postdoctoral researcher Language Evolution and Adaptation in Diverse Situations group of the Max Planck Institute for Psycholinguistics. I’m most passionate about natural language processing and lifelong machine learning, while often engaging in interdisciplinary projects. Currently, I’m focusing on how deep neural networks learn to communicate and the parallels to human communication.\nBio and Picture"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
     "title": "Lukas Galke",
     "section": "Selected publications",
-    "text": "Selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in prep). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176.\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nmore publications"
-  },
-  {
-    "objectID": "index.html#current-project",
-    "href": "index.html#current-project",
-    "title": "Lukas Galke",
-    "section": "Current project",
-    "text": "Current project\nMy current research investigates how neural network agents learn to communicate. Imagine you put some (artificial, of course) neural network agents into a game that can only be solved with communication. How do communication protocols emerge? How similar are those to emergent languages of humans in the same setting? What can we learn from humans to improve our models?"
+    "text": "Selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in prep). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176.\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nMore Publications"
   },
   {
     "objectID": "index.html#past-projects",
     "href": "index.html#past-projects",
     "title": "Lukas Galke",
     "section": "Past projects",
-    "text": "Past projects\n\nQ-AKTIV - Quantitative Analysis of the Dynamics of the Scientific, Economic, and Social Impact of Research Activities and Networks\nLinked Open Citation Database"
+    "text": "Past projects\n\nQ-AKTIV – Quantitative Analysis of the Dynamics of the Scientific, Economic, and Social Impact of Research Activities and Networks\nLOC-DB – Linked Open Citation Database"
   },
   {
     "objectID": "index.html#contact",
@@ -60,6 +53,6 @@
     "href": "bio.html",
     "title": "Lukas Galke",
     "section": "",
-    "text": "Lukas obtained his PhD in 2023 from Kiel University, specializing in Representation Learning for Texts and Graphs. Prior to that, he earned his MSc in Computer Science at the same institution in 2017. His research focuses on the intersection of lifelong machine learning and continuous or discrete communication in artificial neural networks. His work touches various areas, including natural language processing, graph representation learning, and information retrieval. Since 2022, Lukas has been working as a postdoctoral researcher at the Max Planck Institute for Psycholinguistics, where he investigates the emergence of discrete communication protocols among neural network agents."
+    "text": "Lukas obtained his PhD in 2023 from Kiel University, specializing in Representation Learning for Texts and Graphs. Prior to that, he earned his MSc in Computer Science at the same institution in 2017. His research focuses on the intersection of lifelong machine learning and continuous or discrete communication in artificial neural networks. His work touches various areas, including natural language processing, graph representation learning, and information retrieval. Since 2022, Lukas has been working as a postdoctoral researcher at the Max Planck Institute for Psycholinguistics, where he investigates the emergence of communication protocols between neural networks."
   }
 ]
