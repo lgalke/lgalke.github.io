@@ -2,15 +2,14 @@
 title: "Lukas Galke"
 ---
 
-I'm Lukas, a postdoctoral researcher Language Evolution and Adaptation in
-Diverse Situations group of the [Max Planck Institute for
+I'm Lukas, a postdoctoral researcher at the [Max Planck Institute for
 Psycholinguistics](https://mpi.nl). I'm most passionate about natural language
 processing and lifelong machine learning, while often engaging in
 interdisciplinary projects. Currently, I'm focusing on how deep neural networks
 learn to communicate and the parallels to human communication. 
 
 
-<a href="/bio.html">Bio and Picture</a>
+[Bio and Picture](/bio.html)
 
 ## Selected publications
 
@@ -18,7 +17,7 @@ learn to communicate and the parallels to human communication.
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content). *Neural Networks* 164, 156-176.
 - [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
 
-<a href="/bio.html">More Publications</a>
+[More Publications](/publications.html)
 
 ## Past projects
 
