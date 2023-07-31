@@ -10,6 +10,8 @@ website:
   navbar:
     logo: images/2022-05-Lukas-Galke.jpg
     left:
+      - href: projects.qmd
+        text: Projects
       - href: publications.qmd
         text: Publications
       - href: talks.qmd
