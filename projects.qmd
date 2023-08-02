@@ -15,6 +15,8 @@ What communication protocols emerge? What are the parallels to human communicati
 
 ## Are We Really Making Progress in Text Classification (textclf) {#textclf}
 
+*2021--*
+
 Automatically categorizing text documents is a popular research topic with
 numerous new approaches being published each year. However, do they really give
 an advantage over earlier approaches? This question has triggered this line of
@@ -23,7 +25,6 @@ proposed methods such as TextGCN are outperformed by a simple multilayer
 perceptron on a bag-of-words representation -- a decade old technique enhanced
 with today's best practices.
 
-*2021--*
 
 - [preprint of survey paper](https://arxiv.org/abs/2204.03954)
 - [ACL 2022 paper](https://doi.org/10.18653/v1/2022.acl-long.279)
@@ -36,11 +37,22 @@ with today's best practices.
 
 *2019--*
 
+Graph neural networks have quickly risen to be the standard technique for
+machine learning on graph-structured data.  Yet graph neural networks are
+usually only applied to static snapshots of graphs, while real-world graphs
+(social media, publication networks) are continually evolving.  Evolving graphs
+come with challenges that are rarely reflected in the graph representation
+learning literature, such as dealing with new classes in node classification.
+We pursue a lifelong learning approach for graph neural networks on evolving
+graphs and investigate incremental training, out-of-distribution detection, and
+issues caused by an imbalanced class distribution.
+
 - conference paper on out-of-distribution detection in graphs (coming soon)
 - [*Neural Networks* journal paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
 - [IJCNN 2021 conference paper](https://doi.org/10.1145/3197026.3197050)
 - [ICLR 2019 workshop paper](https://rlgm.github.io/papers/21.pdf)
 - [code](https://github.com/lgalke/lifelong-learning)
+- related project: [Q-AKTIV](#q-aktiv)
 
 ## Representation Learning for Texts and Graphs {#phd-project}
 
@@ -88,7 +100,8 @@ practical testing of the toolkit.
 - [paper on data enrichment 1](https://ceur-ws.org/Vol-2451/paper-23.pdf)
 - [tools for harvesting raw data](https://github.com/Q-AKTIV/covid19-harvesting-tools)
 - [project website](https://q-aktiv.github.io)
-- [interview about open science tools for digital collaboration](https://www.zbw-mediatalk.eu/de/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
+- [interview about open science tools for digital collaboration (de)](https://www.zbw-mediatalk.eu/de/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
+- [interview about open science tools for digital collaboration (en)](https://www.zbw-mediatalk.eu/en/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
 - [press item (German)](https://www.b-i-t-online.de/neues/5386)
 - [press release (ZB MED, German)](https://www.zbmed.de/forschen/abgeschlossene-projekte/q-aktiv)
 - [funding announcement (German)](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/quantitative-wissenschaftsforschung/q-aktiv/q-aktiv_node.html)
