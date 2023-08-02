@@ -203,11 +203,18 @@
     "text": "Selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176.\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nfind more publications here"
   },
   {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Lukas Galke",
+    "section": "Links",
+    "text": "Links\n\nORC ID: 0000-0001-6124-1092\nDBLP profile\nSemantic Scholar profile\nGoogle Scholar profile\nGithub profile\nMastodon account"
+  },
+  {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Lukas Galke",
     "section": "Contact",
-    "text": "Contact\nTo get in touch, just drop me an e-mail via lukas.galke@mpi.nl or reach out via Mastodon.\n  https://orcid.org/0000-0001-6124-1092"
+    "text": "Contact\nTo get in touch, just drop me an e-mail via lukas.galke@mpi.nl or reach out via Mastodon."
   },
   {
     "objectID": "about.html",

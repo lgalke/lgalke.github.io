@@ -20,16 +20,6 @@ website:
         text: Bio
       - href: about.qmd
         text: About
-    right:
-      - icon: "twitter"
-        href: https://twitter.com/LukasGalke
-      - icon: "mastodon" 
-        href: https://sigmoid.social/@lpag
-      - icon: "github"
-        href: https://github.com/lgalke
-      - icon: "journals"
-        href: https://scholar.google.de/citations?user=AHGGdYQAAAAJ&hl=en
-      
         
 
 format:
