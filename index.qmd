@@ -8,6 +8,24 @@ processing and lifelong machine learning, while often engaging in
 interdisciplinary projects. Currently, I'm focusing on how deep neural networks
 learn to communicate and the parallels to human communication. 
 
+- [learn more about my projects](/projects.html)
+- [some non-professional things about me](/about.html)
+- feel free to use this [bio and picture](/bio.html) if needed
+
+## Selected publications
+
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
+- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content). *Neural Networks* 164, 156-176.
+- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
+
+[find more publications here](/publications.html)
+
+## Contact
+
+To get in touch, just drop me an e-mail via
+[lukas.galke@mpi.nl](mailto:lukas.galke@mpi.nl?subject=First contact) or reach
+out via <a rel="me" href="https://sigmoid.social/@lpag">Mastodon</a>.
+
  <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -21,20 +39,3 @@ learn to communicate and the parallels to human communication.
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0001-6124-1092
 </a>
-
-[Bio and Picture](/bio.html)
-
-## Selected publications
-
-- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
-- [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content). *Neural Networks* 164, 156-176.
-- [c9] Lukas Galke, Ansgar Scherp (2022). [Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](https://doi.org/10.18653/v1/2022.acl-long.279). In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.
-
-[More Publications](/publications.html)
-
-
-## Contact
-
-To get in touch, just drop me an e-mail via
-[lukas.galke@mpi.nl](mailto:lukas.galke@mpi.nl?subject=First contact) or reach
-out via <a rel="me" href="https://sigmoid.social/@lpag">Mastodon</a>.
