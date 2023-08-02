@@ -12,6 +12,7 @@ What communication protocols emerge? What are the parallels to human communicati
 - [Machine learning and the Evolution of Language](https://ml4evolang.github.io) (two-session workshop at the Joint Conference on Language Evolution)
 - [EmeCom workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
+
 ## Are We Really Making Progress in Text Classification (textclf) {#textclf}
 
 Automatically categorizing text documents is a popular research topic with
@@ -41,6 +42,13 @@ with today's best practices.
 - [ICLR 2019 workshop paper](https://rlgm.github.io/papers/21.pdf)
 - [code](https://github.com/lgalke/lifelong-learning)
 
+## Representation Learning for Texts and Graphs {#phd-project}
+
+*2017-2022*
+
+My PhD project. A meta-project bringing together [word2mat](#word2mat),
+[textclf](#textclf), [aaerec](#aaerec), [LGL](#LGL). [phd
+thesis](https://doi.org/10.21941/kcss/2023/1)
 
 ## Analyzing the Scientific, Economic and Societal Impact of Research Activities and Research Networks (Q-AKTIV) {#q-aktiv}
 
@@ -103,7 +111,7 @@ giving benefits in efficiency while keeping reasonable accuracy.
 - [paper on distilling the knowledge from a pre-trained language model into matrix embedding models](https://doi.org/10.1109/IJCNN55064.2022.9892144)
 - [code](https://github.com/florianmai/word2mat)
 
-## Autoencoders for Document-based Recommendations (aerec) {#aerec}
+## Autoencoders for Document-based Recommendations (aaerec) {#aaerec}
 
 *2017--2022*
 
