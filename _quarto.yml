@@ -18,6 +18,8 @@ website:
         text: Talks
       - href: bio.qmd
         text: Bio
+      - href: about.qmd
+        text: About
     right:
       - icon: "twitter"
         href: https://twitter.com/LukasGalke

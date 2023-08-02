@@ -2,4 +2,36 @@
 title: "About"
 ---
 
-About this site
+## Non-professional things about myself
+
+- I regularly practice Yoga.
+- I like to go surfing and stand-up paddling.
+- I like reading. Current book recommendation: *The Light Pirate* by Lily-Brooks-Dalton.
+- I like to play chess. 
+- I like [drone] photography.
+- I play Saxophone since childhood, but only at Christmas these days.
+- I am learning to play Ukulele (on hold).
+
+## Some Impressions
+
+![Hiking in Blaubeuren, Germany, July 2023](images/2023-07-Germany_hiking-in-Blaubeuren.jpeg)
+
+![Secret Island, Sweden, June 2022](images/2022-06-Sweden_secret-island_Spatz-1_LG.jpg)
+
+![Yoga on a Rock, Sweden, July 2022](images/2022-07-Sweden_yoga-on-a-rock_Spatz-1_LG.jpg)
+
+![Day trip to Venice, Italy, July 2022](images/2022-07-Italy_day-trip-to-Venice_LG.jpeg)
+
+![North Sea meets Baltic Sea, Skagen, Denmark, August 2021](images/2021-08-Denmark_North-Sea-meets-Baltic-Sea_LG.jpeg)
+
+![Kruemel Robusto in Grena, Denmark, August 2021](images/2021-08-Denmark-Grena_Kruemel-Robusto_LG.jpeg)
+
+![Stand-up Paddling in Germany, June 2021](images/2021-06-Germany-SUP.jpeg)
+
+
+## Philosophy of this website
+
+Whenever I need to look up something about myself, I look here first.  If I
+don't find it, I add it. At the same time, I use this website as a playground
+for web technology and design (so expect relatively frequent changes).
+
