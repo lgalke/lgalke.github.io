@@ -14,17 +14,19 @@ title: "About"
 
 ## Some Impressions
 
+![Beach Mood Voropor, Denmark, June 2020](images/2020-07-Denmark-beach-mood-Voropor.jpeg)
+
 ![Hiking in Blaubeuren, Germany, July 2023](images/2023-07-Germany_hiking-in-Blaubeuren.jpeg)
 
 ![Secret Island, Sweden, June 2022](images/2022-06-Sweden_secret-island_Spatz-1_LG.jpg)
 
 ![Yoga on a Rock, Sweden, July 2022](images/2022-07-Sweden_yoga-on-a-rock_Spatz-1_LG.jpg)
 
-![Day trip to Venice, Italy, July 2022](images/2022-07-Italy_day-trip-to-Venice_LG.jpeg)
-
 ![North Sea meets Baltic Sea, Skagen, Denmark, August 2021](images/2021-08-Denmark_North-Sea-meets-Baltic-Sea_LG.jpeg)
 
 ![Kruemel Robusto in Grena, Denmark, August 2021](images/2021-08-Denmark-Grena_Kruemel-Robusto_LG.jpeg)
+
+![Day trip to Venice, Italy, July 2022](images/2022-07-Italy_day-trip-to-Venice_LG.jpeg)
 
 ![Stand-up Paddling in Germany, June 2021](images/2021-06-Germany-SUP.jpeg)
 
