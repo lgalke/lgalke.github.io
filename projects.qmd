@@ -132,8 +132,12 @@ specialty of this project compared to other recommender systems is that we do
 not use any a user data or a user profile but only operate on the contents of
 the current draft. The main research question was whether models could be
 enhanced by using textual side information, such as the title of the draft,
-which we could confirm for a wide range of autoencoder-based recommendation
-models.
+which we confirmed for a wide range of autoencoder-based recommendation models.
+Interestingly, we found that the choice of the best model depends on the
+semantics of item co-occurrence.  When item co-occurrence implies relatedness
+(as in citations), looking at other items is far more useful than looking at
+the text. In contrast, when item co-occurrence implies diversity, such as in
+subject labels from professional subject indexers, the text is more useful.
 
 *2017--2022*
 
