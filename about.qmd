@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-## Non-professional things about myself
+## Some non-professional things about myself
 
 - I am the kind of person that is motivated by challenges.
 - I regularly practice Yoga.
@@ -12,6 +12,7 @@ title: "About"
 - I like [drone] photography.
 - I play Saxophone since childhood, but only at Christmas these days.
 - I am learning to play Ukulele (on hold).
+- I have an inner voice -- [not everyone has one](https://www.technologynetworks.com/neuroscience/news/how-do-you-think-take-the-survey-338421).
 
 ## Some Impressions
 
