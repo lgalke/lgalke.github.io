@@ -8,7 +8,7 @@ website:
     creator: "@LukasGalke"
   open-graph: true
   navbar:
-    logo: images/2022-05-Lukas-Galke.jpg
+    # logo: images/2022-05-Lukas-Galke.jpg
     left:
       - href: projects.qmd
         text: Projects
