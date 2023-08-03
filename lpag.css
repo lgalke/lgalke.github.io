@@ -1,0 +1,61 @@
+:root {
+}
+
+html {
+    font-size: 18px;
+    color: #574c3d;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1rem;
+    margin-top: 1rem;
+}
+
+a {
+color: #3d4857;
+}
+
+/* Links (order is important)*/
+a:link {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+a:visited {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+a:active {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+
+/* /1* Nav links *1/ */
+nav>a {
+    color: black !important;
+    text-decoration: none !important;
+}
+/* nav>a:link { */
+/*     text-decoration-line: none; */
+/* } */
+nav>a:visited {
+    color: black !important;
+    text-decoration: none !important;
+}
+/* nav>a:hover { */
+/*     text-decoration-line: none; */
+
+/* } */
+nav>a:active {
+    text-decoration: underline !important;
+}
+
