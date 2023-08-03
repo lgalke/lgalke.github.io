@@ -2,8 +2,6 @@
 title: "Lukas Paul Achatius Galke"
 ---
 
-<img class="img-fluid float-end" style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="assets/images/2022-05-Lukas-Galke.jpg">
-
 
 I'm Lukas, a postdoc in the LEADS group led by [Limor
 Raviv](https://www.limorravivevolang.com) at the [Max Planck Institute for

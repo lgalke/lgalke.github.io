@@ -1,3 +1,9 @@
 title: Lukas Paul Achatius Galke
-toc-title: Menu
 
+include-before: \
+  <nav>
+  <a href="index.html">Home</a>
+  <a href="publications.html">Publications</a>
+  <a href="talks.html">Talks</a>
+  <a href="bio.html">Bio</a>
+  </nav>
