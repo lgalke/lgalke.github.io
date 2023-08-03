@@ -29,8 +29,8 @@ with today's best practices.
 - [preprint of survey paper](https://arxiv.org/abs/2204.03954)
 - [ACL 2022 paper](https://doi.org/10.18653/v1/2022.acl-long.279)
 - [code for multi-label classification](https://github.com/drndr/multilabel-text-clf)
-- [code for single-label classification extended with more methods](https://github.com/FKarl/text-classification)
-- [code for single-label classification (as used in the ACL paper)](https://github.com/lgalke/text-clf-baselines)
+- [code for single-label classification](https://github.com/lgalke/text-clf-baselines)
+- [extra code for single-label classification with different methods](https://github.com/FKarl/text-classification)
 
 
 ## Lifelong Graph Representation Learning (LGL) {#LGL}
@@ -126,12 +126,21 @@ giving benefits in efficiency while keeping reasonable accuracy.
 
 ## Autoencoders for Document-based Recommendations (aaerec) {#aaerec}
 
+The aim of this project was to build a document-level citation recommendation
+system that could, for example, make users aware of missing references.  A
+specialty of this project compared to other recommender systems is that we do
+not use any a user data or a user profile but only operate on the contents of
+the current draft. The main research question was whether models could be
+enhanced by using textual side information, such as the title of the draft,
+which we could confirm for a wide range of autoencoder-based recommendation
+models.
+
 *2017--2022*
 
 - [journal paper on citation recommendation](https://doi.org/10.1007/s10791-022-09408-9)
 - [conference paper on citation recommendation](https://dl.acm.org/doi/abs/10.1145/3209219.3209236)
 - [RecSys challenge paper on music recommendation](https://doi.org/10.1145/3267471.3267476)
-- [code for recommender systems](https://github.com/lgalke/aae-recommender)
+- [code](https://github.com/lgalke/aae-recommender)
 
 ## Linked Open Citation Database (LOC-DB) {#loc-db}
 
@@ -165,9 +174,8 @@ also be scalable for using it in a network.
 
 *2016--2017*
 
-The key idea was to use word
-embeddings for similarity scoring in information retrieval. The two main
-take-aways:
+The key idea was to use word embeddings for similarity scoring in information
+retrieval. The two main take-aways:
 
 1. It is important to retain the crisp matching operation (before similarity scoring), even when using word embeddings.
 2. A combination of classic information retrieval method TF-IDF and word embeddings led to the best results.
