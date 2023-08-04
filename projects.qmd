@@ -51,7 +51,8 @@ issues caused by an imbalanced class distribution.
 - [*Neural Networks* journal paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
 - [IJCNN 2021 conference paper](https://doi.org/10.1145/3197026.3197050)
 - [ICLR 2019 workshop paper](https://rlgm.github.io/papers/21.pdf)
-- [code](https://github.com/lgalke/lifelong-learning)
+- [code for *Neural Networks* paper](https://github.com/lgalke/lifelong-learning)
+- [code for IJCNN'23 paper](https://github.com/Bobowner/Open-World-LGL)
 - related project: [Q-AKTIV](#q-aktiv)
 
 ## Representation Learning for Texts and Graphs {#phd-project}
