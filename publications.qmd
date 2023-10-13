@@ -24,24 +24,25 @@
 - [c2] Florian Mai, Lukas Galke, Ansgar Scherp (2018). Using Deep Learning for Title-Based Semantic Subject Indexing to Reach Competitive Performance to Full-Text. In *Proceedings of the 18th ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. ACM. [paper](https://doi.org/10.1145/3197026.3197039)
 - [c1] Lukas Galke, Florian Mai, Alan Schelten, Dennis Brunch, Ansgar Scherp (2017). Using Titles vs. Full-text as Source for Automated Semantic Document Annotation. In *Knowledge Capture Conference (K-CAP)*. ACM. [paper](https://doi.org/10.1145/3148011.3148039)
 
-## Peer-reviewed workshop papers in conference proceedings
+## workshop papers in conference proceedings
 
 - [w7] Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U Förstner, Klaus Tochtermann, Carsten Schultz (2021). COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics. In *2021 IEEE International Conference on Big Data (Big Data)*. IEEE. [paper](https://doi.org/10.1109/BigData52589.2021.9671730)
 - [w3] Iacopo Vagliano, Lukas Galke, Florian Mai, Ansgar Scherp (2018). Using Adversarial Autoencoders for Multi-Modal Automatic Playlist Continuation. RecSys Challenge workshop @ *RecSys'18*. [paper](https://doi.org/10.1145/3267471.3267476)
 - [w2] Lukas Galke, Gunnar Gerstenkorn, Ansgar Scherp (2018). A Case Study of Closed-Domain Response Suggestion with Limited Training Data. Text-based Information Retrieval workshop @ *DEXA'18*. [paper](https://doi.org/10.1007/978-3-319-99133-7_18) [code](https://github.com/lgalke/resuggest)
 - [w1] Lukas Galke, Ahmed Saleh, Ansgar Scherp (2017). Word Embeddings for Practical Information Retrieval. In *INFORMATIK 2017*. Gesellschaft für Informatik, Bonn. (S. 2155-2167). [paper](https://doi.org/10.18420/in2017_215) [code (>200 stars, >40 forks)](https://github.com/lgalke/vec4ir)
 
-## Peer-reviewed workshop papers (non-archival)
+## non-archival workshop papers 
 
 - [w8] Lukas Galke, Yoav Ram, Limor Raviv (2022). Emergent communication for understanding human language evolution: What's missing?. Emergent Communication workshop at *Tenth International Conference on Learning Representations (ICLR 2022)*. OpenReview.net. [paper](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 - [w6] Eva Seidlmayer, Jakob Voß, Tatyana Melnychuk, Lukas Galke, Klaus Tochtermann, Carsten Schultz, Konrad U. Förstner (2020). ORCID for Wikidata — Data enrichment for scientometric applications, Wikidata workshop @ *ISWC 2020*. [paper](https://ceur-ws.org/Vol-2773/paper-09.pdf)
 - [w5] Eva Seidlmayer, Lukas Galke, Tatyana Melnychuk, Carsten Schultz, Klaus Tochtermann, Konrad U. Förstner (2019): Take it Personally — A Python library for enrichment in informetrical applications. Posters&Demos @ *SEMANTICS 2019*. [paper](https://ceur-ws.org/Vol-2451/paper-23.pdf)
 - [w4] Lukas Galke, Iacopo Vagliano, Ansgar Scherp (2019). Can Graph Neural Networks Go „Online“? An Analysis of Pretraining and Inference. Representation Learning on Graphs and Manifolds workshop @ *ICLR 2019*. [paper](https://rlgm.github.io/papers/21.pdf)
 
-## Peer-reviewed extended abstracts
+## (extended) abstracts
 
+- [a3] Lukas Galke, Yoav Ram, Limor Raviv (2023). What makes a languagae easy to deep-learn? [1-page abstract]. *Protolang 8*, 2023.
 - [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [selected PhD thesis abstract]. *IEEE Intelligent Informatics Bulletin*, 22(1), 52. [complete issue](https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf)
-- [a1] Lukas Galke, Florian Mai, Ansgar Scherp (2019): What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function [extended abstract]. INFORMATIK 2019. GI. [paper](https://doi.org/10.18420/inf2019_47)
+- [a1] Lukas Galke, Florian Mai, Ansgar Scherp (2019): What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function [extended abstract]. *INFORMATIK 2019*. GI. [paper](https://doi.org/10.18420/inf2019_47)
 
 ## Thesis
 

@@ -7,7 +7,7 @@ title: "About"
 - I am the kind of person that is motivated by challenges.
 - I regularly practice Yoga.
 - I like to go surfing and stand-up paddling.
-- I like reading. Currently reading: *Station Eleven* by Emily St John Mandel. Current book recommendation: *The Light Pirate* by Lily Brooks-Dalton.
+- I like reading. Currently reading: *Fourth Wing* by Rebecca Yarros. Current book recommendations: *The Light Pirate* by Lily Brooks-Dalton, *Station 11* by Emily St. John Mandel.
 - I like to play chess. 
 - I like [drone] photography.
 - I play Saxophone since childhood, but only at Christmas these days.
@@ -16,7 +16,7 @@ title: "About"
 
 ## Some photos
 
-![Beach Mood Voropør, Denmark, June 2020](images/2020-07-Denmark-beach-mood-Voropor.jpeg)
+![Beach Mood, Voropør, Denmark, June 2020](images/2020-07-Denmark-beach-mood-Voropor.jpeg)
 
 ![Hiking in Blaubeuren, Germany, July 2023](images/2023-07-Germany_hiking-in-Blaubeuren.jpeg)
 
@@ -30,7 +30,7 @@ title: "About"
 
 ![Day trip to Venice, Italy, July 2022](images/2022-07-Italy_day-trip-to-Venice_LG.jpeg)
 
-![Stand-up Paddling in Germany, June 2021](images/2021-06-Germany-SUP.jpeg)
+![Sit-down Paddling in Germany, June 2021](images/2021-06-Germany-SUP.jpeg)
 
 
 ## About this website 
