@@ -1,5 +1,7 @@
 # Bio 
 
+If you need a bio or a picture of me, you can use the ones on this page.
+
 ## Formal bio
 
 Lukas Galke was born in Wuppertal, Germany in 1989.  He received the B.Sc. and
@@ -32,4 +34,4 @@ investigates the emergence of communication protocols between neural networks.
 
 ## Picture
 
-<img style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="images/2022-05-Lukas-Galke.jpg"></img>
+<img style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="images/2023-10-Lukas-Galke-square.jpeg"></img>
