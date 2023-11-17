@@ -127,6 +127,8 @@ giving benefits in efficiency while keeping reasonable accuracy.
 
 ## Autoencoders for Document-based Recommendations (aaerec) {#aaerec}
 
+*2017--2022*
+
 The aim of this project was to build a document-level citation recommendation
 system that could, for example, make users aware of missing references.  A
 specialty of this project compared to other recommender systems is that we do
@@ -139,8 +141,6 @@ semantics of item co-occurrence.  When item co-occurrence implies relatedness
 (as in citations), looking at other items is far more useful than looking at
 the text. In contrast, when item co-occurrence implies diversity, such as in
 subject labels from professional subject indexers, the text is more useful.
-
-*2017--2022*
 
 - [journal paper on citation recommendation](https://doi.org/10.1007/s10791-022-09408-9)
 - [conference paper on citation recommendation](https://dl.acm.org/doi/abs/10.1145/3209219.3209236)
