@@ -1,5 +1,5 @@
 ---
-title: list of publications
+title: publications
 ---
 
 ## journal articles
