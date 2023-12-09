@@ -1,4 +1,6 @@
-# Projects
+---
+title: projects
+---
 
 ## Interacting AIs {#interacting-AIs}
 

@@ -12,7 +12,7 @@ learn to communicate and the parallels to human communication.
 - [some non-professional things about me](/about.html)
 - feel free to use this [bio and picture](/bio.html) if needed
 
-## Selected publications
+## selected publications
 
 - [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). [What makes a language easy to deep-learn?](https://arxiv.org/abs/2302.12239)
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). [Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content). *Neural Networks* 164, 156-176.
@@ -20,7 +20,13 @@ learn to communicate and the parallels to human communication.
 
 [find more publications here](/publications.html)
 
-## Links
+## recent news
+
+- Dec 2023: best paper award from GenBench workshop, EMNLP 2023
+- Jul 2023: outstanding reviewer award from ACL 2023
+
+
+## links
 
 - ORC ID: [0000-0001-6124-1092](https://orcid.org/0000-0001-6124-1092)
 - [DBLP profile](https://dblp.org/pid/200/7830.html)
@@ -29,7 +35,7 @@ learn to communicate and the parallels to human communication.
 - [Github profile](https://github.com/lgalke)
 - <a rel="me" href="https://sigmoid.social/@lpag">Mastodon account</a>
 
-## Contact
+## contact
 
 To get in touch, just drop me an e-mail via
 [hi@lpag.de](mailto:hi@lpag.de?subject=Hey Lukas).

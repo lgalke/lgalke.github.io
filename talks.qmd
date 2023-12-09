@@ -1,4 +1,6 @@
-# Talks
+---
+title: list of talks
+---
 
 ## Invited talks in colloquia and seminars
 

@@ -1,4 +1,6 @@
-# Publications 
+---
+title: list of publications
+---
 
 ## journal articles
 
