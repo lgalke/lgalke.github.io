@@ -27,7 +27,7 @@ learn to communicate and the parallels to human communication.
 - Jul 2023: gave a talk in the Cognitive Systems Colloquium, University of Ulm [t29]
 - Jul 2023: gave a talk in the AI Colloquium of Vrije Universiteit Amsterdam [t28]
 - May 2023: paper on lifelong graph learning published in *Neural Networks* [j3]
-- May 2023: gave a talk in the KIK AI Coffee and Learning at Amsterdam University Medical Centre [t26]
+- May 2023: gave a talk in the KIK AI Coffee and Learning meeting at Amsterdam University Medical Centre [t26]
 - May 2023: gave a talk in the Computational Linguistics Seminar at University of Amsterdam [t25]
 
 
