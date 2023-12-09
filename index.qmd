@@ -2,6 +2,11 @@
 title: "Lukas Galke"
 ---
 
+
+<img style="float:right;border-radius:50%;" width="128" height="128" resize=true src="./images/2023-10-Lukas-Galke-square.jpeg">
+
+
+
 I'm Lukas, a postdoctoral researcher at the [Max Planck Institute for
 Psycholinguistics](https://mpi.nl). I'm most passionate about natural language
 processing and lifelong machine learning, while often engaging in
