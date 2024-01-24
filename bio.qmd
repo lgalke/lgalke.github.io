@@ -1,10 +1,10 @@
 ---
-title: bio
+title: Bio
 ---
 
 If you need a bio or a picture of me, you can use the ones on this page.
 
-## very formal bio
+## Formal bio
 
 Lukas Galke was born in Wuppertal, Germany in 1989.  He received the B.Sc. and
 M.Sc. degrees in computer science from Kiel University, Germany, in 2017 and
@@ -22,7 +22,7 @@ Dr. Galke is a member of the Gesellschaft für Informatik (GI) and Association
 for Computational Lingiustics (ACL) and was a recipient of the ACL Outstanding
 Reviewer Award in 2023.
 
-## less formal bio (100 words)
+## Less formal bio (100 words)
 
 Lukas obtained his PhD in 2023 from Kiel University, specializing in
 Representation Learning for Texts and Graphs. Prior to that, he earned his MSc
