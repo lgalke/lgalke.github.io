@@ -163,35 +163,35 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "talks",
+    "title": "Talks",
     "section": "",
     "text": "[t29] Lukas Galke (2023, July 20). What makes a language easy to deep-learn? [invited talk]. Colloquium Cognitive Systems, University of Ulm, Germany.\n[t28] Lukas Galke (2023, July 10). Lifelong Learning and Out-of-distribution Detection on Evolving Graphs [invited talk], VU AI Colloquium, Amsterdam, The Netherlands.\n[t25] Lukas Galke (2023, May 16). What makes a language easy to deep-learn? [invited talk]. Computational Linguistics Seminar, University of Amsterdam, The Netherlands."
   },
   {
     "objectID": "talks.html#invited-talks-in-colloquia-and-seminars",
     "href": "talks.html#invited-talks-in-colloquia-and-seminars",
-    "title": "talks",
+    "title": "Talks",
     "section": "",
     "text": "[t29] Lukas Galke (2023, July 20). What makes a language easy to deep-learn? [invited talk]. Colloquium Cognitive Systems, University of Ulm, Germany.\n[t28] Lukas Galke (2023, July 10). Lifelong Learning and Out-of-distribution Detection on Evolving Graphs [invited talk], VU AI Colloquium, Amsterdam, The Netherlands.\n[t25] Lukas Galke (2023, May 16). What makes a language easy to deep-learn? [invited talk]. Computational Linguistics Seminar, University of Amsterdam, The Netherlands."
   },
   {
     "objectID": "talks.html#informal-talks",
     "href": "talks.html#informal-talks",
-    "title": "talks",
+    "title": "Talks",
     "section": "Informal talks",
     "text": "Informal talks\n\n[t27] Lukas Galke (2023, July 5). Lifelong Neural Communication [informal talk]. Data Science, Hamburg University, Germany.\n[t26] Lukas Galke (2023, May 17). Uncovering Patterns in Medical Literature through Lifelong Automated Categorization and Research Dynamics Analysis with Machine Learning [informal talk]. KIK AI Coffee & Learning meeting, Amsterdam University Medical Centre, The Netherlands.\n[t24] Lukas Galke (2023, February 27). What makes a language easy to deep learn? [informal talk]. Language Evolution and Emergence meeting, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.\n[t23] Lukas Galke (2022, October 20). Structure in Language Learning Systems [informal talk]. TALEP Marseille, France.\n[t13] Lukas Galke (2020, June 23). Scaling Up Graph Neural Networks [literature review talk], Graph Neural Networks Reading Group, online."
   },
   {
     "objectID": "talks.html#conference-and-workshop-presentations",
     "href": "talks.html#conference-and-workshop-presentations",
-    "title": "talks",
+    "title": "Talks",
     "section": "Conference and workshop presentations",
     "text": "Conference and workshop presentations\n\n[t30] Lukas Galke (2023, September 28). What makes a language easy to deep-learn? Protolang 8, Rome, Italy. [upcoming talk]\n[t22] Lukas Galke (2022, September 5). Machine Learning for Language Evolution – What’s missing?. Machine Learning and the Evolution of Language (ml4evolang) workshop at JCOLE’22, Japan/online.\n[t19] Lukas Galke (2022, July 19). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings [paper presentation (oral)]. World Congress on Computational Intelligence, Padua, Italy.\n[t18] Lukas Galke (2022, June 1). Emergent Communication for Understanding Human Language Evolution: What’s missing? [paper presentation (poster)]. IMPRS conference, Nijmegen, The Netherlands.\n[t17] Lukas Galke (2022, May 24). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP [paper presentation (oral)]. ACL 2022. video\n[t16] Lukas Galke (2022, April 29). Emergent Communication for Understanding Human Language Evolution [paper presentation (oral) and discussion session]. EmeCom workshop at ICLR’22, online.\n[t15] Lukas Galke (2021, December 15). COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics [paper presentation (oral)]. 2021 IEEE International Conference on Big Data (Big Data), online.\n[t14] Lukas Galke (2021, July 18). Lifelong learning of graph neural networks for open-world node classification [paper presentation (oral)]. International Joint Conference on Neural Networks, online.\n[t12] Lukas Galke (2019, September 26). Inductive Learning of Concept Representations from Library-Scale Corpora with Graph Convolution [paper presentation (oral)], INFORMATIK 2019, Kassel, Germany.\n[t11] Lukas Galke (2019, September 26). What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function [paper presentation (oral)]. INFORMATIK 2019, Kassel, Germany\n[t10] Lukas Galke, Florian Mai (2019, May 8). CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model [paper presentation (poster)]. International Conference on Learning Representations, New Orleans, Lousiana.\n[t9] Lukas Galke (2019, May 7). Can Graph Neural Networks Go Online? An Analysis of Pretraining and Inference [paper presentation (poster)]. International Conference on Learning Representations, New Orleans, Lousiana.\n[t8] Anne Lauscher, Lukas Galke, Syed Tahseen Raza Rizvi (2018, November 6). LOC-DB Evaluation: criteria and preliminary results. Second Linked Open Citation Database (LOC-DB) workshop. [project presentation]\n[t7] Lukas Galke (2018, July 10). Multi-Modal Adversarial Autoencoders for Recommendations of Citations and Subject Labels [paper presentation (oral)]. Conference on User Modeling, Adaptation and Personalization, Singapore, Singapore.\n[t6] Lukas Galke (2017, December 6). Using Titles vs. Full-text as Source for Automated Semantic Document Annotation [paper presentation (oral)], Knowledge Capture Conference, Austin, Texas.\n[t5] Kai Eckert, Anne Lauscher, Lukas Galke (2017, November 7). LOC-DB Konzepte. First Linked Open Citation Database (LOC-DB) Workshop. [project presentation]\n[t4] Lukas Galke (2017, September 28). Reranking-based Recommender Systems with Deep Learning [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.\n[t3] Lukas Galke (2017, September 28). Word Embeddings for Practical Information Retrieval [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.\n[t2] Lukas Galke (2017, May 5). Embedded Retrieval: Word Embeddings for Practical Information Retrieval [M.Sc. thesis presentation]. Second DyESE workshop, Kiel, Germany.\n[t1] Lukas Galke (2016, September 16). Information Retrieval on Sparse Data [concept presentation]. First DyESE workshop, Oslo, Norway."
   },
   {
     "objectID": "talks.html#other",
     "href": "talks.html#other",
-    "title": "talks",
+    "title": "Talks",
     "section": "Other",
     "text": "Other\n\n[t21] Lukas Galke (2022, August 28). Representation Learning for Texts and Graphs [viva]. Department of Computer Science, Kiel University, Germany.\n[t20] Lukas Galke (2022, August 18). Language Technology [gave a 2x45min workshop]. Regiodag 2022 Probusclub Nijmegen e.o., Nijmegen, The Netherlands."
   },
@@ -206,29 +206,29 @@
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
     "title": "Lukas Galke",
-    "section": "selected publications",
-    "text": "selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176.\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nfind more publications here"
+    "section": "Selected publications",
+    "text": "Selected publications\n\n[j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn?\n[j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. Neural Networks 164, 156-176.\n[c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics.\n\nfind more publications here"
   },
   {
     "objectID": "index.html#recent-news",
     "href": "index.html#recent-news",
     "title": "Lukas Galke",
-    "section": "recent news",
-    "text": "recent news\n\nDec 2023: received best paper award from GenBench workshop, EMNLP 2023\nJul 2023: received outstanding reviewer award from ACL 2023\nJul 2023: gave a talk in the Cognitive Systems Colloquium, University of Ulm [t29]\nJul 2023: gave a talk in the AI Colloquium of Vrije Universiteit Amsterdam [t28]\nMay 2023: paper on lifelong graph learning published in Neural Networks [j3]\nMay 2023: gave a talk in the KIK AI Coffee and Learning meeting at Amsterdam University Medical Centre [t26]\nMay 2023: gave a talk in the Computational Linguistics Seminar at University of Amsterdam [t25]"
+    "section": "Recent news",
+    "text": "Recent news\n\nDec 2023: received best paper award from GenBench workshop, EMNLP 2023\nJul 2023: received outstanding reviewer award from ACL 2023\nJul 2023: gave a talk in the Cognitive Systems Colloquium, University of Ulm [t29]\nJul 2023: gave a talk in the AI Colloquium of Vrije Universiteit Amsterdam [t28]\nMay 2023: paper on lifelong graph learning published in Neural Networks [j3]\nMay 2023: gave a talk in the KIK AI Coffee and Learning meeting at Amsterdam University Medical Centre [t26]\nMay 2023: gave a talk in the Computational Linguistics Seminar at University of Amsterdam [t25]"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "Lukas Galke",
-    "section": "links",
-    "text": "links\n\nORC ID: 0000-0001-6124-1092\nDBLP profile\nSemantic Scholar profile\nGoogle Scholar profile\nGithub profile\nMastodon account"
+    "section": "Links",
+    "text": "Links\n\nORC ID: 0000-0001-6124-1092\nDBLP profile\nSemantic Scholar profile\nGoogle Scholar profile\nGithub profile\nMastodon account"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Lukas Galke",
-    "section": "contact",
-    "text": "contact\nTo get in touch, just drop me an e-mail via hi@lpag.de."
+    "section": "Contact",
+    "text": "Contact\nTo get in touch, just drop me an e-mail via hi@lpag.de."
   },
   {
     "objectID": "about.html",
