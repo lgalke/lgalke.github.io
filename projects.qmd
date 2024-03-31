@@ -92,22 +92,24 @@ research activities. The practice partner brings in the necessary experience
 in the field of business valuation and strategy development and ensures a
 practical testing of the toolkit.
 
-- *two more journal papers currently under review*
-- [journal paper (German)](https://www.universitaetsverlagwebler.de/_files/ugd/7bac3c_24fe9adc2e3740178ad5ba98f66d1931.pdf)
+- *one more journal papers currently under review*
+- [TEM paper evaluated the toolkit](https://doi.org/10.1109/TEM.2023.3308008)
+- [project website](https://q-aktiv.github.io)
 - [COVID-19++ dataset](https://doi.org/10.5281/zenodo.5531084)
 - [dataset paper](https://doi.org/10.1109/BigData52589.2021.9671730).
-- [paper on learning concept representations](https://doi.org/10.18420/inf2019_26)
+- [conference paper on learning concept representations](https://doi.org/10.18420/inf2019_26)
 - [follow-up work building on concept representation learning methods](https://doi.org/10.1111/jpim.12572)
 - [Python package for learning concept representations and analyzing network dynamics](https://gitlab.com/Q-Aktiv/qgraph)
-- [paper on data enrichment 2](https://ceur-ws.org/Vol-2773/paper-09.pdf)
-- [paper on data enrichment 1](https://ceur-ws.org/Vol-2451/paper-23.pdf)
+- [workshop paper on data enrichment 2](https://ceur-ws.org/Vol-2773/paper-09.pdf)
+- [workshop paper on data enrichment 1](https://ceur-ws.org/Vol-2451/paper-23.pdf)
 - [tools for harvesting raw data](https://github.com/Q-AKTIV/covid19-harvesting-tools)
-- [project website](https://q-aktiv.github.io)
-- [interview about open science tools for digital collaboration (de)](https://www.zbw-mediatalk.eu/de/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
 - [interview about open science tools for digital collaboration (en)](https://www.zbw-mediatalk.eu/en/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
+- [interview about open science tools for digital collaboration (de)](https://www.zbw-mediatalk.eu/de/2019/03/praxisbericht-open-science-diese-tools-foerdern-die-zusammenarbeit/)
+- [journal paper (German)](https://www.universitaetsverlagwebler.de/_files/ugd/7bac3c_24fe9adc2e3740178ad5ba98f66d1931.pdf)
 - [press item (German)](https://www.b-i-t-online.de/neues/5386)
 - [press release (ZB MED, German)](https://www.zbmed.de/forschen/abgeschlossene-projekte/q-aktiv)
 - [funding announcement (German)](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/quantitative-wissenschaftsforschung/q-aktiv/q-aktiv_node.html)
+- [final project report (German)](https://zenodo.org/records/5788648)
 
 ## Word Matrices for Text Representation Learning (word2mat) {#word2mat}
 
