@@ -4,8 +4,10 @@ title: Publications
 
 ## Journal articles
 
+
+- [j8] Lukas Galke, Limor Raviv (under review). Emergent communication and learning pressures in language models: a language evolution perspective.
 - [j7] Lukas Galke, Yoav Ram, Limor Raviv (under review). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239)
-- [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (under review). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19.
+- [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (in revision). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19.
 - [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
 - [j4] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2023). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence. *IEEE Transactions on Engineering Management*. [paper](https://doi.org/10.1109/TEM.2023.3308008)
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. *Neural Networks* 164, 156-176. [paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content) [code](https://github.com/lgalke/lifelong-learning)
