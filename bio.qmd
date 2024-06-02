@@ -1,0 +1,39 @@
+---
+title: Bio
+---
+
+If you need a bio or a picture of me, you can use the ones on this page.
+
+## Formal bio
+
+Lukas Galke was born in Wuppertal, Germany in 1989.  He received the B.Sc. and
+M.Sc. degrees in computer science from Kiel University, Germany, in 2017 and
+the Ph.D. degree in computer science from the same university in 2023. 
+
+From 2017 to 2021, he was a Doctoral Researcher with Kiel University and with
+ZBW -- Leibniz Information Centre for Economics.  Since 2022, he has been a
+Postdoctoral Researcher with the Max Planck Institute for Psycholinguistics,
+Nijmegen, Netherlands.  He is the author of more than 20 journal articles,
+conference proceedings papers, and workshop papers.  His research interests
+include natural language processing, graph representation learning, and
+lifelong machine learning.  
+
+Dr. Galke is a member of the Gesellschaft für Informatik (GI) and Association
+for Computational Lingiustics (ACL) and was a recipient of the ACL Outstanding
+Reviewer Award in 2023.
+
+## Less formal bio (100 words)
+
+Lukas obtained his PhD in 2023 from Kiel University, specializing in
+Representation Learning for Texts and Graphs. Prior to that, he earned his MSc
+in Computer Science at the same institution in 2017. His research focuses on
+the intersection of lifelong machine learning and continuous or discrete
+communication in deep neural networks. His work touches various areas,
+including natural language processing, graph representation learning, and
+information retrieval. Since 2022, Lukas has been working as a postdoctoral
+researcher at the Max Planck Institute for Psycholinguistics, where he
+investigates the emergence of communication protocols between neural networks.
+
+## Picture
+
+<img style="border-radius: 50%"  alt="A picture of myself" width="128" height="128" resize=true src="images/2023-10-Lukas-Galke-square.jpeg"></img>
