@@ -27,6 +27,7 @@ learn to communicate and the parallels to human communication.
 
 ## Recent news
 
+- July 2024: paper accepted at [ECAI](https://www.ecai2024.eu)
 - May 2024: paper accepted at [CoLLAs](https://lifelong-ml.cc)
 - May 2024: gave a talk at the Creative Intelligence Lab of Leiden University, NL
 - Dec 2023: received best paper award from GenBench workshop, EMNLP 2023
