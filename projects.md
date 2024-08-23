@@ -2,6 +2,13 @@
 title: Projects
 ---
 
+## Interpretability of Language Models
+
+*2023--*
+
+- What makes a language easy to deep-learn? (in revision) [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
+- [Workshop paper on probing large language models to generalize their morphological knowledge](https://aclanthology.org/2024.cmcl-1.15/)
+
 ## Machine Communication and the Emergence of Language {#mc-emecom}
 
 *2022--*
@@ -9,10 +16,8 @@ title: Projects
 Imagine you put some artificial neural network agents into a game that can only be solved with communication. How do neural network agents learn to communicate?  What communication protocols emerge? What are the parallels to human communication? 
 
 - Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
-- What makes a language easy to deep-learn? (in revision) [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
-- [Workshop paper on probing large language models to generalize their morphological knowledge](https://aclanthology.org/2024.cmcl-1.15/)
-- [Machine learning and the Evolution of Language](https://ml4evolang.github.io) (two-session workshop at the Joint Conference on Language Evolution)
-- [EmeCom workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
+- [Machine learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io) 
+- [Emergent Communication workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
 
 ## Are We Really Making Progress in Text Classification (textclf) {#textclf}
@@ -20,7 +25,6 @@ Imagine you put some artificial neural network agents into a game that can only 
 *2021--*
 
 Automatically categorizing text documents is a popular research topic with numerous new approaches being published each year. However, do they really give an advantage over earlier approaches? This question has triggered this line of research and the answer we have is worrisome. For instance, many recently proposed methods such as TextGCN are outperformed by a simple multilayer perceptron on a bag-of-words representation -- a decade old technique enhanced with today's best practices.
-
 
 - [preprint of survey paper](https://arxiv.org/abs/2204.03954)
 - [ACL 2022 paper](https://doi.org/10.18653/v1/2022.acl-long.279)
@@ -33,15 +37,7 @@ Automatically categorizing text documents is a popular research topic with numer
 
 *2019--*
 
-Graph neural networks have quickly risen to be the standard technique for
-machine learning on graph-structured data.  Yet graph neural networks are
-usually only applied to static snapshots of graphs, while real-world graphs
-(social media, publication networks) are continually evolving.  Evolving graphs
-come with challenges that are rarely reflected in the graph representation
-learning literature, such as dealing with new classes in node classification.
-We pursue a lifelong learning approach for graph neural networks on evolving
-graphs and investigate incremental training, out-of-distribution detection, and
-issues caused by an imbalanced class distribution.
+Graph neural networks have quickly risen to be the standard technique for machine learning on graph-structured data.  Yet graph neural networks are usually only applied to static snapshots of graphs, while real-world graphs (social media, publication networks) are continually evolving.  Evolving graphs come with challenges that are rarely reflected in the graph representation learning literature, such as dealing with new classes in node classification.  We pursue a lifelong learning approach for graph neural networks on evolving graphs and investigate incremental training, out-of-distribution detection, and issues caused by an imbalanced class distribution.
 
 - [CoLLAs 2024 conference paper on zero-shot learning in graphs](https://arxiv.org/abs/2406.09926)
 - [IJCNN 2023 conference paper on new class detection in graphs](https://doi.org/10.1109/IJCNN54540.2023.10191071)
@@ -64,30 +60,9 @@ thesis](https://doi.org/10.21941/kcss/2023/1)
 
 *2019--2022, funded by the Federal Ministry of Education and Research (BMBF)*
 
-The aim of Q-AKTIV is to improve the methods for forecasting dynamics and
-interactions between research, technology development, and innovation. The
-network analysis methods will be based on recent developments in Deep
-Learning. In addition to the emergence of new knowledge areas and networks, we
-focus on the convergence processes of established sectors. The development and
-evaluation of the new methods initially takes place in the field of life
-sciences, which is characterized by high marked dynamics. The additional
-application in economics enables a systematic comparison of the dynamics
-between the disciplines of science. The new methods will be used to predict
-the impact of existing research and network structures on the dynamics of
-knowledge and technologies as well as the future relevance of topics and
-actors. The result of Q-AKTIV is an implemented and evaluated instrument for
-the strategic analysis and prognosis of the dynamics in science and
-innovation. This complements today’s primarily qualitative approaches to early
-strategic planning and increases the decision-making ability of research
-institutions, policy makers, and industries. In addition to the analysis of
-dynamics, also valuable indicators for R & D performance measurement can be
-derived, e.g., the registration of patents based on scientific publications,
-the economic development of the companies involved, as well as the outreach of
-research activities. The practice partner brings in the necessary experience
-in the field of business valuation and strategy development and ensures a
-practical testing of the toolkit.
+The aim of Q-AKTIV is to improve the methods for forecasting dynamics and interactions between research, technology development, and innovation. The network analysis methods will be based on recent developments in Deep Learning. In addition to the emergence of new knowledge areas and networks, we focus on the convergence processes of established sectors. The development and evaluation of the new methods initially takes place in the field of life sciences, which is characterized by high marked dynamics. The additional application in economics enables a systematic comparison of the dynamics between the disciplines of science. The new methods will be used to predict the impact of existing research and network structures on the dynamics of knowledge and technologies as well as the future relevance of topics and actors. The result of Q-AKTIV is an implemented and evaluated instrument for the strategic analysis and prognosis of the dynamics in science and innovation. This complements today’s primarily qualitative approaches to early strategic planning and increases the decision-making ability of research institutions, policy makers, and industries. In addition to the analysis of dynamics, also valuable indicators for R & D performance measurement can be derived, e.g., the registration of patents based on scientific publications, the economic development of the companies involved, as well as the outreach of research activities. The practice partner brings in the necessary experience in the field of business valuation and strategy development and ensures a practical testing of the toolkit.
 
-- [Scientometrics paper on the scientific response to COVID-19](https://doi.org/10.1007/s11192-024-05132-x)
+- [Scientometrics paper on the lack of interdisciplinarity in the scientific response to COVID-19](https://doi.org/10.1007/s11192-024-05132-x)
 - [TEM paper evaluated the toolkit](https://doi.org/10.1109/TEM.2023.3308008)
 - [project website](https://q-aktiv.github.io)
 - [COVID-19++ dataset](https://doi.org/10.5281/zenodo.5531084)
@@ -143,7 +118,7 @@ subject labels from professional subject indexers, the text is more useful.
 
 - [journal paper on citation recommendation](https://doi.org/10.1007/s10791-022-09408-9)
 - [conference paper on citation recommendation](https://dl.acm.org/doi/abs/10.1145/3209219.3209236)
-- [RecSys challenge paper on music recommendation](https://doi.org/10.1145/3267471.3267476)
+- [RecSys challenge workshop paper on music recommendation](https://doi.org/10.1145/3267471.3267476)
 - [code](https://github.com/lgalke/aae-recommender)
 
 ## Linked Open Citation Database (LOC-DB) {#loc-db}
@@ -192,9 +167,7 @@ retrieval. The two main take-aways:
 
 *2016--2019, EU funding, Grant Agreement Number 693092*
 
-I engaged in this EU Horizon 2020 project as a student worker between 2016 and
-2017, leading to contributions to the deliverables 3.1, 3.2 and 3.3, as well as
-various conference and workshop papers:
+I engaged in this EU Horizon 2020 project as a research assistant between 2016 and 2017, leading to contributions to the deliverables 3.1, 3.2 and 3.3, as well as various conference and workshop papers:
 
 - [Deliverable 3.3](http://moving-project.eu/wp-content/uploads/2019/03/moving_d3.3_v1.0.pdf)
 - [Deliverable 3.2](http://moving-project.eu/wp-content/uploads/2018/03/moving_d3.2_v1.0.pdf)

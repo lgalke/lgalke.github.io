@@ -4,8 +4,7 @@ title: Publications
 
 ## Journal articles
 
-
-- [j8] Lukas Galke, Limor Raviv (in revision). Emergent communication and learning pressures in language models: a language evolution perspective.
+- [j8] Lukas Galke, Limor Raviv (in revision). Emergent communication and learning pressures in language models. [preprint](https://arxiv.org/abs/2403.14427)
 - [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
 - [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)
 - [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
