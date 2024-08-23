@@ -48,13 +48,6 @@ Graph neural networks have quickly risen to be the standard technique for machin
 - [code for IJCNN'23 paper](https://github.com/Bobowner/Open-World-LGL)
 - related project: [Q-AKTIV](#q-aktiv)
 
-## Representation Learning for Texts and Graphs {#phd-project}
-
-*2017-2022*
-
-My PhD project. A meta-project bringing together [word2mat](#word2mat),
-[textclf](#textclf), [aaerec](#aaerec), [LGL](#LGL). [phd
-thesis](https://doi.org/10.21941/kcss/2023/1)
 
 ## Analyzing the Scientific, Economic and Societal Impact of Research Activities and Research Networks (Q-AKTIV) {#q-aktiv}
 
@@ -62,8 +55,8 @@ thesis](https://doi.org/10.21941/kcss/2023/1)
 
 The aim of Q-AKTIV is to improve the methods for forecasting dynamics and interactions between research, technology development, and innovation. The network analysis methods will be based on recent developments in Deep Learning. In addition to the emergence of new knowledge areas and networks, we focus on the convergence processes of established sectors. The development and evaluation of the new methods initially takes place in the field of life sciences, which is characterized by high marked dynamics. The additional application in economics enables a systematic comparison of the dynamics between the disciplines of science. The new methods will be used to predict the impact of existing research and network structures on the dynamics of knowledge and technologies as well as the future relevance of topics and actors. The result of Q-AKTIV is an implemented and evaluated instrument for the strategic analysis and prognosis of the dynamics in science and innovation. This complements today’s primarily qualitative approaches to early strategic planning and increases the decision-making ability of research institutions, policy makers, and industries. In addition to the analysis of dynamics, also valuable indicators for R & D performance measurement can be derived, e.g., the registration of patents based on scientific publications, the economic development of the companies involved, as well as the outreach of research activities. The practice partner brings in the necessary experience in the field of business valuation and strategy development and ensures a practical testing of the toolkit.
 
-- [Scientometrics paper on the lack of interdisciplinarity in the scientific response to COVID-19](https://doi.org/10.1007/s11192-024-05132-x)
-- [TEM paper evaluated the toolkit](https://doi.org/10.1109/TEM.2023.3308008)
+- [Scientometrics journal paper on the lack of interdisciplinarity in the scientific response to COVID-19, 2024](https://doi.org/10.1007/s11192-024-05132-x)
+- [TEM journal paper evaluating the developed methods, 2023](https://doi.org/10.1109/TEM.2023.3308008)
 - [project website](https://q-aktiv.github.io)
 - [COVID-19++ dataset](https://doi.org/10.5281/zenodo.5531084)
 - [COVID-19++ dataset paper](https://doi.org/10.1109/BigData52589.2021.9671730).
@@ -81,6 +74,14 @@ The aim of Q-AKTIV is to improve the methods for forecasting dynamics and intera
 - [funding announcement (German)](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/quantitative-wissenschaftsforschung/q-aktiv/q-aktiv_node.html)
 - [final project report (German)](https://zenodo.org/records/5788648)
 
+## Representation Learning for Texts and Graphs {#phd-project}
+
+*2017-2022*
+
+My PhD project. A meta-project bringing together [word2mat](#word2mat),
+[textclf](#textclf), [aaerec](#aaerec), [LGL](#LGL). [phd
+thesis](https://doi.org/10.21941/kcss/2023/1)
+
 ## Word Matrices for Text Representation Learning (word2mat) {#word2mat}
 
 *2017-2022*
@@ -94,9 +95,9 @@ and word vectors turned out to be beneficial. Later, we showed that pre-trained
 language models can be distilled into such a purely embedding-based model,
 giving benefits in efficiency while keeping reasonable accuracy.
 
-- [ICLR paper on word matrices](https://openreview.net/pdf?id=H1MgjoR9tQ)
+- [IJCNN paper on distilling the knowledge from a pre-trained language model into matrix embedding models](https://doi.org/10.1109/IJCNN55064.2022.9892144)
 - [extended abstract in the best-of data science track at the INFORMATIK 2019](https://doi.org/10.18420/inf2019_47)
-- [paper on distilling the knowledge from a pre-trained language model into matrix embedding models](https://doi.org/10.1109/IJCNN55064.2022.9892144)
+- [ICLR paper on self-supervised learning of word matrices](https://openreview.net/pdf?id=H1MgjoR9tQ)
 - [code](https://github.com/florianmai/word2mat)
 
 ## Autoencoders for Document-based Recommendations (aaerec) {#aaerec}
@@ -147,7 +148,7 @@ also be scalable for using it in a network.
 - [collection of code for the LOC-DB project](https://github.com/locdb)
 - [Second Linked Open Citation Database (LOC-DB) workshop](https://locdb.bib.uni-mannheim.de/blog/en/workshop-2018-2/)
 - [First Linked Open Citation Database (LOC-DB) Workshop](https://locdb.bib.uni-mannheim.de/blog/en/workshop-2/)
-- [project website](https://locdb.bib.uni-mannheim.de/blog/en/)
+- [project website (de)](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/)
 
 ## Word Embeddings for Information Retrieval (vec4ir) {#vec4ir}
 
@@ -175,6 +176,7 @@ I engaged in this EU Horizon 2020 project as a research assistant between 2016 a
 - [ICADL 2018 paper on information retrieval on titles vs. full-text](https://doi.org/10.1007/978-3-030-04257-8_30)
 - [DEXA 2018 workshop paper on response suggestion](https://doi.org/10.1007/978-3-319-99133-7_18) 
 - [code for response suggestion](https://github.com/lgalke/resuggest)
+- [Project website](http://moving-project.eu)
 
 ## Extreme Multi-label Text Classification (Quadflor) {#xlmc}
 
