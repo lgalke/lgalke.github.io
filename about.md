@@ -13,7 +13,7 @@ Lukas received the B.Sc. (2013) and M.Sc. degrees (2017) in computer science fro
 
 Since September 2024, Lukas is an Assistant Professor for Data Science and Advanced Machine Learning at the University of Southern Denmark in Odense.
 From 2022 to 2024, he was a Postdoctoral Researcher
-with the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands
+with the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands.
 Between 2017 to 2021, Lukas was a Doctoral Researcher with Kiel University and with 
 ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany.  
 
