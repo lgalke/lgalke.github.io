@@ -2,12 +2,10 @@
 title: "About"
 ---
 
-<div style="max-width: 256px">
+ <figure style="display: inline-block; margin: 0; max-width: 256px">
 <img src="assets/images/2024-08-LGalke-sw-sq-max-full-neutral.jpeg" alt="A photo of Lukas Galke" style="width: 256px; height: 256px; object-fit: cover;"/>
-<div style="text-align: center; font-weight: 200; "><small><i>
-Lukas Galke, Photo: <a href="https://www.instagram.com/paulgeorggalke/">paulgeorggalke</a>
-</i></small></div>
-</div>
+<figcaption style="text-align: center; font-weight: 100;">Lukas Galke, Photo: <a href="https://www.instagram.com/paulgeorggalke/">paulgeorggalke</a></figcaption>
+</figure>
 
 ## Bio
 

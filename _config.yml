@@ -18,8 +18,8 @@ remote_theme: lgalke/athena
 title: Lukas Paul Achatius Galke
 description: >
   Assistant Professor for Data Science and Advanced Machine Learning<br/>
-  Department of Mathematics and Computer Science<br/>
-  University of Southern Denmark<br/>
+  Department of Mathematics and Computer Science (IMADA)<br/>
+  University of Southern Denmark (SDU)<br/>
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
 github_repo: lgalke.github.io # the GitHub repo name for your project
@@ -33,6 +33,9 @@ social_username: LukasGalke
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: light
+
+# Seo
+tagline: Assistant Professor for Data Science and Advanced Machine Learning
 
 # Build settings
 markdown: kramdown
