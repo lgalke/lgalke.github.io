@@ -2,15 +2,15 @@
 title: Projects
 ---
 
-## Interacting AIs {#interacting-AIs}
+## Machine Communication and the Emergence of Language {#mc-emecom}
 
 *2022--*
 
-Imagine you put some artificial neural network agents into a game that can only be
-solved with communication. How do artificial neural network agents learn to communicate?
-What communication protocols emerge? What are the parallels to human communication? 
+Imagine you put some artificial neural network agents into a game that can only be solved with communication. How do neural network agents learn to communicate?  What communication protocols emerge? What are the parallels to human communication? 
 
-- What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239)
+- Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
+- What makes a language easy to deep-learn? (in revision) [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
+- [Workshop paper on probing large language models to generalize their morphological knowledge](https://aclanthology.org/2024.cmcl-1.15/)
 - [Machine learning and the Evolution of Language](https://ml4evolang.github.io) (two-session workshop at the Joint Conference on Language Evolution)
 - [EmeCom workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
@@ -19,13 +19,7 @@ What communication protocols emerge? What are the parallels to human communicati
 
 *2021--*
 
-Automatically categorizing text documents is a popular research topic with
-numerous new approaches being published each year. However, do they really give
-an advantage over earlier approaches? This question has triggered this line of
-research and the answer we have is worrisome. For instance, many recently
-proposed methods such as TextGCN are outperformed by a simple multilayer
-perceptron on a bag-of-words representation -- a decade old technique enhanced
-with today's best practices.
+Automatically categorizing text documents is a popular research topic with numerous new approaches being published each year. However, do they really give an advantage over earlier approaches? This question has triggered this line of research and the answer we have is worrisome. For instance, many recently proposed methods such as TextGCN are outperformed by a simple multilayer perceptron on a bag-of-words representation -- a decade old technique enhanced with today's best practices.
 
 
 - [preprint of survey paper](https://arxiv.org/abs/2204.03954)
@@ -49,8 +43,9 @@ We pursue a lifelong learning approach for graph neural networks on evolving
 graphs and investigate incremental training, out-of-distribution detection, and
 issues caused by an imbalanced class distribution.
 
-- conference paper on out-of-distribution detection in graphs (coming soon)
-- [*Neural Networks* journal paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
+- [CoLLAs 2024 conference paper on zero-shot learning in graphs](https://arxiv.org/abs/2406.09926)
+- [IJCNN 2023 conference paper on new class detection in graphs](https://doi.org/10.1109/IJCNN54540.2023.10191071)
+- [*Neural Networks* journal paper, 2023](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
 - [IJCNN 2021 conference paper](https://doi.org/10.1145/3197026.3197050)
 - [ICLR 2019 workshop paper](https://rlgm.github.io/papers/21.pdf)
 - [code for *Neural Networks* paper](https://github.com/lgalke/lifelong-learning)

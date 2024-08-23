@@ -6,7 +6,7 @@ title: Publications
 
 
 - [j8] Lukas Galke, Limor Raviv (in revision). Emergent communication and learning pressures in language models: a language evolution perspective.
-- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239)
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
 - [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)
 - [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
 - [j4] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2023). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence. *IEEE Transactions on Engineering Management*. [paper](https://doi.org/10.1109/TEM.2023.3308008)
@@ -16,6 +16,8 @@ title: Publications
 
 ## Conference papers
 
+- [c13] Yousef Younes, Lukas Galke, and Ansgar Scherp (2024). RADAr: A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification. To appear in *ECAI 2024*.
+- [c12] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (2024). POWN: Prototypical Open-world Node Classification. In *Conference on Lifelong Learning Agents*.
 - [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (2023). Open-World Lifelong Graph Learning. In *International Joint Conference on Neural Networks (IJCNN)*. IEEE. [paper](https://doi.org/10.1109/IJCNN54540.2023.10191071) [code](https://github.com/Bobowner/Open-World-LGL)
 - [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *Proceedings of the 2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [paper](https://doi.org/10.1109/IJCNN55064.2022.9892144)
 - [c9] Lukas Galke, Ansgar Scherp (2022). Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 4038–4051, Dublin, Ireland. Association for Computational Linguistics. [paper](https://doi.org/10.18653/v1/2022.acl-long.279) [code](https://github.com/lgalke/text-clf-baselines)
@@ -30,6 +32,7 @@ title: Publications
 
 ## Workshop papers
 
+- [w10] Anh Dang, Limor Raviv, Lukas Galke (2024). Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test. In *Cognitive Modeling and Computational Linguistics Workshop at ACL*. [paper](https://aclanthology.org/2024.cmcl-1.15/)
 - [w9] Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Florian Sihler, Ansgar Scherp (2023). GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding. GenBench Workshop @ EMNLP 2023. [paper](https://aclanthology.org/2023.genbench-1.2/)
 - [w8] Lukas Galke, Yoav Ram, Limor Raviv (2022). Emergent communication for understanding human language evolution: What's missing?. Emergent Communication workshop at *Tenth International Conference on Learning Representations (ICLR 2022)*. OpenReview.net. [paper](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 - [w7] Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U Förstner, Klaus Tochtermann, Carsten Schultz (2021). COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics. In *2021 IEEE International Conference on Big Data (Big Data)*. IEEE. [paper](https://doi.org/10.1109/BigData52589.2021.9671730)
