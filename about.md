@@ -4,7 +4,7 @@ title: "About"
 
  <figure style="display: inline-block; margin: 0; max-width: 256px">
 <img src="assets/images/2024-08-LGalke-sw-sq-max-full-neutral.jpeg" alt="A photo of Lukas Galke" style="width: 256px; height: 256px; object-fit: cover;"/>
-<figcaption style="text-align: center; font-weight: 100;">Lukas Galke, Photo: <a href="https://www.instagram.com/paulgeorggalke/">paulgeorggalke</a></figcaption>
+<figcaption style="text-align: center; font-weight: 100;">Lukas Galke (Photo: <a href="https://www.instagram.com/paulgeorggalke/">paulgeorggalke</a>)</figcaption>
 </figure>
 
 ## Bio
