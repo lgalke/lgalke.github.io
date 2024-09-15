@@ -19,7 +19,7 @@ ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany.
 
 ## Some non-professional things about myself
 
-- I am the motivated by challenges.
+- I am motivated by challenges.
 - I practice Yoga.
 - I like to go surfing and stand-up paddling.
 - I like reading.  Current book recommendations: *The Light Pirate* by Lily Brooks-Dalton, *Station 11* by Emily St. John Mandel.
