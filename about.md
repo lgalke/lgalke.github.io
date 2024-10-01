@@ -7,6 +7,7 @@ title: "About"
 <figcaption style="text-align: center; font-weight: 100;">Lukas Galke (Photo: <a href="https://www.instagram.com/paulgeorggalke/">paulgeorggalke</a>)</figcaption>
 </figure>
 
+
 ## Bio
 
 Lukas received the B.Sc. (2013) and M.Sc. degrees (2017) in computer science from Kiel University, Germany and the Ph.D. degree in computer science from the same university in 2023, specializing in representation learning for texts and graphs. 
@@ -17,7 +18,14 @@ with the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands.
 Between 2017 to 2021, Lukas was a Doctoral Researcher with Kiel University and with 
 ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany.  
 
-## Some non-professional things about myself
+## Profiles
+
+- ORCID: [0000-0001-6124-1092](https://orcid.org/0000-0001-6124-1092)
+- GitHub: [lgalke](https://github.com/lgalke)
+- Mastodon: [@lpag@sigmoid.social](https://sigmoid.social/@lpag)
+- X: [@LukasGalke](https://x.com/LukasGalke)
+
+## Get to know me
 
 - I am motivated by challenges.
 - I practice Yoga.
