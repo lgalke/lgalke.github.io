@@ -2,27 +2,34 @@
 title: Projects
 ---
 
-## Interpretability of Language Models
+## Machine Communication and Interpretability of Language Models {#machcomm-interpretability}
 
-*2023--*
+*Since 2023*
 
-- What makes a language easy to deep-learn? (in revision) [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
-- [Workshop paper on probing large language models to generalize their morphological knowledge](https://aclanthology.org/2024.cmcl-1.15/)
+- Paper: What makes a language easy to deep-learn? (in final revision, to appear soon). [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
+- Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
+- Paper on [**Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test**](https://aclanthology.org/2024.cmcl-1.15/) published in the [CMCL workshop](https://cmclorg.github.io) at the [ACL 2024 conference](https://2024.aclweb.org).
+- Poster at the [Highlights in the Language Sciences conference](https://hils2024.nl), July 8--11, 2024
+- Talk given at the MPI Proudly Presents series, July 4, 2024, [Max Planck Institute for Psycholinguistics](https://www.mpi.nl), Nijmegen, NL.
+- Invited talk and poster at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024
+- Extended abstract on **Testing the Linguistic Niche Hypothesis in Large Language Models with a Multilingual Wug Test** published in the [Proceedings of Evolang XV](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3587960) (pp. 91--94)
+- Podium presentation by Anh Dang at [Evolang 2024](https://evolang2024.github.io) 
+- Talk at the [Protolang 8 conference](https://sites.google.com/view/protolang8/home), Rome, September 27--28, 2023. Abstract published in the [Protolang 8 book of abstracts](https://drive.google.com/file/d/1rbBGo82zV4nCNgRiLeGXEJoR79wSGxpu/view)
 
 ## Machine Communication and the Emergence of Language {#mc-emecom}
 
-*2022--*
+*Since 2022*
 
 Imagine you put some artificial neural network agents into a game that can only be solved with communication. How do neural network agents learn to communicate?  What communication protocols emerge? What are the parallels to human communication? 
 
-- Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
 - [Machine Learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io) 
 - [Emergent Communication workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
 
+
 ## Are We Really Making Progress in Text Classification (textclf) {#textclf}
 
-*2021--*
+*Since 2021*
 
 Automatically categorizing text documents is a popular research topic with numerous new approaches being published each year. However, do they really give an advantage over earlier approaches? This question has triggered this line of research and the answer we have is worrisome. For instance, many recently proposed methods such as TextGCN are outperformed by a simple multilayer perceptron on a bag-of-words representation -- a decade old technique enhanced with today's best practices.
 
@@ -35,7 +42,7 @@ Automatically categorizing text documents is a popular research topic with numer
 
 ## Lifelong Graph Representation Learning (LGL) {#LGL}
 
-*2019--*
+*Since 2019*
 
 Graph neural networks have quickly risen to be the standard technique for machine learning on graph-structured data.  Yet graph neural networks are usually only applied to static snapshots of graphs, while real-world graphs (social media, publication networks) are continually evolving.  Evolving graphs come with challenges that are rarely reflected in the graph representation learning literature, such as dealing with new classes in node classification.  We pursue a lifelong learning approach for graph neural networks on evolving graphs and investigate incremental training, out-of-distribution detection, and issues caused by an imbalanced class distribution.
 
@@ -118,10 +125,10 @@ semantics of item co-occurrence.  When item co-occurrence implies relatedness
 the text. In contrast, when item co-occurrence implies diversity, such as in
 subject labels from professional subject indexers, the text is more useful.
 
-- [journal paper on citation recommendation](https://doi.org/10.1007/s10791-022-09408-9)
-- [conference paper on citation recommendation](https://dl.acm.org/doi/abs/10.1145/3209219.3209236)
-- [RecSys challenge workshop paper on music recommendation](https://doi.org/10.1145/3267471.3267476)
-- [code](https://github.com/lgalke/aae-recommender)
+- [journal paper on citation and subject label recommendation](https://doi.org/10.1007/s10791-022-09408-9)
+- [conference paper on citation and subject label recommendation](https://dl.acm.org/doi/abs/10.1145/3209219.3209236)
+- [RecSys challenge workshop paper on music recommendation for automatic playlist continuation](https://doi.org/10.1145/3267471.3267476)
+- [codebase for all three papers](https://github.com/lgalke/aae-recommender)
 
 ## Linked Open Citation Database (LOC-DB) {#loc-db}
 
@@ -147,8 +154,8 @@ also be scalable for using it in a network.
 - [main paper on the project as a whole](https://dl.acm.org/doi/abs/10.1145/3197026.3197050)
 - [demo of the LOC-DB project outcome](https://locdb.bib.uni-mannheim.de/demo-frontend/frontpage)
 - [collection of code for the LOC-DB project](https://github.com/locdb)
-- [Second Linked Open Citation Database (LOC-DB) workshop](https://locdb.bib.uni-mannheim.de/blog/en/workshop-2018-2/)
-- [First Linked Open Citation Database (LOC-DB) Workshop](https://locdb.bib.uni-mannheim.de/blog/en/workshop-2/)
+- Second Linked Open Citation Database (LOC-DB) workshop, 2018, Mannheim, Germany.
+- First Linked Open Citation Database (LOC-DB) workshop, 2017, Mannheim, Germany.
 - [project website (de)](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/)
 
 ## Word Embeddings for Information Retrieval (vec4ir) {#vec4ir}
@@ -161,9 +168,9 @@ retrieval. The two main take-aways:
 1. It is important to retain the crisp matching operation (before similarity scoring), even when using word embeddings.
 2. A combination of classic information retrieval method TF-IDF and word embeddings led to the best results.
 
-- [paper](https://doi.org/10.18420/in2017_215)
+- [INFORMATIK 2017 paper](https://doi.org/10.18420/in2017_215)
 - [MSc thesis](/pdf/MSc-thesis_LG.pdf)
-- [code (>200 stars, >40 forks)](https://github.com/lgalke/vec4ir)
+- [codebase for studying embedded retrieval (>200 stars, >40 forks)](https://github.com/lgalke/vec4ir)
 
 ## TraininG towards a society of data-saVvy inforMation prOfessionals to enable open leadership INnovation (MOVING)
 

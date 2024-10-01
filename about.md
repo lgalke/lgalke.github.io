@@ -21,6 +21,8 @@ ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany.
 ## Profiles
 
 - ORCID: [0000-0001-6124-1092](https://orcid.org/0000-0001-6124-1092)
+- DBLP: [Lukas Galke](https://dblp.org/pid/200/7830.html)
+- Google Scholar: [Lukas Galke](https://scholar.google.de/citations?hl=en&pli=1&user=AHGGdYQAAAAJ)
 - GitHub: [lgalke](https://github.com/lgalke)
 - Mastodon: [@lpag@sigmoid.social](https://sigmoid.social/@lpag)
 - X: [@LukasGalke](https://x.com/LukasGalke)
