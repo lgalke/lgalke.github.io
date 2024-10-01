@@ -16,7 +16,7 @@ title: Projects
 Imagine you put some artificial neural network agents into a game that can only be solved with communication. How do neural network agents learn to communicate?  What communication protocols emerge? What are the parallels to human communication? 
 
 - Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
-- [Machine learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io) 
+- [Machine Learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io) 
 - [Emergent Communication workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
 
@@ -44,8 +44,9 @@ Graph neural networks have quickly risen to be the standard technique for machin
 - [*Neural Networks* journal paper, 2023](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
 - [IJCNN 2021 conference paper](https://doi.org/10.1145/3197026.3197050)
 - [ICLR 2019 workshop paper](https://rlgm.github.io/papers/21.pdf)
-- [code for *Neural Networks* paper](https://github.com/lgalke/lifelong-learning)
-- [code for IJCNN'23 paper](https://github.com/Bobowner/Open-World-LGL)
+- [Code for 2023 *Neural Networks* paper](https://github.com/lgalke/lifelong-learning)
+- [Code for IJCNN 2023 paper](https://github.com/Bobowner/Open-World-LGL)
+- [Code for ICLR 2019 workshop paper](https://github.com/lgalke/gnn-pretraining-evaluation)
 - related project: [Q-AKTIV](#q-aktiv)
 
 
