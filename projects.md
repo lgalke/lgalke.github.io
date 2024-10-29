@@ -38,12 +38,22 @@ human communication?
 
 
 
-## Text Classification (textclf) {#textclf}
+## What Matters for Text Classification (textclf) {#textclf}
 
 *Since 2021*
 
-Automatically categorizing text documents is a popular research topic with numerous new approaches being published each year. However, do they really give an advantage over earlier approaches? This question has triggered this line of research and the answer we have is worrisome. For instance, many recently proposed methods such as TextGCN are outperformed by a simple multilayer perceptron on a bag-of-words representation -- a decade old technique enhanced with today's best practices.
+Automatically categorizing text documents is a popular research topic with
+numerous new approaches being published each year. However, do they really give
+an advantage over earlier approaches? This question has triggered this line of
+research and the answer we have is worrisome. For instance, many recently
+proposed methods such as TextGCN are outperformed by a simple multilayer
+perceptron on a bag-of-words representation -- a decade old technique enhanced
+with today's best practices.
 
+Even in the era of language models, the results on text classification are sometimes counter-intuitive.
+As such, fine-tuned small models typically outperform large language models.
+
+- [Simplifying hierarchical text classifciation](https://ebooks.iospress.nl/doi/10.3233/FAIA240661)
 - [preprint of a comparative survey paper](https://arxiv.org/abs/2204.03954)
 - [ACL 2022 paper](https://doi.org/10.18653/v1/2022.acl-long.279)
 - [code for multi-label classification](https://github.com/drndr/multilabel-text-clf)
@@ -57,7 +67,8 @@ Automatically categorizing text documents is a popular research topic with numer
 
 Graph neural networks have quickly risen to be the standard technique for machine learning on graph-structured data.  Yet graph neural networks are usually only applied to static snapshots of graphs, while real-world graphs (social media, publication networks) are continually evolving.  Evolving graphs come with challenges that are rarely reflected in the graph representation learning literature, such as dealing with new classes in node classification.  We pursue a lifelong learning approach for graph neural networks on evolving graphs and investigate incremental training, out-of-distribution detection, and issues caused by an imbalanced class distribution.
 
-- [CoLLAs 2024 conference paper on zero-shot learning in graphs](https://arxiv.org/abs/2406.09926)
+- [CoLLAs 2024 conference paper on zero-shot learning in graphs](https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-38) or on [arXiv](https://arxiv.org/abs/2406.09926)
+- [Code for CoLLAs 2024 paper](https://github.com/Bobowner/POWN)
 - [IJCNN 2023 conference paper on new class detection in graphs](https://doi.org/10.1109/IJCNN54540.2023.10191071)
 - [*Neural Networks* journal paper, 2023](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content)
 - [IJCNN 2021 conference paper](https://doi.org/10.1145/3197026.3197050)
