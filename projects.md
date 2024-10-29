@@ -2,38 +2,49 @@
 title: Projects
 ---
 
-## Machine Communication and Interpretability of Language Models {#machcomm-interpretability}
+## Interpretability of Language Models {#mc-interpretability}
 
 *Since 2023*
 
+Large language models have shown incredible results and experienced a rapid
+widespread adoption. However, we do not know *how* the trained models come to
+their decisions of what text to generate. Therefore, this project aims to
+investigate the interpretability of language models through structural probing,
+behavioral probing, and mechanistic interpretability -- and by bringing theories
+and experimental paradigms from psycholinguistics into machine learning.
+
 - Paper: What makes a language easy to deep-learn? (in final revision, to appear soon). [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
 - Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
-- Paper on [**Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test**](https://aclanthology.org/2024.cmcl-1.15/) published in the [CMCL workshop](https://cmclorg.github.io) at the [ACL 2024 conference](https://2024.aclweb.org).
+- Paper: [Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test](https://aclanthology.org/2024.cmcl-1.15/) published in the [CMCL workshop](https://cmclorg.github.io) at the [ACL 2024 conference](https://2024.aclweb.org).
 - Poster at the [Highlights in the Language Sciences conference](https://hils2024.nl), July 8--11, 2024
-- Talk given at the MPI Proudly Presents series, July 4, 2024, [Max Planck Institute for Psycholinguistics](https://www.mpi.nl), Nijmegen, NL.
-- Invited talk and poster at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024
-- Extended abstract on **Testing the Linguistic Niche Hypothesis in Large Language Models with a Multilingual Wug Test** published in the [Proceedings of Evolang XV](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3587960) (pp. 91--94)
-- Podium presentation by Anh Dang at [Evolang 2024](https://evolang2024.github.io) 
+- Poster at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024
+- Extended abstract on Testing the Linguistic Niche Hypothesis in Large Language Models with a Multilingual Wug Test published in the [Proceedings of Evolang XV](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3587960) (pp. 91--94)
+- Podium presentation by Anh Dang at [Evolang 2024](https://evolang2024.github.io)
 - Talk at the [Protolang 8 conference](https://sites.google.com/view/protolang8/home), Rome, September 27--28, 2023. Abstract published in the [Protolang 8 book of abstracts](https://drive.google.com/file/d/1rbBGo82zV4nCNgRiLeGXEJoR79wSGxpu/view)
 
 ## Machine Communication and the Emergence of Language {#mc-emecom}
 
 *Since 2022*
 
-Imagine you put some artificial neural network agents into a game that can only be solved with communication. How do neural network agents learn to communicate?  What communication protocols emerge? What are the parallels to human communication? 
+Imagine you put artificial neural network agents into a box and give them a task
+that can only be solved with communication. How do neural network agents learn
+to communicate? What communication protocols emerge? What are the parallels to
+human communication?
 
-- [Machine Learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io) 
+- Machine Communication and the Emergence of Language. Talk given at the MPI Proudly Presents series, July 4, 2024, [Max Planck Institute for Psycholinguistics](https://www.mpi.nl), Nijmegen, NL.
+- Invited talk at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024
+- [Machine Learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io)
 - [Emergent Communication workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
 
 
-## Are We Really Making Progress in Text Classification (textclf) {#textclf}
+## Text Classification (textclf) {#textclf}
 
 *Since 2021*
 
 Automatically categorizing text documents is a popular research topic with numerous new approaches being published each year. However, do they really give an advantage over earlier approaches? This question has triggered this line of research and the answer we have is worrisome. For instance, many recently proposed methods such as TextGCN are outperformed by a simple multilayer perceptron on a bag-of-words representation -- a decade old technique enhanced with today's best practices.
 
-- [preprint of survey paper](https://arxiv.org/abs/2204.03954)
+- [preprint of a comparative survey paper](https://arxiv.org/abs/2204.03954)
 - [ACL 2022 paper](https://doi.org/10.18653/v1/2022.acl-long.279)
 - [code for multi-label classification](https://github.com/drndr/multilabel-text-clf)
 - [code for single-label classification](https://github.com/lgalke/text-clf-baselines)
@@ -182,7 +193,7 @@ I engaged in this EU Horizon 2020 project as a research assistant between 2016 a
 - [Deliverable 3.2](http://moving-project.eu/wp-content/uploads/2018/03/moving_d3.2_v1.0.pdf)
 - [Deliverable 3.1](http://moving-project.eu/wp-content/uploads/2017/04/moving_d3.1_v1.0.pdf)
 - [ICADL 2018 paper on information retrieval on titles vs. full-text](https://doi.org/10.1007/978-3-030-04257-8_30)
-- [DEXA 2018 workshop paper on response suggestion](https://doi.org/10.1007/978-3-319-99133-7_18) 
+- [DEXA 2018 workshop paper on response suggestion](https://doi.org/10.1007/978-3-319-99133-7_18)
 - [code for response suggestion](https://github.com/lgalke/resuggest)
 - [Project website](http://moving-project.eu)
 

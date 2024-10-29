@@ -15,7 +15,7 @@ title: Publications
 
 ## Conference papers
 
-- [c13] Yousef Younes, Lukas Galke, and Ansgar Scherp (2024). RADAr: A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification. To appear in *ECAI 2024*.
+- [c13] Yousef Younes, Lukas Galke, and Ansgar Scherp (2024). RADAr: A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification. In *27th European Conference on Artificial Intelligence 2024 (ECAI 2024)*.
 - [c12] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (2024). POWN: Prototypical Open-world Node Classification. In *Conference on Lifelong Learning Agents*.
 - [c11] Marcel Hoffmann, Lukas Galke, Ansgar Scherp (2023). Open-World Lifelong Graph Learning. In *International Joint Conference on Neural Networks (IJCNN)*. IEEE. [paper](https://doi.org/10.1109/IJCNN54540.2023.10191071) [code](https://github.com/Bobowner/Open-World-LGL)
 - [c10] Lukas Galke, Isabelle Cuber, Christoph Meyer, Henrik Ferdinand Nölscher, Angelina Sonderecker, Ansgar Scherp (2022). General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings. In *Proceedings of the 2022 International Joint Conference on Neural Networks (IJCNN)*. IEEE. [paper](https://doi.org/10.1109/IJCNN55064.2022.9892144)

@@ -17,7 +17,7 @@ remote_theme: lgalke/athena
 # in the templates via {{ site.myvariable }}.
 title: Lukas Paul Achatius Galke
 description: >
-  Assistant Professor for Data Science and Advanced Machine Learning<br/>
+  Assistant Professor of Data Science and Advanced Machine Learning<br/>
   Department of Mathematics and Computer Science (IMADA)<br/>
   University of Southern Denmark (SDU)<br/>
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
@@ -35,7 +35,7 @@ social_username: LukasGalke
 theme_color: light
 
 # Seo
-tagline: Assistant Professor for Data Science and Advanced Machine Learning
+tagline: Decoding the Language of Machines
 
 # Build settings
 markdown: kramdown
