@@ -10,13 +10,7 @@ title: "About"
 
 ## Bio
 
-Lukas received the B.Sc. (2013) and M.Sc. degrees (2017) in computer science from Kiel University, Germany and the Ph.D. degree in computer science from the same university in 2023, specializing in representation learning for texts and graphs. 
-
-Since September 2024, Lukas is an Assistant Professor for Data Science and Advanced Machine Learning at the University of Southern Denmark in Odense.
-From 2022 to 2024, he was a Postdoctoral Researcher
-with the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands.
-Between 2017 to 2021, Lukas was a Doctoral Researcher with Kiel University and with 
-ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany.  
+Lukas joined SDU in September 2024 as an Assistant Professor of Data Science and Advanced Machine Learning. Before that, he was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. Lukas received his B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany. His research interests lie in machine learning and natural language processing, aiming to make neural network models more trustworthy and interpretable.  
 
 ## Profiles
 
