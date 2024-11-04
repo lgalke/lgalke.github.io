@@ -10,7 +10,7 @@ title: "About"
 
 ## Bio
 
-Lukas joined SDU in September 2024 as an Assistant Professor of Data Science and Advanced Machine Learning. Before that, he was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. Lukas received his B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany. His research interests lie in machine learning and natural language processing, aiming to make neural network models more trustworthy and interpretable.  
+I've joined SDU in September 2024 as an Assistant Professor of Data Science and Advanced Machine Learning. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I've received my B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany. My research interests lie in machine learning and natural language processing, aiming to make neural network models more trustworthy and interpretable.
 
 ## Profiles
 
