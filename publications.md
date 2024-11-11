@@ -2,12 +2,16 @@
 title: Publications
 ---
 
+## Upcoming journal articles
+
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (accepted). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
+- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (in revision). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
+
 ## Journal articles
 
-- [j8] Lukas Galke, Limor Raviv (in revision). Emergent communication and learning pressures in language models. [preprint](https://arxiv.org/abs/2403.14427)
-- [j7] Lukas Galke, Yoav Ram, Limor Raviv (in revision). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
+- [j8] Lukas Galke, Limor Raviv (2024). Learning and communication pressures in neural networks:
+Lessons from emergent communication. [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
 - [j6] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)
-- [j5] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (under review). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
 - [j4] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2023). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence. *IEEE Transactions on Engineering Management*. [paper](https://doi.org/10.1109/TEM.2023.3308008)
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. *Neural Networks* 164, 156-176. [paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content) [code](https://github.com/lgalke/lifelong-learning)
 - [j2] Iacopo Vagliano, Lukas Galke, Ansgar Scherp (2022). Recommendations for item set completion: on the semantics of item co-occurrence with data sparsity, input size, and input modalities. *Inf Retrieval J* 25, 269–305. [paper](https://doi.org/10.1007/s10791-022-09408-9) [code](https://github.com/lgalke/aae-recommender)
