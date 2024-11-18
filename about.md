@@ -10,7 +10,7 @@ title: "About"
 
 ## Bio
 
-I've joined SDU in September 2024 as an Assistant Professor of Data Science and Advanced Machine Learning. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I've received my B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany. My research interests lie in machine learning and natural language processing, aiming to make neural network models more trustworthy and interpretable.
+Since 2024, I am an Assistant Professor of Data Science and Advanced Machine Learning. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I've received my B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany. My research interests lie in machine learning and natural language processing, aiming to make neural network models more interpretable and trustworthy.
 
 ## Profiles
 
@@ -19,7 +19,9 @@ I've joined SDU in September 2024 as an Assistant Professor of Data Science and 
 - Google Scholar: [Lukas Galke](https://scholar.google.de/citations?hl=en&pli=1&user=AHGGdYQAAAAJ)
 - GitHub: [lgalke](https://github.com/lgalke)
 - Mastodon: [@lpag@sigmoid.social](https://sigmoid.social/@lpag)
-- X: [@LukasGalke](https://x.com/LukasGalke)
+- LinkedIn: [Lukas Galke](https://www.linkedin.com/in/lukas-galke-8086b0155/)
+- BlueSky: [@lukasgalke.bsky.social](https://bsky.app/profile/lukasgalke.bsky.social)
+- X (inactive): [@LukasGalke](https://x.com/LukasGalke)
 
 ## Get to know me
 
@@ -54,6 +56,4 @@ I've joined SDU in September 2024 as an Assistant Professor of Data Science and 
 
 ## About this website 
 
-Whenever I need to look up something about myself, I look here first.  If I don't find it, I add it. I use this website as a playground
-for web technology and design (so expect frequent changes).
-
+Whenever I need to look up something about myself, I look here first.  If I don't find it, I add it. I use this website as a playground for web technology and design (so expect frequent changes).

@@ -40,6 +40,8 @@ tagline: Decoding the Language of Machines
 # Build settings
 markdown: kramdown
 
+include:
+  - llms.txt
 
 # Plugins
 plugins:
