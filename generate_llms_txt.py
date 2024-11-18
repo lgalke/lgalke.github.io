@@ -11,7 +11,7 @@ Centre for Machine Learning
 
 Research Interests: 
 - Machine learning
-- Natural language processing-
+- Natural language processing
 - Machine communication
 - Continual learning
 - Learning on graphs
