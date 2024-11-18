@@ -4,29 +4,31 @@ title: CV
 
 ## General Information
 
-Name: Lukas Paul Achatius Galke
-Address: Campusvej 55, 5230, Odense, Denmark
-Office: Ø12-509b-2
+**Name**: Lukas Paul Achatius Galke
+
+**Address**: Campusvej 55, 5230, Odense, Denmark
+
+**Office**: Ø12-509b-2
 
 ## Experience
 
-2024--present **Assistant Professor**, University of Southern Denmark, Department of Mathematics and Computer Science, O
+2024--present: **Assistant Professor**, University of Southern Denmark, Department of Mathematics and Computer Science
 
-2022-2024 **Postdoctoral Researcher**, Max Planck Institute for Psycholinguistics, LEADS group, Netherlands
+2022-2024: **Postdoctoral Researcher**, Max Planck Institute for Psycholinguistics
 
-2017-2022 **Doctoral Researcher**, Kiel University & ZBW, Germany
+2017-2022: **Doctoral Researcher**, Kiel University & ZBW
 
 ## Education
 
-2022 PhD in Computer Science, Kiel University, Germany
+2022: PhD in Computer Science, Kiel University, Germany
 
-2017 M.Sc. in Computer Science, Kiel University, Germany
+2017: M.Sc. in Computer Science, Kiel University, Germany
 
-2013 BSc in Computer Science, Kiel University, Germany
+2013: BSc in Computer Science, Kiel University, Germany
 
 ## Teaching experience as main lecturer
 
-2024 Deep Learning, SDU
+2024: Deep Learning, SDU
 
 ## Selected Invited Talks
 
