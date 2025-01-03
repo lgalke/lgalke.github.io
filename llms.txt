@@ -96,8 +96,8 @@ investigate the interpretability of language models through structural probing,
 behavioral probing, and mechanistic interpretability -- and by bringing theories
 and experimental paradigms from psycholinguistics into machine learning.
 
-- Paper: What makes a language easy to deep-learn? (in final revision, to appear soon). [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
-- Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
+- Paper: [**Deep neural networks and humans both benefit from compositional language structure**](https://rdcu.be/d5f2e). *Nature Communications* 15:10816. 
+- Paper: [Learning and communication pressures in neural networks: Lessons from emergent communication](https://doi.org/10.34842/3vr5-5r49). *Language Development Research* 5(1).  
 - Paper: [Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test](https://aclanthology.org/2024.cmcl-1.15/) published in the [CMCL workshop](https://cmclorg.github.io) at the [ACL 2024 conference](https://2024.aclweb.org).
 - Poster at the [Highlights in the Language Sciences conference](https://hils2024.nl), July 8--11, 2024
 - Poster at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024
@@ -317,11 +317,11 @@ title: Publications
 
 ## Upcoming journal articles
 
-- [j7] Lukas Galke, Yoav Ram, Limor Raviv (accepted). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
 - [j8] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (in revision). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
 
 ## Journal articles
 
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (2024). Deep neural networks and humans both benefit from compositional language structure. *Nature Communications* 15:10816 [paper](https://rdcu.be/d5f2e) [code](https://github.com/lgalke/easy2deeplearn) [data](https://doi.org/10.5281/zenodo.14205452)
 - [j6] Lukas Galke, Limor Raviv (2024). Learning and communication pressures in neural networks:
 Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
 - [j5] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)

@@ -13,8 +13,8 @@ investigate the interpretability of language models through structural probing,
 behavioral probing, and mechanistic interpretability -- and by bringing theories
 and experimental paradigms from psycholinguistics into machine learning.
 
-- Paper: What makes a language easy to deep-learn? (in final revision, to appear soon). [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
-- Learning pressures in neural networks and large language models (in revision) [preprint](https://arxiv.org/abs/2403.14427)
+- Paper: [**Deep neural networks and humans both benefit from compositional language structure**](https://rdcu.be/d5f2e). *Nature Communications* 15:10816. 
+- Paper: [Learning and communication pressures in neural networks: Lessons from emergent communication](https://doi.org/10.34842/3vr5-5r49). *Language Development Research* 5(1).  
 - Paper: [Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test](https://aclanthology.org/2024.cmcl-1.15/) published in the [CMCL workshop](https://cmclorg.github.io) at the [ACL 2024 conference](https://2024.aclweb.org).
 - Poster at the [Highlights in the Language Sciences conference](https://hils2024.nl), July 8--11, 2024
 - Poster at the workshop on [Using Artificial Neural Networks for Studying Human Language Learning and Processing](https://ann-humlang.github.io), June 10--12, 2024

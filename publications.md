@@ -4,11 +4,11 @@ title: Publications
 
 ## Upcoming journal articles
 
-- [j7] Lukas Galke, Yoav Ram, Limor Raviv (accepted). What makes a language easy to deep-learn? [preprint](https://arxiv.org/abs/2302.12239) [code](https://github.com/lgalke/easy2deeplearn)
 - [j8] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (in revision). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
 
 ## Journal articles
 
+- [j7] Lukas Galke, Yoav Ram, Limor Raviv (2024). Deep neural networks and humans both benefit from compositional language structure. *Nature Communications* 15:10816 [paper](https://rdcu.be/d5f2e) [code](https://github.com/lgalke/easy2deeplearn) [data](https://doi.org/10.5281/zenodo.14205452)
 - [j6] Lukas Galke, Limor Raviv (2024). Learning and communication pressures in neural networks:
 Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
 - [j5] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)
