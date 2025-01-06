@@ -29,6 +29,7 @@ title: CV
 ## Teaching experience as main lecturer
 
 2025, Spring: Advanced Machine Learning, SDU
+
 2024, Autumn: Deep Learning, SDU
 
 ## Selected publications

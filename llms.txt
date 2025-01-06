@@ -67,6 +67,7 @@ title: CV
 ## Teaching experience as main lecturer
 
 2025, Spring: Advanced Machine Learning, SDU
+
 2024, Autumn: Deep Learning, SDU
 
 ## Selected publications
@@ -329,8 +330,7 @@ title: Publications
 ## Journal articles
 
 - [j7] Lukas Galke, Yoav Ram, Limor Raviv (2024). Deep neural networks and humans both benefit from compositional language structure. *Nature Communications* 15:10816 [paper](https://rdcu.be/d5f2e) [code](https://github.com/lgalke/easy2deeplearn) [data](https://doi.org/10.5281/zenodo.14205452)
-- [j6] Lukas Galke, Limor Raviv (2024). Learning and communication pressures in neural networks:
-Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
+- [j6] Lukas Galke, Limor Raviv (2024). Learning and communication pressures in neural networks: Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
 - [j5] Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19. *Scientometrics*. [paper](https://doi.org/10.1007/s11192-024-05132-x)
 - [j4] Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2023). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence. *IEEE Transactions on Engineering Management*. [paper](https://doi.org/10.1109/TEM.2023.3308008)
 - [j3] Lukas Galke, Iacopo Vagliano, Benedikt Franke, Tobias Zielke, Marcel Hoffmann, Ansgar Scherp (2023). Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes. *Neural Networks* 164, 156-176. [paper](https://pure.mpg.de/rest/items/item_3368482_4/component/file_3510107/content) [code](https://github.com/lgalke/lifelong-learning)
