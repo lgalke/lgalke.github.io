@@ -395,7 +395,8 @@ title: Publications
 
 ## (Extended) abstracts
 
-- [a3] Lukas Galke, Yoav Ram, Limor Raviv (2023). What makes a languagae easy to deep-learn? [1-page abstract]. *Protolang 8*, 2023.
+- [a4] Lukas Galke, Yoav Ram, Limor Raviv (2024). *The evolution of language: proceedings of the 15th international conference (Evolang XV).
+- [a3] Lukas Galke, Yoav Ram, Limor Raviv (2023). What makes a language easy to deep-learn? *Protolang 8*, 2023.
 - [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [selected PhD thesis abstract]. *IEEE Intelligent Informatics Bulletin*, 22(1), 52. [complete issue](https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf)
 - [a1] Lukas Galke, Florian Mai, Ansgar Scherp (2019): What If We Encoded Words as Matrices and Used Matrix Multiplication as Composition Function [extended abstract]. *INFORMATIK 2019*. GI. [paper](https://doi.org/10.18420/inf2019_47)
 
