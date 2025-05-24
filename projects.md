@@ -2,9 +2,13 @@
 title: Projects
 ---
 
-## Interpretability of Language Models {#mc-interpretability}
+## Danish Foundation Models (since 2025) {#danish-foundation-models}
 
-*Since 2023*
+The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandria Institute.
+
+- [Project website](https://foundationmodels.dk)
+
+## Interpretability of Language Models (since 2023) {#interpretability}
 
 Large language models have shown incredible results and experienced a rapid
 widespread adoption. However, we do not know *how* the trained models come to
@@ -22,9 +26,7 @@ and experimental paradigms from psycholinguistics into machine learning.
 - Podium presentation by Anh Dang at [Evolang 2024](https://evolang2024.github.io)
 - Talk at the [Protolang 8 conference](https://sites.google.com/view/protolang8/home), Rome, September 27--28, 2023. Abstract published in the [Protolang 8 book of abstracts](https://drive.google.com/file/d/1rbBGo82zV4nCNgRiLeGXEJoR79wSGxpu/view)
 
-## Machine Communication and the Emergence of Language {#mc-emecom}
-
-*Since 2022*
+## Machine Communication and the Emergence of Language (2022--2024) {#mc-emecom}
 
 Imagine you put artificial neural network agents into a box and give them a task
 that can only be solved with communication. How do neural network agents learn
@@ -36,11 +38,7 @@ human communication?
 - [Machine Learning and the Evolution of Language workshop at the Joint Conference on Language Evolution](https://ml4evolang.github.io)
 - [Emergent Communication workshop paper at ICLR](https://openreview.net/forum?id=rqUGZQ-0XZ5)
 
-
-
-## What Matters for Text Classification (textclf) {#textclf}
-
-*Since 2021*
+## What Matters for Text Classification (2021--2024) {#textclf}
 
 Automatically categorizing text documents is a popular research topic with
 numerous new approaches being published each year. However, do they really give
@@ -61,9 +59,7 @@ As such, fine-tuned small models typically outperform large language models.
 - [extra code for single-label classification with different methods](https://github.com/FKarl/text-classification)
 
 
-## Lifelong Graph Representation Learning (LGL) {#LGL}
-
-*Since 2019*
+## Lifelong Graph Representation Learning (2019--2024) {#lifelong-graph-learning}
 
 Graph neural networks have quickly risen to be the standard technique for machine learning on graph-structured data.  Yet graph neural networks are usually only applied to static snapshots of graphs, while real-world graphs (social media, publication networks) are continually evolving.  Evolving graphs come with challenges that are rarely reflected in the graph representation learning literature, such as dealing with new classes in node classification.  We pursue a lifelong learning approach for graph neural networks on evolving graphs and investigate incremental training, out-of-distribution detection, and issues caused by an imbalanced class distribution.
 
@@ -78,10 +74,7 @@ Graph neural networks have quickly risen to be the standard technique for machin
 - [Code for ICLR 2019 workshop paper](https://github.com/lgalke/gnn-pretraining-evaluation)
 - related project: [Q-AKTIV](#q-aktiv)
 
-
-## Analyzing the Scientific, Economic and Societal Impact of Research Activities and Research Networks (Q-AKTIV) {#q-aktiv}
-
-*2019--2022, funded by the Federal Ministry of Education and Research (BMBF)*
+## Analyzing the Scientific, Economic and Societal Impact of Research Activities and Research Networks (Q-AKTIV) (2019--2022, funded by BMBF) {#q-aktiv}
 
 The aim of Q-AKTIV is to improve the methods for forecasting dynamics and interactions between research, technology development, and innovation. The network analysis methods will be based on recent developments in Deep Learning. In addition to the emergence of new knowledge areas and networks, we focus on the convergence processes of established sectors. The development and evaluation of the new methods initially takes place in the field of life sciences, which is characterized by high marked dynamics. The additional application in economics enables a systematic comparison of the dynamics between the disciplines of science. The new methods will be used to predict the impact of existing research and network structures on the dynamics of knowledge and technologies as well as the future relevance of topics and actors. The result of Q-AKTIV is an implemented and evaluated instrument for the strategic analysis and prognosis of the dynamics in science and innovation. This complements today’s primarily qualitative approaches to early strategic planning and increases the decision-making ability of research institutions, policy makers, and industries. In addition to the analysis of dynamics, also valuable indicators for R & D performance measurement can be derived, e.g., the registration of patents based on scientific publications, the economic development of the companies involved, as well as the outreach of research activities. The practice partner brings in the necessary experience in the field of business valuation and strategy development and ensures a practical testing of the toolkit.
 
@@ -104,17 +97,13 @@ The aim of Q-AKTIV is to improve the methods for forecasting dynamics and intera
 - [funding announcement (German)](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/quantitative-wissenschaftsforschung/q-aktiv/q-aktiv_node.html)
 - [final project report (German)](https://zenodo.org/records/5788648)
 
-## Representation Learning for Texts and Graphs {#phd-project}
-
-*2017-2022*
+## Representation Learning for Texts and Graphs (2017--2022) {#phd-project}
 
 My PhD project. A meta-project bringing together [word2mat](#word2mat),
-[textclf](#textclf), [aaerec](#aaerec), [LGL](#LGL). [phd
+[textclf](#textclf), [aaerec](#aaerec), [lifelong-graph-learning](#lifelong-graph-learning). [phd
 thesis](https://doi.org/10.21941/kcss/2023/1)
 
-## Word Matrices for Text Representation Learning (word2mat) {#word2mat}
-
-*2017-2022*
+## Word Matrices for Text Representation Learning (word2mat) (2017-2022) {#word2mat}
 
 The idea of this project was to embed each word as a matrix as an alternative
 to vectors used in word embeddings. By using matrix embeddings instead of
@@ -130,9 +119,7 @@ giving benefits in efficiency while keeping reasonable accuracy.
 - [ICLR paper on self-supervised learning of word matrices](https://openreview.net/pdf?id=H1MgjoR9tQ)
 - [code](https://github.com/florianmai/word2mat)
 
-## Autoencoders for Document-based Recommendations (aaerec) {#aaerec}
-
-*2017--2022*
+## Autoencoders for Document-based Recommendations (aaerec) (2017--2022) {#aaerec}
 
 The aim of this project was to build a document-level citation recommendation
 system that could, for example, make users aware of missing references.  A
@@ -152,9 +139,7 @@ subject labels from professional subject indexers, the text is more useful.
 - [RecSys challenge workshop paper on music recommendation for automatic playlist continuation](https://doi.org/10.1145/3267471.3267476)
 - [codebase for all three papers](https://github.com/lgalke/aae-recommender)
 
-## Linked Open Citation Database (LOC-DB) {#loc-db}
-
-*2017--2020, funded by Deutsche Forschungsgemeinschaft (DFG)*
+## Linked Open Citation Database (LOC-DB) (2017--2020, funded by DFG) {#loc-db}
 
 The LOC-DB project will develop ready-to-use tools and processes based on the
 linked-data technology that make it possible for a single library to
@@ -180,9 +165,7 @@ also be scalable for using it in a network.
 - First Linked Open Citation Database (LOC-DB) workshop, 2017, Mannheim, Germany.
 - [project website (de)](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/)
 
-## Word Embeddings for Information Retrieval (vec4ir) {#vec4ir}
-
-*2016--2017*
+## Word Embeddings for Information Retrieval (vec4ir) (2016--2017) {#vec4ir}
 
 The key idea was to use word embeddings for similarity scoring in information
 retrieval. The two main take-aways:
@@ -194,9 +177,7 @@ retrieval. The two main take-aways:
 - [MSc thesis](/pdf/MSc-thesis_LG.pdf)
 - [codebase for studying embedded retrieval (>200 stars, >40 forks)](https://github.com/lgalke/vec4ir)
 
-## TraininG towards a society of data-saVvy inforMation prOfessionals to enable open leadership INnovation (MOVING)
-
-*2016--2019, EU funding, Grant Agreement Number 693092*
+## TraininG towards a society of data-saVvy inforMation prOfessionals to enable open leadership INnovation (MOVING) (2016--2019, EU funding, Grant Agreement Number 693092)
 
 I engaged in this EU Horizon 2020 project as a research assistant between 2016 and 2017, leading to contributions to the deliverables 3.1, 3.2 and 3.3, as well as various conference and workshop papers:
 
@@ -208,9 +189,7 @@ I engaged in this EU Horizon 2020 project as a research assistant between 2016 a
 - [code for response suggestion](https://github.com/lgalke/resuggest)
 - [Project website](http://moving-project.eu)
 
-## Extreme Multi-label Text Classification (Quadflor) {#xlmc}
-
-*2015--2018*
+## Extreme Multi-label Text Classification (Quadflor) (2015--2018) {#xlmc}
 
 This project originated from my Master's project (2015--2016), where we
 developed a pipeline for extreme (=many possible classes) multi-label
