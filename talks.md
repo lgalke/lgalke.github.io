@@ -21,6 +21,7 @@ title: Talks
 
 - [t38] Lukas Galke (2024, July 9). **Harnessing Cross-lingual Morphological Generalization Abilities in Large Language Models with a Multilingual Wug Test** [poster]. Highlights in the Language Sciences Conference, Nijmegen.
 - [t34] Lukas Galke (2024, May 20). **Learning Pressures and Inductive Biases in Emergent Communication: Parallels between Humans and Deep Neural Networks**. Evolang XV, May 20, 2024.
+- [t31] Lukas Galke (2023, Oct 19) **Lifelong Learning for Evolving Graphs** [proposed talk]. ContinualAI Unconference, Online.
 - [t30] Lukas Galke (2023, September 28). **What makes a language easy to deep-learn?**. Protolang 8, Rome, Italy.
 - [t22] Lukas Galke (2022, September 5). **Machine Learning for Language Evolution -- What's missing?**. Machine Learning and the Evolution of Language (ml4evolang) workshop at JCOLE'22, Japan/online.
 - [t19] Lukas Galke (2022, July 19). **General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings** [paper presentation (oral)]. World Congress on Computational Intelligence, Padua, Italy.
@@ -40,7 +41,7 @@ title: Talks
 - [t4] Lukas Galke (2017, September 28). **Reranking-based Recommender Systems with Deep Learning** [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.
 - [t3] Lukas Galke (2017, September 28). **Word Embeddings for Practical Information Retrieval** [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.
 - [t2] Lukas Galke (2017, May 5). **Embedded Retrieval: Word Embeddings for Practical Information Retrieval** [M.Sc. thesis presentation]. Second DyESE workshop, Kiel, Germany.
-- [t1] Lukas Galke (2016, September 16). *Information Retrieval on Sparse Data* [concept presentation]. First DyESE workshop, Oslo, Norway.
+- [t1] Lukas Galke (2016, September 16). **Information Retrieval on Sparse Data** [concept presentation]. First DyESE workshop, Oslo, Norway.
 
 ## Other
 
