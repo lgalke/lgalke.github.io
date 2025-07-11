@@ -174,7 +174,6 @@ As such, fine-tuned small models typically outperform large language models.
 - [code for single-label classification](https://github.com/lgalke/text-clf-baselines)
 - [extra code for single-label classification with different methods](https://github.com/FKarl/text-classification)
 
-
 ## Lifelong Graph Representation Learning (2019--2024) {#lifelong-graph-learning}
 
 Graph neural networks have quickly risen to be the standard technique for machine learning on graph-structured data.  Yet graph neural networks are usually only applied to static snapshots of graphs, while real-world graphs (social media, publication networks) are continually evolving.  Evolving graphs come with challenges that are rarely reflected in the graph representation learning literature, such as dealing with new classes in node classification.  We pursue a lifelong learning approach for graph neural networks on evolving graphs and investigate incremental training, out-of-distribution detection, and issues caused by an imbalanced class distribution.
@@ -418,6 +417,7 @@ title: Talks
 
 - [t38] Lukas Galke (2024, July 9). **Harnessing Cross-lingual Morphological Generalization Abilities in Large Language Models with a Multilingual Wug Test** [poster]. Highlights in the Language Sciences Conference, Nijmegen.
 - [t34] Lukas Galke (2024, May 20). **Learning Pressures and Inductive Biases in Emergent Communication: Parallels between Humans and Deep Neural Networks**. Evolang XV, May 20, 2024.
+- [t31] Lukas Galke (2023, Oct 19) **Lifelong Learning for Evolving Graphs** [proposed talk]. ContinualAI Unconference, Online.
 - [t30] Lukas Galke (2023, September 28). **What makes a language easy to deep-learn?**. Protolang 8, Rome, Italy.
 - [t22] Lukas Galke (2022, September 5). **Machine Learning for Language Evolution -- What's missing?**. Machine Learning and the Evolution of Language (ml4evolang) workshop at JCOLE'22, Japan/online.
 - [t19] Lukas Galke (2022, July 19). **General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings** [paper presentation (oral)]. World Congress on Computational Intelligence, Padua, Italy.
@@ -437,13 +437,14 @@ title: Talks
 - [t4] Lukas Galke (2017, September 28). **Reranking-based Recommender Systems with Deep Learning** [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.
 - [t3] Lukas Galke (2017, September 28). **Word Embeddings for Practical Information Retrieval** [paper presentation (oral)]. INFORMATIK 2017, Chemnitz, Germany.
 - [t2] Lukas Galke (2017, May 5). **Embedded Retrieval: Word Embeddings for Practical Information Retrieval** [M.Sc. thesis presentation]. Second DyESE workshop, Kiel, Germany.
-- [t1] Lukas Galke (2016, September 16). *Information Retrieval on Sparse Data* [concept presentation]. First DyESE workshop, Oslo, Norway.
+- [t1] Lukas Galke (2016, September 16). **Information Retrieval on Sparse Data** [concept presentation]. First DyESE workshop, Oslo, Norway.
 
 ## Other
 
 - [t21] Lukas Galke (2022, August 28). **Representation Learning for Texts and Graphs** [viva]. Department of Computer Science, Kiel University, Germany.
 - [t20] Lukas Galke (2022, August 18). **Language Technology** [gave a 2x45min workshop to a broad audience]. Regiodag 2022 Probusclub Nijmegen e.o., Nijmegen, The Netherlands.
 - [t13] Lukas Galke (2020, June 23). **Scaling Up Graph Neural Networks** [literature review talk], Graph Neural Networks Reading Group, online.
+
 
 ---
 title: Teaching
