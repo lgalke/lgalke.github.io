@@ -4,7 +4,7 @@ title: Projects
 
 ## Danish Foundation Models (since 2025) {#danish-foundation-models}
 
-The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandria Institute.
+The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandra Institute.
 
 - [Project website](https://foundationmodels.dk)
 
@@ -57,7 +57,6 @@ As such, fine-tuned small models typically outperform large language models.
 - [code for multi-label classification](https://github.com/drndr/multilabel-text-clf)
 - [code for single-label classification](https://github.com/lgalke/text-clf-baselines)
 - [extra code for single-label classification with different methods](https://github.com/FKarl/text-classification)
-
 
 ## Lifelong Graph Representation Learning (2019--2024) {#lifelong-graph-learning}
 
