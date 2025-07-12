@@ -20,6 +20,10 @@ description: >
   Assistant Professor of Data Science and Advanced Machine Learning<br/>
   Department of Mathematics and Computer Science (IMADA)<br/>
   University of Southern Denmark (SDU)<br/>
+mission: >
+  My mission is to advance language model interpretability through scalable
+  methods and to use gained insights to create principled steering techniques
+  for robust and safe AI systems.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
 github_repo: lgalke.github.io # the GitHub repo name for your project
