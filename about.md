@@ -13,7 +13,7 @@ title: "About"
 
 I am an Assistant Professor of Data Science and Advanced Machine Learning at the University of Southern Denmark in Odense. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I've received my B.Sc. (2013), M.Sc. (2017), and PhD degree (2022), all in computer science, from Kiel University, Germany.
 
-My research interests lie in machine learning and natural language processing, aiming to make  to advance language model interpretability through scalable methods and to use gained insights to create principled steering techniques for robust and safe AI systems.
+My research interests lie in machine learning and natural language processing, aiming to develop new scalable methods for language model interpretability and to use gained insights to create principled steering techniques for robust and safe AI systems.
 
 ## Profiles
 

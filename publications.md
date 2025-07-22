@@ -2,10 +2,6 @@
 title: Publications
 ---
 
-## Journal manuscripts under review
-
-- [j8] Lukas Galke, Andor Diera, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singal, Fabian Karl, Ansgar Scherp (in revision). Are We Really Making Much Progress? Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-label and Multi-label Text Classification. [preprint](https://arxiv.org/abs/2204.03954).
-
 ## Journal articles
 
 - [j7] Lukas Galke, Limor Raviv (2025). Learning and communication pressures in neural networks: Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
@@ -18,7 +14,9 @@ title: Publications
 
 ## Conference papers
 
-- [c17] Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. To appear in *RaNLP* 2025.
+- [c19] Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. To appear in *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
+- [c18] Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. To appear in *ECAI*.
+- [c17] Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. To appear in *RaNLP*.
 - [c16] Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?
 *ACL 2025 Findings*. [preprint](https://arxiv.org/abs/2502.11895)
 - [c15] Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
@@ -52,7 +50,7 @@ title: Publications
 
 ## (Extended) abstracts
 
-- [a5] Lukas Galke, Yoav Ram, Limor Raviv (2024).Learning Pressures and Inductive Biases in Emergent Communication: Parallels between Humans and Deep Neural Networks. In: *The evolution of language: Proceedings of the 15th international conference (Evolang XV)*.
+- [a5] Lukas Galke, Yoav Ram, Limor Raviv (2024). Learning Pressures and Inductive Biases in Emergent Communication: Parallels between Humans and Deep Neural Networks. In: *The evolution of language: Proceedings of the 15th international conference (Evolang XV)*.
 - [a4] Anh Dang, Limor Raviv, Lukas Galke (2024). Testing the Linguistic Niche Hypothesis in Large Language Models with a Multilingual Wug Test. In: *The evolution of language: Proceedings of the 15th international conference (Evolang XV)*.
 - [a3] Lukas Galke, Yoav Ram, Limor Raviv (2023). What makes a language easy to deep-learn? *Protolang 8*, 2023.
 - [a2] Lukas Galke (2022). Representation Learning for Texts and Graphs: A Unified Perspective On Efficiency, Multimodality, and Adaptability [selected PhD thesis abstract]. *IEEE Intelligent Informatics Bulletin*, 22(1), 52. [complete issue](https://www.comp.hkbu.edu.hk/~cib/2022/IIB2022_Final.pdf)
@@ -67,4 +65,3 @@ title: Publications
 - [r3] Iacopo Vagliano, Till Blume, Lukas Galke, Florian Mai, Ahmed Saleh, Alexandros Pournaras, Nikolaos Gkalelis, Damianos Galanopoulos, Vasileios Mezaris, Ilija Šimić, Vedran Sabol, Aitor Apaolaza, Markel Vigo, Andrea Zielinski, Peter Mutschke (2019). Deliverable 3.3: Technologies for MOVING data processing and visualisation v3.0. [report](http://moving-project.eu/wp-content/uploads/2019/03/moving_d3.3_v1.0.pdf)
 - [r2] Iacopo Vagliano, Mohammad Abdel-Qader, Till Blume, Falk Böschen, Lukas Galke, Ahmed Saleh, Ansgar Scherp, Vasileios Mezaris, Alexandros Pournaras, Christos Tzelepis, Ilija Šimić, Cecilia di Sciascio, Vedran Sabol, Aitor Apaolaza, Markel Vigo, Tobias Backes, Peter Mutschke (2018). Technologies for MOVING data processing and visualisation v2.0. [report](http://moving-project.eu/wp-content/uploads/2018/03/moving_d3.2_v1.0.pdf)
 - [r1] Till Blume, Falk Böschen, Lukas Galke, Ahmed Saleh, Ansgar Scherp, Matthias Schulte-Althoff, Chrysa Collyda, Vasileios Mezaris, Alexandros Pournaras, Christos Tzelepis,  Peter Hasitschka, Vedran Sabol, Aitor Apaolaza, Markel Vigo, Tobias Backes, Peter Mutschke Thomas Gottron (2017). Technologies for MOVING data processing and visualisation v1.0. [report](http://moving-project.eu/wp-content/uploads/2017/04/moving_d3.1_v1.0.pdf)
-
