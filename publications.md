@@ -14,11 +14,15 @@ title: Publications
 
 ## Conference papers
 
-- [c19] Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. To appear in *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
-- [c18] Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. To appear in *ECAI*.
-- [c17] Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. To appear in *RaNLP*.
+- [c23] Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. To appear in: *AAAI*.
+- [c22] Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. To appear in: *AACL-IJCNLP*. [preprint](https://arxiv.org/abs/2508.02241)
+- [c21] Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
+- [c20] Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
+- [c19] Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents.*Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*.
+- [c18] Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*. 
+- [c17] Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *RaNLP*.
 - [c16] Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?
-*ACL 2025 Findings*. [preprint](https://arxiv.org/abs/2502.11895)
+*ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895)
 - [c15] Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2025)*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
 - [c14] Jacob Nielsen, Lukas Galke, and Peter-Schneider Kamp (2025). When are 1.58 bits enough? A Bottom-up Exploration of Quantization-aware Training with Ternary Weights. *17th International Conference on Agents and Artificial Intelligence (ICAART 2025)*. [preprint](https://arxiv.org/abs/2411.05882)
 - [c13] Yousef Younes, Lukas Galke, and Ansgar Scherp (2024). RADAr: A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification. *27th European Conference on Artificial Intelligence 2024 (ECAI 2024)*. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240661) [code](https://github.com/yousef-younes/RADAr)

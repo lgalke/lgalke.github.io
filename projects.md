@@ -2,6 +2,10 @@
 title: Projects
 ---
 
+## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents (starting 2026) {#mist}
+
+The MIST project, funded by the Novo Nordisk Foundation, addresses the critical challenge of understanding and controlling large language model (LLM) agents. We develop scalable, theory-driven methods for mechanistic interpretability to identify the underlying mechanisms responsible for tool use, reasoning, and multi-agent communication. By investigating the cross-model and cross-lingual universality of these mechanisms, we create interpretability-informed steering techniques and latent guardrails that enable safe deployment in high-stakes applications. The project ultimately aims to establish a comprehensive framework for issuing safety certificates to LLM agents through systematic evaluation in diverse multi-agent simulation environments.
+
 ## Danish Foundation Models (since 2025) {#danish-foundation-models}
 
 The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandra Institute.
