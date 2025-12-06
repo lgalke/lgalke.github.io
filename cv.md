@@ -4,7 +4,7 @@ title: CV
 
 ## General Information
 
-**Name**: Lukas Paul Achatius Galke
+**Name**: Lukas Paul Achatius Galke Poech
 
 **Address**: Campusvej 55, 5230 Odense, Denmark
 
