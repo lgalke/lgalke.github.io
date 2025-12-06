@@ -27,22 +27,26 @@
           <div class="clearfix mb-4 py-1">
             <p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
             <p class="h4 lh-condensed font-smoothing">{{ site.mission }}</p>
-            {% if site.news %}
-            <div class="mt-2">
-              <p class="h4 lh-condensed font-smoothing"><strong>News</strong></p>
-              <ul class="h4 lh-condensed font-smoothing" style="margin: 0; padding-left: 1.2em;">
-                {% for item in site.news %}
-                <li><strong>{{ item.date }}:</strong> {{ item.text }}</li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
+          
             <div class="col-1 sm-width-full border-top-thick">
             </div>
           </div>
 
         </div>
       </header>
+
+      {% if site.news %}
+        <div class="container mx-auto px-2 py-2">
+          <div class="mt-2">
+            <p class="h4 lh-condensed font-smoothing"><strong>News</strong></p>
+            <ul class="h4 lh-condensed font-smoothing" style="margin: 0; padding-left: 1.2em;">
+              {% for item in site.news %}
+              <li><strong>{{ item.date }}:</strong> {{ item.text }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      {% endif %}
 
       <div class="container mx-auto px-2 py-2">
         {% for post in site.posts %}

@@ -15,7 +15,7 @@ remote_theme: lgalke/athena
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lukas Paul Achatius Galke
+title: Lukas Paul Achatius Galke Poech
 description: >
   Assistant Professor of Data Science and Advanced Machine Learning<br/>
   Department of Mathematics and Computer Science (IMADA)<br/>
