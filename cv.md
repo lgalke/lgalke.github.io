@@ -28,7 +28,7 @@ title: CV
 
 ## Grants and Major Projects
 
-**MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents** (2026–2029)
+**MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents** (2026–2031)
 Novo Nordisk Foundation, Principal Investigator,
 Funding for 2 PhD + 1 Postdoc position to develop interpretability methods for understanding and controlling LLM agents.
 
@@ -38,7 +38,6 @@ EuroHPC JU AI and Data Intensive Applications, Principal Investigator,
 
 **Danish Foundation Models** (2025–2029)
 Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 5 PhD students
-
 
 ## Selected publications
 
