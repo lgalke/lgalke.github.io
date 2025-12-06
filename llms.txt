@@ -1,8 +1,8 @@
-# Lukas Paul Achatius Galke Poech
+# Lukas Galke Poech
 
 > Tracing connectionist mechanisms for safer AI systems.
 
-Assistant Professor of Data Science and Advanced Machine Learning,  Department of Mathematics and Computer Science (IMADA),  University of Southern Denmark (SDU),
+Assistant Professor,  University of Southern Denmark (SDU),  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning
 
 **Mission:** Situated in machine learning and natural language processing, my research aims to make powerful language models more robust, transparent, and controllable. I bring together representation learning and psycholinguistics—linking how language models behave with why they behave that way—to build principled methods for advancing AI Safety.
 
@@ -64,7 +64,7 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 - Emergent communication and learning pressures in language models. Workshop on Using Artificial Neural Networks for Studying Human Language Learning and Processing, 2024, June 10, University of Amsterdam.
 - What makes a language easy to deep-learn? Computational Linguistics Seminar, 2023, May 16, University of Amsterdam, Netherlands.
 
-## Teaching experience as main lecturer
+## Teaching experience
 
 - AI509: **Natural Language Processing** -- Fall 2025, SDU (main lecturer)
 - AI508: **Computer Vision** -- Fall 2025, SDU (co-lecturer)

@@ -53,7 +53,7 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 - Emergent communication and learning pressures in language models. Workshop on Using Artificial Neural Networks for Studying Human Language Learning and Processing, 2024, June 10, University of Amsterdam.
 - What makes a language easy to deep-learn? Computational Linguistics Seminar, 2023, May 16, University of Amsterdam, Netherlands.
 
-## Teaching experience as main lecturer
+## Teaching experience
 
 - AI509: **Natural Language Processing** -- Fall 2025, SDU (main lecturer)
 - AI508: **Computer Vision** -- Fall 2025, SDU (co-lecturer)
