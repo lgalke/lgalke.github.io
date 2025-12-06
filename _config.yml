@@ -15,7 +15,7 @@ remote_theme: lgalke/athena
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lukas <span style="color: #999; font-weight: 300;">Paul Achatius</span> Galke Poech
+title: Lukas Galke Poech
 description: >
   Assistant Professor<br/>
   University of Southern Denmark (SDU)<br/>
