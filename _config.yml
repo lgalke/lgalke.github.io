@@ -15,11 +15,13 @@ remote_theme: lgalke/athena
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lukas Paul Achatius Galke Poech
+title: Lukas <span style="color: #999; font-weight: 300;">Paul Achatius</span> Galke Poech
 description: >
-  Assistant Professor of Data Science and Advanced Machine Learning<br/>
-  Department of Mathematics and Computer Science (IMADA)<br/>
+  Assistant Professor<br/>
   University of Southern Denmark (SDU)<br/>
+  Department of Mathematics and Computer Science (IMADA)<br/>
+  Data Science Section<br/>
+  Center for Machine Learning
 mission: >
   Situated in machine learning and natural language processing, my research aims
   to make powerful language models more robust, transparent, and controllable. I
