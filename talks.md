@@ -5,7 +5,7 @@ title: Talks
 ## Invited talks
 
 - [t39] Lukas Galke (2025, May 13). **Evaluating Large and Multilingual Language Models through Citizen Science**. AI, Citizen Science, and MedTech – An Exploration, SDU, Odense, Denmark.
-- [t37] Lukas Galke (2024, July 4). **Machine Communication and the Emergence of Language**. MPI Proudly Presents, Nijmegen.
+- [t37] Lukas Galke (2024, July 4). **Machine Communication and the Emergence of Language**. Max Planck Proudly Presents, Nijmegen, Netherlands.
 - [t36] Lukas Galke (2024, June 19). **Machine Communication**. IMADA Seminar, SDU, Odense, Denmark.
 - [t35] Lukas Galke (2024, June 10). **Emergent communication and learning pressures in language models**. ANN Humlang workshop, Amsterdam.
 - [t33] Lukas Galke (2024, May 3). **Learning Pressures and Inductive Biases in Neural Language Models**. Meeting of Creative Intelligence Lab, Leiden, Netherlands.
@@ -19,6 +19,9 @@ title: Talks
 
 ## Conference and workshop presentations
 
+- [t42] Lukas Galke (2025, November). **LLM-Assisted Paper Reading**. Teaching and Learning Conference (TAL), SDU, Odense, Denmark.
+- [t41] Lukas Galke (2025, September 19). **Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI**. FAIEMA Conference, Stavanger, Norway.
+- [t40] Lukas Galke (2025, August). **Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?** [poster]. ACL 2025, Vienna, Austria.
 - [t38] Lukas Galke (2024, July 9). **Harnessing Cross-lingual Morphological Generalization Abilities in Large Language Models with a Multilingual Wug Test** [poster]. Highlights in the Language Sciences Conference, Nijmegen.
 - [t34] Lukas Galke (2024, May 20). **Learning Pressures and Inductive Biases in Emergent Communication: Parallels between Humans and Deep Neural Networks**. Evolang XV, May 20, 2024.
 - [t31] Lukas Galke (2023, Oct 19) **Lifelong Learning for Evolving Graphs** [proposed talk]. ContinualAI Unconference, Online.

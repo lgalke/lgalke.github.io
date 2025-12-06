@@ -21,9 +21,23 @@ description: >
   Department of Mathematics and Computer Science (IMADA)<br/>
   University of Southern Denmark (SDU)<br/>
 mission: >
-  My mission is to advance language model interpretability through scalable
-  methods and to use gained insights to create principled steering techniques
-  for robust and safe AI systems.
+  My research focuses on understanding and controlling large language models.
+  I develop scalable interpretability methods – drawing inspiration from how
+  psycholinguistics studies language in the human brain – to create principled
+  techniques for AI systems that are transparent, trustworthy, and safe.
+news:
+  - date: "November 2025"
+    text: >
+      The <a href="/projects#mist">MIST project</a> on mechanistic interpretability
+      for safe LLM agents has been funded by the Novo Nordisk Foundation.
+      I am now hiring at PhD and Postdoc level—<a href="mailto:lukas@lpag.de">get in touch</a>
+      if you're interested.
+  - date: "November 2025"
+    text: >
+      FlexDeMo has been accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
+  - date: "October 2025"
+    text: >
+      Culture Neurons have been accepted to <a href="https://2025.aaclnet.org">AACL-IJCNLP 2025</a> Findings.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
 github_repo: lgalke.github.io # the GitHub repo name for your project
@@ -39,7 +53,7 @@ social_username: LukasGalke
 theme_color: light
 
 # Seo
-tagline: Decoding the Language of Machines
+tagline: Tracing connectionist mechanisms for safer AI systems.
 
 # Build settings
 markdown: kramdown
