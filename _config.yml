@@ -21,10 +21,11 @@ description: >
   Department of Mathematics and Computer Science (IMADA)<br/>
   University of Southern Denmark (SDU)<br/>
 mission: >
-  My research focuses on understanding and controlling large language models.
-  I develop scalable interpretability methods – drawing inspiration from how
-  psycholinguistics studies language in the human brain – to create principled
-  techniques for AI systems that are transparent, trustworthy, and safe.
+  Situated in machine learning and natural language processing, my research aims
+  to make powerful language models more robust, transparent, and controllable. I
+  bring together representation learning and psycholinguistics—linking how
+  language models behave with why they behave that way—to build principled
+  methods for advancing AI Safety.
 news:
   - date: "November 2025"
     text: >

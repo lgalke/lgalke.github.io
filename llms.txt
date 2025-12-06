@@ -4,7 +4,7 @@
 
 Assistant Professor of Data Science and Advanced Machine Learning,  Department of Mathematics and Computer Science (IMADA),  University of Southern Denmark (SDU),
 
-**Mission:** My research focuses on understanding and controlling large language models. I develop scalable interpretability methods – drawing inspiration from how psycholinguistics studies language in the human brain – to create principled techniques for AI systems that are transparent, trustworthy, and safe.
+**Mission:** Situated in machine learning and natural language processing, my research aims to make powerful language models more robust, transparent, and controllable. I bring together representation learning and psycholinguistics—linking how language models behave with why they behave that way—to build principled methods for advancing AI Safety.
 
 **Website:** https://lgalke.github.io
 
