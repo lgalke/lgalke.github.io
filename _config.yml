@@ -23,11 +23,10 @@ description: >
   Data Science Section<br/>
   Center for Machine Learning
 mission: >
-  Situated in machine learning and natural language processing, my research aims
-  to make powerful language models more robust, transparent, and controllable. I
-  bring together representation learning and psycholinguistics—linking how
-  language models behave with why they behave that way—to build principled
-  methods for advancing AI Safety.
+  In my view, understanding why the most powerful AI systems behave the way they
+  do is the most important scientific problem in AI safety. I advance
+  interpretability methods to make AI systems more transparent and enable
+  principled control.
 news:
   - date: "November 2025"
     text: >

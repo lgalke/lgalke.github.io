@@ -12,7 +12,7 @@ title: CV
 
 ## Experience
 
-2024--present: **Assistant Professor**, University of Southern Denmark (SDU), Department of Mathematics and Computer Science (IMADA), Section for Data Science and Statistics (DSS), Centre for Machine Learning (C4ML)
+Current position (since 2024): **Assistant Professor**, University of Southern Denmark (SDU), Department of Mathematics and Computer Science (IMADA), Section for Data Science and Statistics (DSS), Centre for Machine Learning (C4ML)
 
 2022-2024: **Postdoctoral Researcher**, Max Planck Institute for Psycholinguistics
 
