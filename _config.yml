@@ -25,8 +25,8 @@ description: >
 mission: >
   In my view, understanding why the most powerful AI systems behave the way they
   do is the most important scientific problem in AI safety. I advance
-  interpretability methods to make AI systems more transparent and enable
-  principled control.
+  interpretability methods to make AI systems more transparent in order to
+  inform alignment and enable principled control.
 news:
   - date: "November 2025"
     text: >

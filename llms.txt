@@ -4,7 +4,7 @@
 
 Assistant Professor,  University of Southern Denmark (SDU),  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning
 
-**Mission:** In my view, understanding why the most powerful AI systems behave the way they do is the most important scientific problem in AI safety. I advance interpretability methods to make AI systems more transparent and enable principled control.
+**Mission:** In my view, understanding why the most powerful AI systems behave the way they do is the most important scientific problem in AI safety. I advance interpretability methods to make AI systems more transparent in order to inform alignment and enable principled control.
 
 **Website:** https://lgalke.github.io
 
