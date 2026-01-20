@@ -57,6 +57,10 @@ theme_color: light
 # Seo
 tagline: Tracing connectionist mechanisms for safer AI systems.
 
+# Navigation - explicitly list pages to include in menu
+nav_exclude:
+  - llm-paperstorm.md
+
 # Build settings
 markdown: kramdown
 
