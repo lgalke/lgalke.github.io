@@ -1,5 +1,6 @@
 ---
 title: LLM-Paperstorm
+nav_exclude: true
 ---
 
 LLM-Paperstorm is a teaching activity for LLM-assisted paper reading, designed to help students and researchers engage deeply with academic literature, while learning about responsible use of AI technology.
