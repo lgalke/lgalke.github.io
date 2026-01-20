@@ -21,12 +21,10 @@ description: >
   University of Southern Denmark (SDU)<br/>
   Department of Mathematics and Computer Science (IMADA)<br/>
   Data Science Section<br/>
-  Center for Machine Learning
+  Center for Machine Learning<br/>
+  Affiliate member of the Pioneer Centre for Artificial Intelligence (P1)<br/>
 mission: >
-  In my view, understanding why the most powerful AI systems behave the way they
-  do is the most important scientific problem in AI safety. I advance
-  interpretability methods to make AI systems more transparent in order to
-  inform alignment and enable principled control.
+  My research advances AI safety by investigating how and why the most powerful AI systems behave the way they do.
 news:
   - date: "November 2025"
     text: >
