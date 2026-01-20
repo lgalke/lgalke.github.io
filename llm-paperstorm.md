@@ -1,6 +1,6 @@
 ---
 title: LLM-Paperstorm
-nav_exclude: true
+exclude: true
 ---
 
 <img src="/assets/images/LLM-Paperstorm-logo.png" alt="LLM-Paperstorm logo" style="max-width: 300px; display: block; margin-bottom: 1em;">
