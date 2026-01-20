@@ -38,7 +38,7 @@ news:
       FlexDeMo has been accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
   - date: "October 2025"
     text: >
-      Culture Neurons have been accepted to <a href="https://2025.aaclnet.org">AACL-IJCNLP 2025</a> Findings.
+      <a href="https://aclanthology.org/2025.findings-ijcnlp.45/">Culture Neurons</a> have been accepted to <a href="https://2025.aaclnet.org">AACL-IJCNLP 2025</a> Findings.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
 github_repo: lgalke.github.io # the GitHub repo name for your project
