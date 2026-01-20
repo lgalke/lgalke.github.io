@@ -15,6 +15,6 @@ Students are instructed to validate the output of the LLM against the paper. In 
 
 ## Presentations
 
-- Lukas Galke (2026, November). **LLM-Assisted Paper Reading**. Teaching with AI, SDU, Odense, Denmark.
+- Lukas Galke (2026, January). **LLM-Assisted Paper Reading**. Teaching with AI, SDU, Odense, Denmark.
 
 - Lukas Galke (2025, November). **LLM-Assisted Paper Reading**. Teaching and Learning Conference (TAL), SDU, Odense, Denmark.
