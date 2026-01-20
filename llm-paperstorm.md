@@ -3,6 +3,8 @@ title: LLM-Paperstorm
 nav_exclude: true
 ---
 
+<img src="/assets/images/LLM-Paperstorm-logo.png" alt="LLM-Paperstorm logo" style="max-width: 300px; display: block; margin-bottom: 1em;">
+
 LLM-Paperstorm is a teaching activity for LLM-assisted paper reading, designed to help students engage with academic literature, while learning about responsible use of AI technology.
 
 ## Overview
