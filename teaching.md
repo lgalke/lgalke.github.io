@@ -4,9 +4,10 @@ title: Teaching
 
 *SDU students can find the material on [itslearning](http://sdu.itslearning.com/)*
 
+- AI506: **Advanced Machine Learning** -- Spring 2026, SDU (main lecturer)
 - AI509: **Natural Language Processing** -- Fall 2025, SDU (main lecturer)
-- AI508: **Computer Vision** -- Fall 2025, SDU (co-lecturer)
-- DSK809: **Deep Learning** -- Fall 2025, SDU (responsible)
+- AI508: **Computer Vision** -- Fall 2025, SDU (co-teacher)
+- DSK809: **Deep Learning** -- Fall 2025, SDU (responsible teacher)
 - AI506: **Advanced Machine Learning** -- Spring 2025, SDU (main lecturer)
 - DM873/DS809: **Deep Learning** -- Fall 2024, SDU (main lecturer)
 
