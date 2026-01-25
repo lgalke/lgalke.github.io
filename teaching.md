@@ -2,6 +2,7 @@
 title: Teaching
 ---
 
+
 *SDU students can find the material on [itslearning](http://sdu.itslearning.com/)*
 
 - AI506: **Advanced Machine Learning** -- Spring 2026, SDU (main lecturer)
@@ -11,7 +12,10 @@ title: Teaching
 - AI506: **Advanced Machine Learning** -- Spring 2025, SDU (main lecturer)
 - DM873/DS809: **Deep Learning** -- Fall 2024, SDU (main lecturer)
 
-## Resources
+## Student projects
 
-- [LLM-Paperstorm](/llm-paperstorm) -- LLM-assisted paper reading
+[List of supervised student projects](/student-projects)
 
+## Teaching Material
+
+- [LLM-Paperstorm learning activity](/llm-paperstorm)
