@@ -10,10 +10,7 @@ title: "About"
 
 ## Bio
 
-
-I am an Assistant Professor of Data Science and Advanced Machine Learning at the University of Southern Denmark in Odense. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I received my B.Sc. (2013), M.Sc. (2017), and PhD (2022), all in computer science, from Kiel University, Germany.
-
-My current research focuses on mechanistic interpretability, AI safety, and the intersection of language models with cognitive science.
+Lukas Galke Poech is an Assistant Professor in the Department of Mathematics and Computer Science at the University of Southern Denmark. His research focuses on advancing AI safety through interpretability. He is the principal investigator of the MIST Project on Scalable Mechanistic Interpretability for Safe and Trustworthy Language Model Agents, supported by the Novo Nordisk Foundation. Lukas received his PhD in representation learning from Kiel University, Germany. He then joined the Max Planck Institute for Psycholinguistics as a postdoc, where he drew inspiration from research on how language works in the human brain to understand learning, behavior, and cognition in language models. His work has been published in venues including Neural Networks and Nature Communications.
 
 ## Profiles
 
