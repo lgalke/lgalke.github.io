@@ -4,13 +4,13 @@ title: Publications
 
 ## 2025–2026
 
-- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. To appear in: *AAAI*.
-- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. To appear in: *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241)
+- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
+- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/)
 - Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
 - Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
 - Mourad Abbas, Tariq Yousef, and Lukas Galke (Eds.) (2025). Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025). [proceedings](https://aclanthology.org/2025.icnlsp-1.0/)
-- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*.
-- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*.
+- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
+- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
 - Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *RaNLP*.
 - Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895)
 - Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *ESANN*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
