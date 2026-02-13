@@ -27,6 +27,9 @@ description: >
 mission: >
   My research advances AI safety by investigating how and why the most powerful AI systems behave the way they do.
 news:
+  - date: "February 2026"
+    text: >
+      Three papers accepted to LREC2026.
   - date: "November 2025"
     text: >
       The <a href="/projects#mist">MIST project</a> on mechanistic interpretability

@@ -4,6 +4,7 @@ title: Talks
 
 ## Invited talks
 
+- [t43] Lukas Galke (2026, Feb 11). **Cooperation, Culture, and Coordination in Neural Ecosystems**. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid).i [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/).
 - [t39] Lukas Galke (2025, May 13). **Evaluating Large and Multilingual Language Models through Citizen Science**. AI, Citizen Science, and MedTech – An Exploration, SDU, Odense, Denmark.
 - [t37] Lukas Galke (2024, July 4). **Machine Communication and the Emergence of Language**. Max Planck Proudly Presents, Nijmegen, Netherlands.
 - [t36] Lukas Galke (2024, June 19). **Machine Communication**. IMADA Seminar, SDU, Odense, Denmark.

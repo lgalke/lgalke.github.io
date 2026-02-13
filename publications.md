@@ -2,9 +2,12 @@
 title: Publications
 ---
 
-## 2025–2026
+## 2026
 
 - Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
+
+## 2025 
+
 - Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/)
 - Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
 - Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
