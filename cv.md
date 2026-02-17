@@ -49,6 +49,7 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 
 ## Selected invited talks
 
+- Cooperation, Culture, and Coordination in Neural Ecosystems. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany.
 - Evaluating Large and Multilingual Language Models through Citizen Science. AI, Citizen Science, and MedTech – An Exploration, 2025, May 13, SDU, Odense, Denmark.
 - Emergent communication and learning pressures in language models. Workshop on Using Artificial Neural Networks for Studying Human Language Learning and Processing, 2024, June 10, University of Amsterdam.
 - What makes a language easy to deep-learn? Computational Linguistics Seminar, 2023, May 16, University of Amsterdam, Netherlands.
