@@ -4,6 +4,9 @@ title: Publications
 
 ## 2026
 
+- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *LREC*.
+- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *LREC*.
+- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *LREC*.
 - Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
 
 ## 2025 
