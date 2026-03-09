@@ -2,9 +2,9 @@
 
 > Tracing connectionist mechanisms for safer AI systems.
 
-Assistant Professor,  University of Southern Denmark (SDU),  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning
+Assistant Professor,  University of Southern Denmark (SDU),  Faculty of Science,  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning,  Affiliate member of the Pioneer Centre for Artificial Intelligence (P1),
 
-**Mission:** In my view, understanding why the most powerful AI systems behave the way they do is the most important scientific problem in AI safety. I advance interpretability methods to make AI systems more transparent in order to inform alignment and enable principled control.
+**Mission:** My research advances AI safety by investigating how and why the most powerful AI systems behave the way they do.
 
 **Website:** https://lgalke.github.io
 
@@ -60,6 +60,7 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 
 ## Selected invited talks
 
+- Cooperation, Culture, and Coordination in Neural Ecosystems. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany.
 - Evaluating Large and Multilingual Language Models through Citizen Science. AI, Citizen Science, and MedTech – An Exploration, 2025, May 13, SDU, Odense, Denmark.
 - Emergent communication and learning pressures in language models. Workshop on Using Artificial Neural Networks for Studying Human Language Learning and Processing, 2024, June 10, University of Amsterdam.
 - What makes a language easy to deep-learn? Computational Linguistics Seminar, 2023, May 16, University of Amsterdam, Netherlands.
@@ -295,15 +296,21 @@ articles.
 title: Publications
 ---
 
-## 2025–2026
+## 2026
 
-- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. To appear in: *AAAI*.
-- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. To appear in: *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241)
+- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *Language Resources and Evaluation Conference*.
+- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *Language Resources and Evaluation Conference*.
+- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference*.
+- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
+
+## 2025 
+
+- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/)
 - Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
 - Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
 - Mourad Abbas, Tariq Yousef, and Lukas Galke (Eds.) (2025). Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025). [proceedings](https://aclanthology.org/2025.icnlsp-1.0/)
-- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*.
-- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications*.
+- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
+- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
 - Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *RaNLP*.
 - Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895)
 - Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *ESANN*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
@@ -375,6 +382,7 @@ title: Talks
 
 ## Invited talks
 
+- [t43] Lukas Galke (2026, Feb 11). **Cooperation, Culture, and Coordination in Neural Ecosystems**. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid). [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/)
 - [t39] Lukas Galke (2025, May 13). **Evaluating Large and Multilingual Language Models through Citizen Science**. AI, Citizen Science, and MedTech – An Exploration, SDU, Odense, Denmark.
 - [t37] Lukas Galke (2024, July 4). **Machine Communication and the Emergence of Language**. Max Planck Proudly Presents, Nijmegen, Netherlands.
 - [t36] Lukas Galke (2024, June 19). **Machine Communication**. IMADA Seminar, SDU, Odense, Denmark.
@@ -428,15 +436,23 @@ title: Talks
 title: Teaching
 ---
 
+
 *SDU students can find the material on [itslearning](http://sdu.itslearning.com/)*
 
+- AI506: **Advanced Machine Learning** -- Spring 2026, SDU (main lecturer)
 - AI509: **Natural Language Processing** -- Fall 2025, SDU (main lecturer)
-- AI508: **Computer Vision** -- Fall 2025, SDU (co-lecturer)
-- DSK809: **Deep Learning** -- Fall 2025, SDU (responsible)
+- AI508: **Computer Vision** -- Fall 2025, SDU (co-teacher)
+- DSK809: **Deep Learning** -- Fall 2025, SDU (responsible teacher)
 - AI506: **Advanced Machine Learning** -- Spring 2025, SDU (main lecturer)
 - DM873/DS809: **Deep Learning** -- Fall 2024, SDU (main lecturer)
 
+## Student projects
 
+[List of supervised student projects](/student-projects)
+
+## Teaching Material
+
+- [LLM-Paperstorm learning activity](/llm-paperstorm)
 
 ---
 title: "About"
@@ -450,10 +466,7 @@ title: "About"
 
 ## Bio
 
-
-I am an Assistant Professor of Data Science and Advanced Machine Learning at the University of Southern Denmark in Odense. Before that, I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, Netherlands. I received my B.Sc. (2013), M.Sc. (2017), and PhD (2022), all in computer science, from Kiel University, Germany.
-
-My current research focuses on mechanistic interpretability, AI safety, and the intersection of language models with cognitive science.
+Lukas Galke Poech is an Assistant Professor in the Department of Mathematics and Computer Science at the University of Southern Denmark. His research focuses on advancing AI safety through interpretability. He is the principal investigator of the MIST Project on Scalable Mechanistic Interpretability for Safe and Trustworthy Language Model Agents, supported by the Novo Nordisk Foundation. Lukas received his PhD in representation learning from Kiel University, Germany. He then joined the Max Planck Institute for Psycholinguistics as a postdoc, where he drew inspiration from research on how language works in the human brain to understand learning, behavior, and cognition in language models. His work has been published in venues including Neural Networks and Nature Communications.
 
 ## Profiles
 
