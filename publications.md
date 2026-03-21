@@ -11,14 +11,14 @@ title: Publications
 
 ## 2025 
 
-- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/)
-- Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
+- Danial Namazifard and Lukas Galke Poech (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/) [code](https://github.com/namazifard/Culture_Neurons)
+- Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524) [paper page](https://gqr-bench.github.io) [code](https://github.com/williambrach/gqr)
 - Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
 - Mourad Abbas, Tariq Yousef, and Lukas Galke (Eds.) (2025). Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025). [proceedings](https://aclanthology.org/2025.icnlsp-1.0/)
 - Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
 - Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
-- Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *RaNLP*.
-- Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895)
+- Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *Recent Advances in Natural Language Processing*. [paper](https://aclanthology.org/2025.ranlp-1.21.pdf)
+- Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895) [paper](https://aclanthology.org/2025.findings-acl.694/)
 - Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *ESANN*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
 - Jacob Nielsen, Lukas Galke, and Peter-Schneider Kamp (2025). When are 1.58 bits enough? A Bottom-up Exploration of Quantization-aware Training with Ternary Weights. *ICAART*. [preprint](https://arxiv.org/abs/2411.05882)
 - Lukas Galke, Limor Raviv (2025). Learning and communication pressures in neural networks: Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
