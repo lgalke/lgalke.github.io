@@ -4,12 +4,14 @@ title: Publications
 
 ## 2026
 
-- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *Language Resources and Evaluation Conference*.
-- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *Language Resources and Evaluation Conference*.
-- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference*.
-- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
+- Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech (2026). Training Language Models to Use Prolog as a Tool. Accepted for *ACL 2026 Findings*. [preprint](https://arxiv.org/abs/2512.07407) [code](https://github.com/aisilab/Prolog-as-a-Tool)
+- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *Language Resources and Evaluation Conference*. [preprint](https://arxiv.org/abs/2603.12117)
+- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *Language Resources and Evaluation Conference*. [preprint](https://arxiv.org/abs/2512.04799) [code](https://github.com/N-essuno/DaLA) [dataset (small)](https://huggingface.co/datasets/giannor/dala) [dataset (medium)](https://huggingface.co/datasets/giannor/dala_medium) [dataset (large)](https://huggingface.co/datasets/giannor/dala_large)
+- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference*. [preprint](https://arxiv.org/abs/2508.02271) [dataset](https://huggingface.co/datasets/
+danish-foundation-models/danish-dynaword) [training code](github.com/schneiderkamplab/offpolicy_kd)
+- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*. [preprint](https://arxiv.org/abs/2502.06728) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/39256) [code](github.com/schneiderkamplab/DeToNATION/)
 
-## 2025 
+## 2025
 
 - Danial Namazifard and Lukas Galke Poech (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/) [code](https://github.com/namazifard/Culture_Neurons)
 - Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524) [paper page](https://gqr-bench.github.io) [code](https://github.com/williambrach/gqr)
