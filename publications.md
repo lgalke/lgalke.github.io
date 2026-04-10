@@ -10,6 +10,7 @@ title: Publications
 - Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference*. [preprint](https://arxiv.org/abs/2508.02271) [dataset](https://huggingface.co/datasets/
 danish-foundation-models/danish-dynaword) [training code](github.com/schneiderkamplab/offpolicy_kd)
 - Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*. [preprint](https://arxiv.org/abs/2502.06728) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/39256) [code](github.com/schneiderkamplab/DeToNATION/)
+- Lukas Galke Poech (2026). LLM-Paperstorm: Collaborative Paper Reading with Large Language Models. Proceedings of the Conference on Teaching for Active Learning 2025. Odense, Denmark.
 
 ## 2025
 
