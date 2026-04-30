@@ -25,7 +25,10 @@ description: >
   Center for Machine Learning<br/>
   Affiliate member of the Pioneer Centre for Artificial Intelligence (P1)<br/>
 mission: >
-  My research advances AI safety by investigating how and why the most powerful AI systems behave the way they do.
+  My research advances AI safety by investigating how and why advanced AI
+  systems behave the way they do, and by developing interpretability-informed
+  methods for retaining human control. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a>, where we work
+  on interpretability and multi-agent safety.
 news:
   - date: "February 2026"
     text: >
@@ -57,7 +60,7 @@ social_username: LukasGalke
 theme_color: light
 
 # Seo
-tagline: Tracing connectionist mechanisms for safer AI systems.
+tagline: AI safety research through interpretability and control.
 
 # Build settings
 markdown: kramdown
