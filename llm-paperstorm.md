@@ -16,8 +16,12 @@ Students are instructed to validate the output of the LLM against the paper. In 
 
 - Download the [LLM-Paperstorm guide](/assets/images/LLM-Paperstorm.png)
 
+## Publications
+
+- Lukas Galke Poech (2026). LLM-Paperstorm: Collaborative Paper Reading with Large Language Models. Proceedings of the Conference on Teaching for Active Learning 2025. Odense, Denmark.
+
 ## Presentations
 
-- Lukas Galke (2026, January). **LLM-Assisted Paper Reading**. Teaching with AI, Science Education Hub, SDU, Odense, Denmark.  [[slides]](/assets/slides/LLM-assisted-paper-reading_Teaching-with-AI.pdf)
+- Lukas Galke Poech (2026, January). **LLM-Assisted Paper Reading**. Teaching with AI, Science Education Hub, SDU, Odense, Denmark. [[slides]](/assets/slides/LLM-assisted-paper-reading_Teaching-with-AI.pdf)
 
-- Lukas Galke (2025, November). **LLM-Assisted Paper Reading**. Teaching and Learning Conference (TAL), SDU, Odense, Denmark.
+- Lukas Galke Poech (2025, November). **LLM-Assisted Paper Reading**. Teaching and Learning Conference (TAL), SDU, Odense, Denmark.
