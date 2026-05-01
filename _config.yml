@@ -30,6 +30,9 @@ mission: >
   methods for retaining human control. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a>, where we work
   on interpretability and multi-agent safety.
 news:
+  - date: "April 2026"
+    text: >
+      Prolog-as-a-tool accepted at ACL 2026 Findings. <a href="https://arxiv.org/abs/2512.07407">arXiv preprint</a>.
   - date: "February 2026"
     text: >
       Three papers accepted to LREC2026.
@@ -60,7 +63,7 @@ social_username: LukasGalke
 theme_color: light
 
 # Seo
-tagline: AI safety research through interpretability and control.
+tagline: Advancing AI safety through interpretability-informed control
 
 # Build settings
 markdown: kramdown
