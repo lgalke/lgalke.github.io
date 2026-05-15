@@ -27,7 +27,7 @@ description: >
 mission: >
   My research advances AI safety by investigating how and why advanced AI
   systems behave the way they do, and by advancing interpretability-informed
-  control methods large language models. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a>,
+  control methods for large language models. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a>,
   where we work on interpretability and multi-agent safety.
 news:
   - date: "April 2026"
