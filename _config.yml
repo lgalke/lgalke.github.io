@@ -17,7 +17,7 @@ remote_theme: lgalke/athena@master
 # in the templates via {{ site.myvariable }}.
 title: Lukas Galke Poech
 description: >
-  Assistant Professor<br/>
+  Associate Professor<br/>
   University of Southern Denmark (SDU)<br/>
   Faculty of Science<br/>
   Department of Mathematics and Computer Science (IMADA)<br/>
