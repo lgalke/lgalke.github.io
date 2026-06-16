@@ -7,6 +7,18 @@ Supervised or co-supervised student projects (bachelor thesis, master thesis, or
 
 ---
 
+Theis Markus Ikkala Andersen (2026). Interpretability, Safety, and Cross-Environment Evaluation of LLM Agents. Master's thesis, SDU.
+
+Knud Rasmus Sønderbek (2026). Multidimensional Parameter Decomposition for Mechanistic Interpretability. Master's thesis, SDU.
+
+Navid Akbari (2026). Limits and Reliability of Weak-to-Strong Oversight in Large Language Models. Master's thesis, SDU.
+
+Anna Ellen Vedel Braaby & Melika Nelander-Jørgensen (2026). ML-Driven Project Estimation and Bid Success Analysis Using Historical Project Data. Master's thesis, SDU.
+
+Anders Simon Haugaard (2026). Enhancing Danish Grammatical Understanding in Language Models via Representation Engineering. Master's thesis, SDU.
+
+Mads Rasmussen (2026). Cross-modal networks for news article recommendation systems. Master's thesis, SDU.
+
 Oliver Nicklas Jøhnk Eriksen (2026). Fine-Tuning Vision-Language Models for Chart Comprehension: A Synthetic Data Study with Gemma3. Master's thesis, SDU.
 
 Emil Henriksen (2026). Guided Questioning in Language Model Agents. Master's thesis, SDU.
