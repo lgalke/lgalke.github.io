@@ -7,6 +7,8 @@ Supervised or co-supervised student projects (bachelor thesis, master thesis, or
 
 ---
 
+Joanna Kolaczek (2026). Understanding Legal Pricing: Predictive and Explainable Modeling Approach. Master's thesis, SDU.
+
 Theis Markus Ikkala Andersen (2026). Interpretability, Safety, and Cross-Environment Evaluation of LLM Agents. Master's thesis, SDU.
 
 Knud Rasmus Sønderbek (2026). Multidimensional Parameter Decomposition for Mechanistic Interpretability. Master's thesis, SDU.
