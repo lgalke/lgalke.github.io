@@ -7,6 +7,26 @@ Supervised or co-supervised student projects (bachelor thesis, master thesis, or
 
 ---
 
+Lucas Bergholdt Hansen (2026). Emergent Behavior in Energy-Constrained LLM-based Multi-Agent Systems. Bachelor's thesis, SDU.
+
+Alex Ricky Asmussen (2026). Large Language Models as Tutors: Prompting versus Representation Engineering. Bachelor's thesis, SDU.
+
+Linus Holmskov Jørgensen (2026). Platonic Representations of Bouba and Kiki. Bachelor's thesis, SDU.
+
+Tan Nhat Le (2026). Subliminal Misalignment of Language Models. Bachelor's thesis, SDU.
+
+Martin Hansen (2026). Scaling Gradient Clustering for Discovery of Fundamental Skills in Language Models. Master's thesis, SDU.
+
+Mads Kande (2026). Memory Corruption in LLM Agents: Degradation Thresholds and Early Detection. Master's thesis, SDU.
+
+Thomas Korsgaard Steffensen (2026). Do Small Language Models Exhibit Shutdown Resistance? Master's thesis, SDU.
+
+Sabine Christoffersen (2026). Beyond Performance: Algorithmic Bias and Fairness in Fraud Detection. Master's thesis, SDU.
+
+Victor Elze (2026). Foundation models in municipal IT-Service Management. Master's thesis, SDU.
+
+Charles DaCosta (2026). Augmenting Language Models with traceable Medical Knowledge. Master's thesis, SDU.
+
 Joanna Kolaczek (2026). Understanding Legal Pricing: Predictive and Explainable Modeling Approach. Master's thesis, SDU.
 
 Theis Markus Ikkala Andersen (2026). Interpretability, Safety, and Cross-Environment Evaluation of LLM Agents. Master's thesis, SDU.
@@ -62,4 +82,4 @@ Benedikt Franke & Tobias Zielke (2020). Subgraph Sampling in an Online Learning 
 
 Fabian Steputat (2019). Document Classification with Few-shot Learning. Master's thesis, Kiel University, Germany.
 
-Florian Mai (2018). Master's thesis, Kiel University, Germany.
+Florian Mai (2018). Using deep learning for title-based semantic subject indexing to reach competitive performance to full-text. Master's thesis, Kiel University, Germany.
