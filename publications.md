@@ -5,7 +5,7 @@ title: Publications
 ## 2026
 
 - Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen,
-Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. AAAI/ACM Conference on Artificial Intelligence, Ethis, and Society (AIES). [preprint](https://arxiv.org/abs/2605.31170) [code](https://github.com/aisilab/emergent-languages}) [data](https://huggingface.co/datasets/aisilab/MoltSpeech)
+Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [preprint](https://arxiv.org/abs/2605.31170) [code](https://github.com/aisilab/emergent-languages}) [data](https://huggingface.co/datasets/aisilab/MoltSpeech)
 - William Martin Stevenson, Anne Gerdes, Lukas Galke Poech, and Anton Danholt Lautrup (2026). Curating the Collapse: How Sample-Level Auditing Accelerates Model Collapse in
 Synthesis of Tabular Data. AAAI/ACM Conference on Artificial Intelligence, Ethis, and Society (AIES). [code](https://github.com/wmstevenson/CuratedCollapse)
 - Jacob Nielsen, Stine Lyngsø Beltoft, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Daisy: A Benchmark for Danish Culture. Evaluations for Specialized Domains Workshop at KONVENS. [preprint](https://arxiv.org/abs/2601.19930) [code](https://github.com/schneiderkamplab/SDU-Daisy)
