@@ -3,11 +3,12 @@ title: Publications
 ---
 
 ## 2026
-
+- Andor Diera, Lukas Galke Poech, Matthias Tichy (2026). 
+Rethinking Pivot Programming Languages in Code Language Models. EMNLP.
 - Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen,
 Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [preprint](https://arxiv.org/abs/2605.31170) [code](https://github.com/aisilab/emergent-languages}) [data](https://huggingface.co/datasets/aisilab/MoltSpeech)
 - William Martin Stevenson, Anne Gerdes, Lukas Galke Poech, and Anton Danholt Lautrup (2026). Curating the Collapse: How Sample-Level Auditing Accelerates Model Collapse in Synthesis of Tabular Data. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [code](https://github.com/wmstevenson/CuratedCollapse)
- - Jacob Nielsen, Stine Lyngsø Beltoft, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Daisy: A Benchmark for Danish Culture. First Workshop on Evaluating LLMs for Specialized Domains Workshop at KONVENS. [preprint](https://arxiv.org/abs/2601.19930) [code](https://github.com/schneiderkamplab/SDU-Daisy) [data](https://huggingface.co/datasets/schneiderkamplab/SDU-Daisy)
+- Jacob Nielsen, Stine Lyngsø Beltoft, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Daisy: A Benchmark for Danish Culture. First Workshop on Evaluating LLMs for Specialized Domains Workshop at KONVENS. [preprint](https://arxiv.org/abs/2601.19930) [code](https://github.com/schneiderkamplab/SDU-Daisy) [data](https://huggingface.co/datasets/schneiderkamplab/SDU-Daisy)
 - Florian Hauss, Tom Speier, Nerijus Bertalis, Paul Granse, Ferhat Gül, Leon Menkel, David Schüler, Lukas Galke Poech, & Ansgar Scherp (2026). On the Transferability Between Extreme Multi-Label and Hierarchical Text Classification. The ACM Symposium on Document Engineering (DocEng). [preprint](https://arxiv.org/abs/2411.13687) [code](https://github.com/FloHauss/XMC_HTC) [paper](https://doi.org/10.1145/3820755.3832808)
 - Andrea Blasi Nunez, Lukas Galke Poech, & Peter Schneider-Kamp (2026). Teaching Old Dogs New Tricks: Teacher Signal vs. Experience Replay in Continual Pre-training for Language Model Adaptation. International Conference on Artificial Neural Networks (ICANN).
 - Filippo Tonini, Federico Torrielli, Anton Danholt Lautrup, Peter Schneider-Kamp, Mustafa Mert Çelikok, & Lukas Galke Poech (2026). The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment. AI Transparency Conference (AITC). [preprint](https://arxiv.org/abs/2606.10747) [code](https://github.com/aisilab/arbiter)
