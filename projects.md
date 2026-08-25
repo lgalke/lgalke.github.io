@@ -2,14 +2,20 @@
 title: Projects
 ---
 
-## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents (starting 2026) {#mist}
+## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents (since 2026) {#mist}
 
 The MIST project, funded by the Novo Nordisk Foundation, addresses the critical challenge of understanding and controlling LLM-based AI Agents. We develop scalable, theory-driven methods for mechanistic interpretability to identify the underlying mechanisms responsible for tool use, reasoning, and multi-agent communication. By investigating the cross-model and cross-lingual universality of these mechanisms, we create interpretability-informed steering techniques and latent guardrails that enable safe deployment in high-stakes applications. The project ultimately aims to establish a comprehensive framework for issuing safety certificates to LLM agents through systematic evaluation in diverse multi-agent simulation environments.
+
+- [The Energy Society](https://arxiv.org/abs/2607.14865) (AITC 2026)
+- [The Arbiter Agent](https://arxiv.org/abs/2606.10747) (AITC 2026)
+- [Emergent Languages in Populations of Language Model Agents](https://arxiv.org/abs/2605.31170) (AIES 2026)
+- [Teaching Language Models to use Prolog as a tool](https://arxiv.org/pdf/2512.07407) (ACL 2026 Findings)
 
 ## Danish Foundation Models (since 2025) {#danish-foundation-models}
 
 The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandra Institute.
 
+- [Model release Mimir V1](https://arxiv.org/abs/2608.13517) (August 2026)
 - [Project website](https://foundationmodels.dk)
 
 ## Interpretability of Language Models (since 2023) {#interpretability}

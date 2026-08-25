@@ -26,10 +26,18 @@ description: >
   Affiliate member of the Pioneer Centre for Artificial Intelligence (P1)<br/>
 mission: >
   My research advances AI safety by investigating how and why advanced AI
-  systems behave the way they do, and by advancing interpretability-informed
-  control methods for large language models. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a>,
-  where we work on interpretability and multi-agent safety.
+  systems behave the way they do, and by advancing scalable, interpretability-informed
+  control methods for large language models and multi-agent LLM systems.
+  I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability
+  Lab at SDU</a> and co-lead <a
+  href="https://odensenlp.github.io">OdenseNLP</a>.
 news:
+  - date: "August 2026"
+    text: >
+      PivotPL accepted at EMNLP 2026. 
+  - date: "August 2026"
+    text: >
+      Model release: <a href="https://arxiv.org/abs/2608.13517">Mimir V1</a>.
   - date: "April 2026"
     text: >
       Prolog-as-a-tool accepted at ACL 2026 Findings. <a href="https://arxiv.org/abs/2512.07407">arXiv preprint</a>.
