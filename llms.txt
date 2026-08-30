@@ -1,10 +1,10 @@
 # Lukas Galke Poech
 
-> Tracing connectionist mechanisms for safer AI systems.
+> Advancing AI safety through interpretability-informed control
 
-Assistant Professor,  University of Southern Denmark (SDU),  Faculty of Science,  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning,  Affiliate member of the Pioneer Centre for Artificial Intelligence (P1),
+Associate Professor,  University of Southern Denmark (SDU),  Faculty of Science,  Department of Mathematics and Computer Science (IMADA),  Data Science Section,  Center for Machine Learning,  Affiliate member of the Pioneer Centre for Artificial Intelligence (P1),
 
-**Mission:** My research advances AI safety by investigating how and why the most powerful AI systems behave the way they do.
+**Mission:** My research advances AI safety by investigating how and why advanced AI systems behave the way they do, and by advancing scalable, interpretability-informed control methods for large language models and multi-agent LLM systems. I lead the <a href="https://aisilab.github.io">AI Safety & Interpretability Lab at SDU</a> and co-lead <a href="https://odensenlp.github.io">OdenseNLP</a>.
 
 **Website:** https://lgalke.github.io
 
@@ -23,7 +23,9 @@ title: CV
 
 ## Experience
 
-Current position (since 2024): **Assistant Professor**, University of Southern Denmark (SDU), Department of Mathematics and Computer Science (IMADA), Section for Data Science and Statistics (DSS), Centre for Machine Learning (C4ML)
+Current position (since 2026): **Associate Professor**, University of Southern Denmark, Faculty of Science, Department of Mathematics and Computer Science, Section for Data Science and Statistics, Centre for Machine Learning
+
+2024-2026: **Assistant Professor**, University of Southern Denmark, Department of Mathematics and Computer Science
 
 2022-2024: **Postdoctoral Researcher**, Max Planck Institute for Psycholinguistics
 
@@ -84,14 +86,20 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 title: Projects
 ---
 
-## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents (starting 2026) {#mist}
+## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents (since 2026) {#mist}
 
-The MIST project, funded by the Novo Nordisk Foundation, addresses the critical challenge of understanding and controlling large language model (LLM) agents. We develop scalable, theory-driven methods for mechanistic interpretability to identify the underlying mechanisms responsible for tool use, reasoning, and multi-agent communication. By investigating the cross-model and cross-lingual universality of these mechanisms, we create interpretability-informed steering techniques and latent guardrails that enable safe deployment in high-stakes applications. The project ultimately aims to establish a comprehensive framework for issuing safety certificates to LLM agents through systematic evaluation in diverse multi-agent simulation environments.
+The MIST project, funded by the Novo Nordisk Foundation, addresses the critical challenge of understanding and controlling LLM-based AI Agents. We develop scalable, theory-driven methods for mechanistic interpretability to identify the underlying mechanisms responsible for tool use, reasoning, and multi-agent communication. By investigating the cross-model and cross-lingual universality of these mechanisms, we create interpretability-informed steering techniques and latent guardrails that enable safe deployment in high-stakes applications. The project ultimately aims to establish a comprehensive framework for issuing safety certificates to LLM agents through systematic evaluation in diverse multi-agent simulation environments.
+
+- [The Energy Society](https://arxiv.org/abs/2607.14865) (AITC 2026)
+- [The Arbiter Agent](https://arxiv.org/abs/2606.10747) (AITC 2026)
+- [Emergent Languages in Populations of Language Model Agents](https://arxiv.org/abs/2605.31170) (AIES 2026)
+- [Teaching Language Models to use Prolog as a tool](https://arxiv.org/pdf/2512.07407) (ACL 2026 Findings)
 
 ## Danish Foundation Models (since 2025) {#danish-foundation-models}
 
 The aim of the Danish Foundation Models project is to develop and evaluate large multilingual and multimodal foundation models that excel at Danish -- trained only on permissible Danish data and providing access to the full models (open-weight) and their source code (open-source). The project is a collaborative effort between the University of Southern Denmark, Aarhus University, Copenhagen University, and the Alexandra Institute.
 
+- [Model release Mimir V1](https://arxiv.org/abs/2608.13517) (August 2026)
 - [Project website](https://foundationmodels.dk)
 
 ## Interpretability of Language Models (since 2023) {#interpretability}
@@ -298,26 +306,38 @@ title: Publications
 
 ## 2026
 
-- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *Language Resources and Evaluation Conference*.
-- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *Language Resources and Evaluation Conference*.
-- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference*.
-- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
+- Andor Diera, Lukas Galke Poech, Matthias Tichy (2026). Rethinking Pivot Programming Languages in Code Language Models. EMNLP.
+- Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen,
+Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [preprint](https://arxiv.org/abs/2605.31170) [code](https://github.com/aisilab/emergent-languages}) [data](https://huggingface.co/datasets/aisilab/MoltSpeech)
+- William Martin Stevenson, Anne Gerdes, Lukas Galke Poech, and Anton Danholt Lautrup (2026). Curating the Collapse: How Sample-Level Auditing Accelerates Model Collapse in Synthesis of Tabular Data. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [code](https://github.com/wmstevenson/CuratedCollapse)
+- Jacob Nielsen, Stine Lyngsø Beltoft, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Daisy: A Benchmark for Danish Culture. First Workshop on Evaluating LLMs for Specialized Domains Workshop at KONVENS. [preprint](https://arxiv.org/abs/2601.19930) [code](https://github.com/schneiderkamplab/SDU-Daisy) [data](https://huggingface.co/datasets/schneiderkamplab/SDU-Daisy)
+- Florian Hauss, Tom Speier, Nerijus Bertalis, Paul Granse, Ferhat Gül, Leon Menkel, David Schüler, Lukas Galke Poech, & Ansgar Scherp (2026). On the Transferability Between Extreme Multi-Label and Hierarchical Text Classification. The ACM Symposium on Document Engineering (DocEng). [preprint](https://arxiv.org/abs/2411.13687) [code](https://github.com/FloHauss/XMC_HTC) [paper](https://doi.org/10.1145/3820755.3832808)
+- Andrea Blasi Nunez, Lukas Galke Poech, & Peter Schneider-Kamp (2026). Teaching Old Dogs New Tricks: Teacher Signal vs. Experience Replay in Continual Pre-training for Language Model Adaptation. International Conference on Artificial Neural Networks (ICANN).
+- Filippo Tonini, Federico Torrielli, Anton Danholt Lautrup, Peter Schneider-Kamp, Mustafa Mert Çelikok, & Lukas Galke Poech (2026). The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment. AI Transparency Conference (AITC). [preprint](https://arxiv.org/abs/2606.10747) [code](https://github.com/aisilab/arbiter)
+- Lucas Bergholdt Hansen, Federico Torrielli, Filippo Tonini, Lukas Galke Poech (2026) The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure. AI Transparency Conference (AITC). [preprint](https://arxiv.org/abs/2607.14865)
+- Richard Šléher, William Brach, Kristián Košťál, & Lukas Galke Poech (2026). Influence of Prompt Engineering on Small Language Models for Guarded Query Routing. Scandinavian Conference on Artificial Intelligence (SCAI).
+- Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech (2026). Training Language Models to Use Prolog as a Tool. *ACL 2026 Findings*. [preprint](https://arxiv.org/abs/2512.07407) [code](https://github.com/aisilab/Prolog-as-a-Tool)
+- William Brach, Tomas Bedej, Jacob Nielsen, Jacob Pichna, Juraj Bedej, Eemeli Saarensilta, Julie Dupouy, Gianluca Barmina, Andrea Blasi Núñez, Peter Schneider-Kamp, Kristian Kostal, Michal Ries, & Lukas Galke Poech (2026). SommBench: Assessing Sommelier Expertise of Language Models. *Language Resources and Evaluation Conference (LREC)*. [preprint](https://arxiv.org/abs/2603.12117)
+- Gianluca Barmina, Nathalie Carmen Hau Norman, Peter Schneider-Kamp, & Lukas Galke Poech (2026). DaLA: Danish Linguistic Acceptability Evaluation Guided by Real World Errors. *Language Resources and Evaluation Conference (LREC)*. [preprint](https://arxiv.org/abs/2512.04799) [code](https://github.com/N-essuno/DaLA) [dataset (small)](https://huggingface.co/datasets/giannor/dala) [dataset (medium)](https://huggingface.co/datasets/giannor/dala_medium) [dataset (large)](https://huggingface.co/datasets/giannor/dala_large)
+- Kenneth Enevoldsen, Kristian Nørgaard Jensen, Jan Kostkan, Balázs Szabó, Márton Kardos, Kirsten Vad, Johan Heinsen, Andrea Blasi Núñez, Gianluca Barmina, Jacob Nielsen, Rasmus Larsen, Rob van der Goot, Peter Vahlstrup, Per Møldrup-Dalum, Desmond Elliott, Lukas Galke, Peter Schneider-Kamp, Kristoffer Nielbo (2026). Dynaword: From One-shot to Continuously Developed Datasets. *Language Resources and Evaluation Conference (LREC)*. [preprint](https://arxiv.org/abs/2508.02271) [dataset](https://huggingface.co/datasets/danish-foundation-models/danish-dynaword) [training code](github.com/schneiderkamplab/offpolicy_kd)
+- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*. [preprint](https://arxiv.org/abs/2502.06728) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/39256) [code](github.com/schneiderkamplab/DeToNATION/)
+- Lukas Galke Poech (2026). LLM-Paperstorm: Collaborative Paper Reading with Large Language Models. Proceedings of the Conference on Teaching for Active Learning 2025. Odense, Denmark.
 
-## 2025 
+## 2025
 
-- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/)
-- Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524)
+- Danial Namazifard and Lukas Galke Poech (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*. [preprint](https://arxiv.org/abs/2508.02241) [paper](https://aclanthology.org/2025.findings-ijcnlp.45/) [code](https://github.com/namazifard/Culture_Neurons)
+- Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*. [preprint](https://arxiv.org/abs/2505.14524) [paper page](https://gqr-bench.github.io) [code](https://github.com/williambrach/gqr)
 - Marcel Hoffmann, Lukas Galke, and Ansgar Scherp (2025). Gumbel-MPNN: Graph Rewiring with Gumbel-Softmax. *ECAI*.
 - Mourad Abbas, Tariq Yousef, and Lukas Galke (Eds.) (2025). Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025). [proceedings](https://aclanthology.org/2025.icnlsp-1.0/)
-- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
-- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA).
-- Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *RaNLP*.
-- Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895)
-- Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *ESANN*. [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
-- Jacob Nielsen, Lukas Galke, and Peter-Schneider Kamp (2025). When are 1.58 bits enough? A Bottom-up Exploration of Quantization-aware Training with Ternary Weights. *ICAART*. [preprint](https://arxiv.org/abs/2411.05882)
+- Filippo Tonini and Lukas Galke (2025). Super-additive Cooperation in Language Model Agents. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA). [preprint](https://arxiv.org/abs/2508.15510) [paper page](https://pippot.github.io/Superadditive-cooperation-LLMs/)
+- Stine Lyngso Beltoft and Lukas Galke (2025). Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI. *Springer 3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications* (FAIEMA). [preprint](https://arxiv.org/abs/2511.09325)
+- Andrea Blasi Nuñez, Lukas Galke, and Peter Schneider-Kamp (2025). MLDataForge: Accelerating Large-Scale Dataset Preprocessing and Access for Multimodal Foundation Model Training. *Recent Advances in Natural Language Processing*. [paper](https://aclanthology.org/2025.ranlp-1.21.pdf)
+- Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*. [preprint](https://arxiv.org/abs/2502.11895) [paper](https://aclanthology.org/2025.findings-acl.694/)
+- Andor Diera, Lukas Galke, and Ansgar Scherp (2025). Isotropy Matters: Soft-ZCA Whitening of Embeddings for Semantic Code Search. *European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning* (ESANN). [preprint](https://arxiv.org/abs/2411.17538) [code](https://github.com/drndr/code_isotropy)
+- Jacob Nielsen, Lukas Galke, and Peter-Schneider Kamp (2025). When are 1.58 bits enough? A Bottom-up Exploration of Quantization-aware Training with Ternary Weights. *17th International Conference on Agents and Artificial Intelligence* (ICAART). [preprint](https://arxiv.org/abs/2411.05882)
 - Lukas Galke, Limor Raviv (2025). Learning and communication pressures in neural networks: Lessons from emergent communication. *Language Development Research* 5(1). [paper](https://doi.org/10.34842/3vr5-5r49) [preprint](https://arxiv.org/abs/2403.14427)
-- Andor Diera, Lukas Galke, Fabian Karl, and Ansgar Scherp (2025). Efficient Continual Learning for Small Language Models with a Discrete Key-Value Bottleneck. *ICNLSP*. [paper](https://aclanthology.org/2025.icnlsp-1.17/)
-- Thao Anh Dang, Limor Raviv, and Lukas Galke (2025). Tokenization and Morphology in Multilingual Language Models: A Comparative Analysis of mT5 and ByT5. *ICNLSP*. [paper](https://aclanthology.org/2025.icnlsp-1.24/)
+- Andor Diera, Lukas Galke, Fabian Karl, and Ansgar Scherp (2025). Efficient Continual Learning for Small Language Models with a Discrete Key-Value Bottleneck. *International Conference on Natural Language and Speech Processing* (ICNLSP). [paper](https://aclanthology.org/2025.icnlsp-1.17/)
+- Thao Anh Dang, Limor Raviv, and Lukas Galke (2025). Tokenization and Morphology in Multilingual Language Models: A Comparative Analysis of mT5 and ByT5. *International Conference on Natural Language and Speech Processing* (ICNLSP). [paper](https://aclanthology.org/2025.icnlsp-1.24/)
 
 ## 2024
 
@@ -382,7 +402,9 @@ title: Talks
 
 ## Invited talks
 
-- [t43] Lukas Galke (2026, Feb 11). **Cooperation, Culture, and Coordination in Neural Ecosystems**. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid). [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/)
+- [t45] Lukas Galke Poech (2026, March 17). **Isolating Culture Neurons in Multilingual Large Language Models**. [HumanCLAIM](https://clap-lab.github.io/workshop.html) workshop, Göttingen, Germany.
+- [t44] Lukas Galke (2026, Feb 11). **Cooperation, Culture, and Coordination in Neural Ecosystems**. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid). [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/)
+- [t43] Lukas Galke (2026, January 21). **LLM-Assisted Paper Reading. Teaching with AI**, Science Education Hub, SDU, Odense, Denmark.
 - [t39] Lukas Galke (2025, May 13). **Evaluating Large and Multilingual Language Models through Citizen Science**. AI, Citizen Science, and MedTech – An Exploration, SDU, Odense, Denmark.
 - [t37] Lukas Galke (2024, July 4). **Machine Communication and the Emergence of Language**. Max Planck Proudly Presents, Nijmegen, Netherlands.
 - [t36] Lukas Galke (2024, June 19). **Machine Communication**. IMADA Seminar, SDU, Odense, Denmark.

@@ -12,7 +12,9 @@ title: CV
 
 ## Experience
 
-Current position (since 2024): **Assistant Professor**, University of Southern Denmark (SDU), Department of Mathematics and Computer Science (IMADA), Section for Data Science and Statistics (DSS), Centre for Machine Learning (C4ML)
+Current position (since 2026): **Associate Professor**, University of Southern Denmark, Faculty of Science, Department of Mathematics and Computer Science, Section for Data Science and Statistics, Centre for Machine Learning
+
+2024-2026: **Assistant Professor**, University of Southern Denmark, Department of Mathematics and Computer Science
 
 2022-2024: **Postdoctoral Researcher**, Max Planck Institute for Psycholinguistics
 
@@ -31,6 +33,12 @@ Current position (since 2024): **Assistant Professor**, University of Southern D
 **MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents** (2026–2031)
 Novo Nordisk Foundation, Principal Investigator,
 Funding for 2 PhD + 1 Postdoc position to develop interpretability methods for understanding and controlling LLM agents.
+
+**Danish Foundation Models** (2025–)
+Consortium: University of Southern Denmark, Aarhus University, Alexandra Institute, Copenhagen University
+(role: Work package leader)
+
+## Major Compute Allocations
 
 **Sustainable Language Modeling through Quantization-Aware Continual Pre-training** (2025)
 EuroHPC JU AI and Data Intensive Applications, Principal Investigator,
