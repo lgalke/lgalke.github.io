@@ -16,7 +16,7 @@ remote_theme: lgalke/athena@master
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lukas Galke Poech
-description: Associate Professor at the University of Southern Denmark researching AI safety, interpretability, and LLM-based multi-agent systems. 
+description: Associate Professor at the University of Southern Denmark
 
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
