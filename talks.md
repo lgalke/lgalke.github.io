@@ -4,6 +4,7 @@ title: Talks
 
 ## Invited talks
 
+- [t46] Lukas Galke Poech (2026, August 22). **mechanistic interpretability**. Danish AI Safety Conrerence, Copenhagen, Denmark. [[slides]](https://canva.link/hawc836jc8njfw5)
 - [t45] Lukas Galke Poech (2026, March 17). **Isolating Culture Neurons in Multilingual Large Language Models**. [HumanCLAIM](https://clap-lab.github.io/workshop.html) workshop, Göttingen, Germany.
 - [t44] Lukas Galke (2026, Feb 11). **Cooperation, Culture, and Coordination in Neural Ecosystems**. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid). [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/)
 - [t43] Lukas Galke (2026, January 21). **LLM-Assisted Paper Reading. Teaching with AI**, Science Education Hub, SDU, Odense, Denmark.
