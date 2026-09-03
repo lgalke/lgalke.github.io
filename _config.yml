@@ -17,14 +17,14 @@ remote_theme: lgalke/athena@master
 # in the templates via {{ site.myvariable }}.
 title: Lukas Galke Poech
 description: >
-  <p>I am an Associate Professor at the <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi">Department of Mathematics and Computer Science</a> at the <a href="https://www.sdu.dk/en">University of Southern Denmark (SDU)</a>, where
+  I am an Associate Professor at the <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi">Department of Mathematics and Computer Science</a> at the <a href="https://www.sdu.dk/en">University of Southern Denmark (SDU)</a>, where
   I lead the <a href="https://aisilab.github.io">AI Safety &amp; Interpretability
   Lab</a> and co-lead <a href="https://odensenlp.github.io">OdenseNLP</a>.
   I am also an affiliated member of the <a href="https://www.aicentre.dk">Pioneer Centre for Artificial Intelligence (P1)</a>
   a member of the <a href="https://www.sdu.dk/en/forskning/forskningsenheder/samf/digitaldemocracycentre">Digital
-  Democracy Centre</a>, and a member of the International Association for Safe and Ethical AI.
-  </p>
-  <p>My research advances AI safety by understanding how and why AI models behave
+  Democracy Centre</a>, and a member of the <a href="https://www.iaseai.org">International Association for Safe and Ethical AI</a>.
+  
+  My research advances AI safety by understanding how and why AI models behave
   the way they do – and by developing methods to keep that behavior legible and
   controllable. Specifically, my research areas comprise
   <strong>interpretability</strong>, <strong>emergent communication</strong>,
@@ -37,12 +37,13 @@ description: >
   emerges in populations of agents, and why some communication protocols stay readable while
   others drift away from human language (<a href="https://doi.org/10.1038/s41467-024-55158-1">compositionality in language learning</a>, <a href="https://arxiv.org/abs/2605.31170">emergent languages in LLM agent populations</a>).
   These strands converge on the key question of how to retain legibility in
-  machine reasoning and communication, and at what cost (<a href="https://aclanthology.org/2026.findings-acl.1644/">auditability vs. accuracy</a>).</p>
-  <p>I am the principal investigator of the <a href="https://aisilab.github.io/mist/">MIST project</a> on scalable
+  machine reasoning and communication, and at what cost (<a href="https://aclanthology.org/2026.findings-acl.1644/">auditability vs. accuracy</a>).
+
+  I am the principal investigator of the <a href="https://aisilab.github.io/mist/">MIST project</a> on scalable
   mechanistic interpretability for safe and trustworthy LLM agents, funded by
   the Novo Nordisk Foundation, and I lead the alignment workstream in the <a
   href="https://www.foundationmodels.dk/">Danish Foundation Models project</a>,
-  where we train open multilingual models that excel at Danish using only permissible data (<a href="https://arxiv.org/abs/2608.13517">DFM Mimir v1</a>) -- contributing to European AI sovereignty.</p>
+  where we train open multilingual models that excel at Danish using only permissible data (<a href="https://arxiv.org/abs/2608.13517">DFM Mimir v1</a>) -- contributing to European AI sovereignty.
 
 news:
   - date: "August 2026"
