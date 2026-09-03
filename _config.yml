@@ -16,61 +16,8 @@ remote_theme: lgalke/athena@master
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lukas Galke Poech
-description: >
-  I am an Associate Professor at the <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi">Department of Mathematics and Computer Science</a> at the <a href="https://www.sdu.dk/en">University of Southern Denmark (SDU)</a>, where
-  I lead the <a href="https://aisilab.github.io">AI Safety &amp; Interpretability
-  Lab</a> and co-lead <a href="https://odensenlp.github.io">OdenseNLP</a>.
-  I am also an affiliated member of the <a href="https://www.aicentre.dk">Pioneer Centre for Artificial Intelligence (P1)</a>
-  a member of the <a href="https://www.sdu.dk/en/forskning/forskningsenheder/samf/digitaldemocracycentre">Digital
-  Democracy Centre</a>, and a member of the <a href="https://www.iaseai.org">International Association for Safe and Ethical AI</a>.
-  
-  My research advances AI safety by understanding how and why AI models behave
-  the way they do – and by developing methods to keep that behavior legible and
-  controllable. Specifically, my research areas comprise
-  <strong>interpretability</strong>, <strong>emergent communication</strong>,
-  and <strong>multi-agent LLM systems</strong>.  One line of my work studies
-  model internals to identify the functional roots of model behavior, using
-  mechanistic interpretability and experimental paradigms from psycholinguistics
-  (<a href="https://arxiv.org/abs/2605.26045">calibration of activation oracles</a>, <a
-  href="https://aclanthology.org/2025.findings-ijcnlp.45/">culture neurons</a>).
-  In another line of work, I study the interaction <em>between</em> models -- how communication
-  emerges in populations of agents, and why some communication protocols stay readable while
-  others drift away from human language (<a href="https://doi.org/10.1038/s41467-024-55158-1">compositionality in language learning</a>, <a href="https://arxiv.org/abs/2605.31170">emergent languages in LLM agent populations</a>).
-  These strands converge on the key question of how to retain legibility in
-  machine reasoning and communication, and at what cost (<a href="https://aclanthology.org/2026.findings-acl.1644/">auditability vs. accuracy</a>).
+description: Associate Professor at the University of Southern Denmark researching AI safety, interpretability, and LLM-based multi-agent systems. 
 
-  I am the principal investigator of the <a href="https://aisilab.github.io/mist/">MIST project</a> on scalable
-  mechanistic interpretability for safe and trustworthy LLM agents, funded by
-  the Novo Nordisk Foundation, and I lead the alignment workstream in the <a
-  href="https://www.foundationmodels.dk/">Danish Foundation Models project</a>,
-  where we train open multilingual models that excel at Danish using only permissible data (<a href="https://arxiv.org/abs/2608.13517">DFM Mimir v1</a>) -- contributing to European AI sovereignty.
-
-news:
-  - date: "August 2026"
-    text: >
-      Pivot programming languages in LLMs accepted at EMNLP 2026. 
-  - date: "August 2026"
-    text: >
-      Opening talk on mechanistic interpretability at the Danish AI Safety Conference 2026 <a href="https://canva.link/hawc836jc8njfw5">[slides]</a>.
-  - date: "August 2026"
-    text: >
-      Model release: <a href="https://arxiv.org/abs/2608.13517">Mimir V1</a>.
-  - date: "April 2026"
-    text: >
-      Prolog-as-a-tool accepted at ACL 2026 Findings. <a href="https://arxiv.org/abs/2512.07407">arXiv preprint</a>.
-  - date: "February 2026"
-    text: >
-      Three papers accepted to LREC2026.
-  - date: "November 2025"
-    text: >
-      The <a href="/projects#mist">MIST project</a> on mechanistic interpretability
-      for safe LLM agents has been funded by the Novo Nordisk Foundation.
-  - date: "November 2025"
-    text: >
-      FlexDeMo has been accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
-  - date: "October 2025"
-    text: >
-      <a href="https://aclanthology.org/2025.findings-ijcnlp.45/">Culture Neurons</a> have been accepted to <a href="https://2025.aaclnet.org">AACL-IJCNLP 2025</a> Findings.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://lgalke.github.io" # the base hostname & protocol for your site
 github_repo: lgalke.github.io # the GitHub repo name for your project
@@ -94,7 +41,4 @@ markdown: kramdown
 include:
   - llms.txt
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
 
