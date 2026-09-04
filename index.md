@@ -16,7 +16,7 @@ I am the principal investigator of the [MIST project](https://aisilab.github.io/
 - **August 2026:** Pivot programming languages in LLMs accepted at EMNLP 2026.
 - **August 2026:** Opening talk on mechanistic interpretability at the Danish AI Safety Conference 2026 [slides](https://canva.link/hawc836jc8njfw5).
 - **August 2026:** Model release: [Mimir V1](https://arxiv.org/abs/2608.13517).
-- **April 2026:** Prolog-as-a-tool accepted at ACL 2026 Findings. [arXiv preprint](https://arxiv.org/abs/2512.07407).
+- **April 2026:** [Prolog-as-a-tool](https://aclanthology.org/2026.findings-acl.1644/) accepted at ACL 2026 Findings. 
 - **February 2026:** Three papers accepted to LREC2026.
 - **November 2025:** The [MIST project](/projects#mist) on mechanistic interpretability for safe and trustworthy LLM agents has been funded by the Novo Nordisk Foundation.
 - **November 2025:** FlexDeMo has been accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
