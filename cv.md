@@ -54,9 +54,9 @@ Consortium: University of Southern Denmark, Aarhus University, Alexandra Institu
 ## Teaching experience
 
 - Natural Language Processing (2025, 2026)
-- Computer Vision (co-teacher; 2025, 2026)
+- Computer Vision (co-teacher 2025, 2026)
 - Advanced Machine Learning (2025, 2026)
-- Deep Learning (2024)
+- Deep Learning (main teacher 2024; responsible teacher 2025, 2026)
 
 ## Academic service
 
