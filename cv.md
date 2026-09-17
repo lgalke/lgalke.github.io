@@ -30,30 +30,19 @@ Current position (since 2026): **Associate Professor**, University of Southern D
 
 ## Grants and Major Projects
 
-**MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents** (2026–2031)
-Novo Nordisk Foundation, Principal Investigator,
-Funding for 2 PhD + 1 Postdoc position to develop interpretability methods for understanding and controlling LLM agents.
+**MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents** (2026–2031,
+Novo Nordisk Foundation) Role: Principal investigator.
 
-**Danish Foundation Models** (2025–)
-Consortium: University of Southern Denmark, Aarhus University, Alexandra Institute, Copenhagen University
-(role: Work package leader)
-
-## Major Compute Allocations
-
-**Sustainable Language Modeling through Quantization-Aware Continual Pre-training** (2025)
-EuroHPC JU AI and Data Intensive Applications, Principal Investigator,
-200,000 GPU hours
-
-**Danish Foundation Models** (2025–2029)
-Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 5 PhD students
+**Danish Foundation Models** (2025–2028)
+Consortium: University of Southern Denmark, Aarhus University, Alexandra Institute, Copenhagen University. Role: Work package leader
 
 ## Selected publications
 
-- Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp (2026). DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes. *AAAI*.
-- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. To appear in: *AACL-IJCNLP Findings*.
+- Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen, Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. *AIES*.
+- Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech (2026). Training Language Models to Use Prolog as a Tool. *ACL Findings*.
+- Danial Namazifard and Lukas Galke (2025). Isolating Culture Neurons in Multilingual Large Language Models. *AACL-IJCNLP Findings*.
 - Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke (2025). Guarded Query Routing for Large Language Models. *ECAI*.
-- Jacob Nielsen, Peter Schneider-Kamp, and Lukas Galke (2025). Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? *ACL Findings*.
-- Lukas Galke, Yoav Ram, and Limor Raviv (2024) Deep neural networks and humans both benefit from compositional language structure. Nature Communications 15:10816.
+- Lukas Galke, Yoav Ram, and Limor Raviv (2024) Deep neural networks and humans both benefit from compositional language structure. *Nature Communications* **15**:10816.
 
 ## Selected invited talks
 
@@ -64,14 +53,13 @@ Danish Government Initiative, Work Package Co-Lead (Evaluation), co-supervising 
 
 ## Teaching experience
 
-- AI509: **Natural Language Processing** -- Fall 2025, SDU (main lecturer)
-- AI508: **Computer Vision** -- Fall 2025, SDU (co-lecturer)
-- DSK809: **Deep Learning** -- Fall 2025, SDU (responsible)
-- AI506: **Advanced Machine Learning** -- Spring 2025, SDU (main lecturer)
-- DM873/DS809: **Deep Learning** -- Fall 2024, SDU (main lecturer)
+- Natural Language Processing (2025, 2026)
+- Computer Vision (co-teacher; 2025, 2026)
+- Advanced Machine Learning (2025, 2026)
+- Deep Learning (2024)
 
 ## Academic service
 
 - **Program Chair**: ICNLSP 2025
-- **Program Committee**: ACL, EMNLP, ICLR, ICML, AAAI, ECAI, ...
+- **Program Committee**: ACL, EMNLP, NeurIPS, ICLR, ICML, AAAI, ECAI, ...
 - **Journal Reviewer**: Nature Human Behavior, Nature Communications, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Knowledge and Data Engineering, Neural Networks, Pattern Recognition, Journal of Artificial Intelligence Research (JAIR), ...
