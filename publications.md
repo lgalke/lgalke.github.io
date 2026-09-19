@@ -4,6 +4,7 @@ title: Publications
 
 ## 2026
 
+- Ansgar Scherp, Andor Diera, Fabian Karl, Bao Xin Lin, Bhakti Khera, Tim Meuser, Tushar Singhal, Lukas Galke Poech (2026) Are we really making much progress in text classification? A comparative review. Accepted for IEEE Transactions on Knowledge and Data Engineering. [preprint](https://arxiv.org/abs/2204.03954) 
 - Andor Diera, Lukas Galke Poech, Matthias Tichy (2026). Rethinking Pivot Programming Languages in Code Language Models. EMNLP.
 - Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen,
 Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech (2026). Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES). [preprint](https://arxiv.org/abs/2605.31170) [code](https://github.com/aisilab/emergent-languages}) [data](https://huggingface.co/datasets/aisilab/MoltSpeech)
