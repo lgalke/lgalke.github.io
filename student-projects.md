@@ -3,9 +3,13 @@ title: Student Projects
 exclude: true
 ---
 
-Supervised or co-supervised student projects (bachelor thesis, master thesis, or group project).
+Supervised student projects (bachelor thesis, master thesis, or group project).
 
 ---
+
+Mads Lundegaard (2026). Agentic AI for Transparent Boolean Query Formulation: Retrieval-Augmented Generation and Iterative Optimization. Master's thesis, SDU.
+
+Benjamin Benedict Ahlefeldt-Laurvig (2026). Growing Model Organisms for Emergent Misalignment in Small Language Models. Bachelor's thesis, SDU.
 
 Lucas Bergholdt Hansen (2026). Emergent Behavior in Energy-Constrained LLM-based Multi-Agent Systems. Bachelor's thesis, SDU.
 
