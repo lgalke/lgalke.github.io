@@ -7,6 +7,8 @@ Supervised student projects (bachelor thesis, master thesis, or group project).
 
 ---
 
+Piuan Sadi (2026). Beyond Final Answer Quality: Measuring and Improving the Reliability of Tool-Use Decisions in Function-Calling Language Models. Master's thesis, SDU.
+
 Mads Lundegaard (2026). Agentic AI for Transparent Boolean Query Formulation: Retrieval-Augmented Generation and Iterative Optimization. Master's thesis, SDU.
 
 Benjamin Benedict Ahlefeldt-Laurvig (2026). Growing Model Organisms for Emergent Misalignment in Small Language Models. Bachelor's thesis, SDU.
