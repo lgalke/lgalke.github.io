@@ -4,7 +4,8 @@ title: Talks
 
 ## Invited talks
 
-- [t46] **mechanistic interpretability**, 2026, August 22. Danish AI Safety Conrerence, Copenhagen, Denmark. [[slides]](https://canva.link/hawc836jc8njfw5)
+- [t47] **hierarchical reasoning models, deconstructed**, 2026, October 9, Danish Digitalization, Data Science and AI conference (D3A), Nyborg, Denmark. [slides](https://canva.link/383242ldf63ckic)
+- [t46] **mechanistic interpretability**, 2026, August 22. Danish AI Safety Conference, Copenhagen, Denmark. [[slides]](https://canva.link/hawc836jc8njfw5)
 - [t45] **Isolating Culture Neurons in Multilingual Large Language Models**, 2026, March 17. [HumanCLAIM](https://clap-lab.github.io/workshop.html) workshop, Göttingen, Germany.
 - [t44] **Cooperation, Culture, and Coordination in Neural Ecosystems**, 2026, Feb 11. Lamarr NLP Colloquium, Lamarr Institute for Artificial Intelligence and Machine Learning, Bonn, Germany (hybrid). [[slides]](/assets/slides/CCCNE-lgp-Feb11-2026.pdf) [[event]](https://events.lamarr-institute.org/event/372/)
 - [t43] **LLM-Assisted Paper Reading. Teaching with AI**, 2026, January 21. Science Education Hub, SDU, Odense, Denmark.
